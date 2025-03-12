@@ -1,9 +1,11 @@
 # LeetCode
 
-Total Problems:
-Easy:
-Medium:
-Hard:
+|Total Problems| 2 |
+| --- | --- |
+| Easy | 0 |
+| Medium | 2 |
+| Hard | 0|
+
 
 | # | Problem | Difficulty|
 | --- | --- | --- |
