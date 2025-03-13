@@ -1,7 +1,8 @@
 # LeetCode
 
 ### **Total Problems: 5**
-#### *Easy: 1* | *Medium: 4* | *Hard: 0*
+| *Easy: 1* | *Medium: 4* | *Hard: 0* |
+| --- | --- | ---|
 
 | # | Problem | Difficulty|
 | --- | --- | --- |

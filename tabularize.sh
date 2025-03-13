@@ -49,10 +49,10 @@ for folder in "$PARENT_FOLDER"/[0-9]*/; do
 
     # Form table entry
     LINE="| $new_total_counter | [$QUES](/python/${LOC}) | $DIFFICULTY |"
-    #echo $LINE >> ./README.md
+    echo $LINE >> ./README.md
 
     # Move solution to python dir
-    #mv ${folder} ./python/.
+    mv ${folder} ./python/.
   fi
 done
 
