@@ -15,18 +15,15 @@ for folder in "$PARENT_FOLDER"/[0-9]*/; do
 	PROB_README=${folder}/README.md
 
 	# Get the problem number
-	#counter=$(grep -oP '(?<=Total=)[0-9]+' ./README.md)
-	#new_counter=$((counter + 1))
-	#sed -i "s/Total=$counter/Total=$new_counter/" ./README.md
+	counter=$(grep -oP '(?<=Total=)[0-9]+' ./README.md)
+	new_counter=$((counter + 1))
+	sed -i "s/Total=$counter/Total=$new_counter/" ./README.md
 
 	# Extract the title from the <h2> tag
 	TITLE=$(grep -oP '(?<=<h2>).*?(?=</h2>)' "$PROB_README")
 	PROB=$(echo "$TITLE" | grep -oP '(?<=<a href=")[^"]+' | awk -F '/' '{if($NF == "") print $(NF - 1); else print $NF}')
 	QUES=$(echo "$PROB" | sed 's/-/ /g')
 
-	echo $TITLE
-	echo $PROB
-	echo $QUES
 	# Extract the difficulty from the <h3> tag
 	DIFFICULTY=$(grep -oP '(?<=<h3>).*?(?=</h3>)' "$PROB_README")
 
@@ -34,11 +31,11 @@ for folder in "$PARENT_FOLDER"/[0-9]*/; do
 	LOC=$(echo "$folder" | sed 's/^..//')
 
 	# Form column entry
-	#LINE="| $new_counter | [$QUES](/python/${LOC}) | $DIFFICULTY |"
+	LINE="| $new_counter | [$QUES](/python/${LOC}) | $DIFFICULTY |"
 
-	#echo $LINE >> ./README.md
+	echo $LINE >> ./README.md
 
-        #mv ${folder} ./python/.
+        mv ${folder} ./python/.
     fi
 done
 
