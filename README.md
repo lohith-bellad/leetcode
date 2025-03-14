@@ -21,6 +21,6 @@
 | 13 | [binary tree maximum path sum](/python/0124-binary-tree-maximum-path-sum/) | Hard |
 | 14 | [find the index of the first occurrence in a string](/python/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | 15 | [valid anagram](/python/0242-valid-anagram/) | Easy |
-| 16 | [?envType=study plan v2&envId=programming skills](/python/0283-move-zeroes/) | Easy |
-| 17 | [find the difference](/python/0389-find-the-difference/) | Easy |
-| 18 | [repeated substring pattern](/python/0459-repeated-substring-pattern/) | Easy |
+| 16 | [find the difference](/python/0389-find-the-difference/) | Easy |
+| 17 | [repeated substring pattern](/python/0459-repeated-substring-pattern/) | Easy |
+| 18 | [move zeroes](/python/0283-move-zeroes/) | Easy |
