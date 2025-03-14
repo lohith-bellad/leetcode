@@ -1,14 +1,12 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        zero_ptr = 0
+        pivot = 0
+        idx = 0
 
-        for ind in range(len(nums)):
-            if nums[zero_ptr] == 0 and nums[ind] != 0:
-                nums[zero_ptr] = nums[ind]
-                nums[ind] = 0
-
-            if nums[zero_ptr] != 0:
-                zero_ptr += 1
+        while idx < len(nums):
+            if nums[idx] != 0:
+                nums[idx], nums[pivot] = nums[pivot], nums[idx]
+                pivot += 1
+            idx += 1
+        
+        return
