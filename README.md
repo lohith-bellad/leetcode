@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 13**
-| *Easy: 2* | *Medium: 10* | *Hard: 1* |
+### **Total Problems: 18**
+| *Easy: 7* | *Medium: 10* | *Hard: 1* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -19,3 +19,8 @@
 | 11 | [rank teams by votes](/python/1483-rank-teams-by-votes/) | Medium |
 | 12 | [design sql](/python/2408-design-sql/) | Medium |
 | 13 | [binary tree maximum path sum](/python/0124-binary-tree-maximum-path-sum/) | Hard |
+| 14 | [find the index of the first occurrence in a string](/python/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| 15 | [valid anagram](/python/0242-valid-anagram/) | Easy |
+| 16 | [?envType=study plan v2&envId=programming skills](/python/0283-move-zeroes/) | Easy |
+| 17 | [find the difference](/python/0389-find-the-difference/) | Easy |
+| 18 | [repeated substring pattern](/python/0459-repeated-substring-pattern/) | Easy |
