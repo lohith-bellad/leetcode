@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 18**
-| *Easy: 7* | *Medium: 10* | *Hard: 1* |
+### **Total Problems: 23**
+| *Easy: 12* | *Medium: 10* | *Hard: 1* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -24,3 +24,8 @@
 | 16 | [find the difference](/python/0389-find-the-difference/) | Easy |
 | 17 | [repeated substring pattern](/python/0459-repeated-substring-pattern/) | Easy |
 | 18 | [move zeroes](/python/0283-move-zeroes/) | Easy |
+| 19 | [roman to integer](/python/0013-roman-to-integer/) | Easy |
+| 20 | [plus one](/python/0066-plus-one/) | Easy |
+| 21 | [monotonic array](/python/0896-monotonic-array/) | Easy |
+| 22 | [can make arithmetic progression from sequence](/python/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| 23 | [sign of the product of an array](/python/1822-sign-of-the-product-of-an-array/) | Easy |
