@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 12**
-| *Easy: 2* | *Medium: 10* | *Hard: 0* |
+### **Total Problems: 13**
+| *Easy: 2* | *Medium: 10* | *Hard: 1* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -18,3 +18,4 @@
 | 10 | [reorganize string](/python/0767-reorganize-string/) | Medium |
 | 11 | [rank teams by votes](/python/1483-rank-teams-by-votes/) | Medium |
 | 12 | [design sql](/python/2408-design-sql/) | Medium |
+| 13 | [binary tree maximum path sum](/python/0124-binary-tree-maximum-path-sum/) | Hard |
