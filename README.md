@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 31**
-| *Easy: 14* | *Medium: 16* | *Hard: 1* |
+### **Total Problems: 35**
+| *Easy: 15* | *Medium: 18* | *Hard: 2* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -37,3 +37,7 @@
 | 29 | [product of array except self](/python/0238-product-of-array-except-self/) | Medium |
 | 30 | [encode and decode strings](/python/0271-encode-and-decode-strings/) | Medium |
 | 31 | [top k frequent elements](/python/0347-top-k-frequent-elements/) | Medium |
+| 32 | [container with most water](/python/0011-container-with-most-water/) | Medium |
+| 33 | [trapping rain water](/python/0042-trapping-rain-water/) | Hard |
+| 34 | [valid palindrome](/python/0125-valid-palindrome/) | Easy |
+| 35 | [two sum ii input array is sorted](/python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
