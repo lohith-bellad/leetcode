@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 23**
-| *Easy: 12* | *Medium: 10* | *Hard: 1* |
+### **Total Problems: 31**
+| *Easy: 14* | *Medium: 16* | *Hard: 1* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -29,3 +29,11 @@
 | 21 | [monotonic array](/python/0896-monotonic-array/) | Easy |
 | 22 | [can make arithmetic progression from sequence](/python/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | 23 | [sign of the product of an array](/python/1822-sign-of-the-product-of-an-array/) | Easy |
+| 24 | [two sum](/python/0001-two-sum/) | Easy |
+| 25 | [valid sudoku](/python/0036-valid-sudoku/) | Medium |
+| 26 | [longest consecutive sequence](/python/0128-longest-consecutive-sequence/) | Medium |
+| 27 | [min stack](/python/0155-min-stack/) | Medium |
+| 28 | [contains duplicate](/python/0217-contains-duplicate/) | Easy |
+| 29 | [product of array except self](/python/0238-product-of-array-except-self/) | Medium |
+| 30 | [encode and decode strings](/python/0271-encode-and-decode-strings/) | Medium |
+| 31 | [top k frequent elements](/python/0347-top-k-frequent-elements/) | Medium |
