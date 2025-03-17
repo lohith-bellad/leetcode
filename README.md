@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 35**
-| *Easy: 15* | *Medium: 18* | *Hard: 2* |
+### **Total Problems: 41**
+| *Easy: 16* | *Medium: 22* | *Hard: 3* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -41,3 +41,9 @@
 | 33 | [trapping rain water](/python/0042-trapping-rain-water/) | Hard |
 | 34 | [valid palindrome](/python/0125-valid-palindrome/) | Easy |
 | 35 | [two sum ii input array is sorted](/python/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| 36 | [valid parentheses](/python/0020-valid-parentheses/) | Easy |
+| 37 | [generate parentheses](/python/0022-generate-parentheses/) | Medium |
+| 38 | [largest rectangle in histogram](/python/0084-largest-rectangle-in-histogram/) | Hard |
+| 39 | [evaluate reverse polish notation](/python/0150-evaluate-reverse-polish-notation/) | Medium |
+| 40 | [daily temperatures](/python/0739-daily-temperatures/) | Medium |
+| 41 | [car fleet](/python/0853-car-fleet/) | Medium |
