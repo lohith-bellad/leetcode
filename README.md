@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 45**
-| *Easy: 17* | *Medium: 25* | *Hard: 3* |
+### **Total Problems: 50**
+| *Easy: 19* | *Medium: 28* | *Hard: 3* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -51,3 +51,8 @@
 | 43 | [diameter of binary tree](/python/0543-diameter-of-binary-tree/) | Easy |
 | 44 | [subarray product less than k](/python/0713-subarray-product-less-than-k/) | Medium |
 | 45 | [minimum remove to make valid parentheses](/python/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| 46 | [evaluate division](/python/0399-evaluate-division/) | Medium |
+| 47 | [valid word abbreviation](/python/0408-valid-word-abbreviation/) | Easy |
+| 48 | [valid palindrome ii](/python/0680-valid-palindrome-ii/) | Easy |
+| 49 | [stock price fluctuation](/python/2034-stock-price-fluctuation/) | Medium |
+| 50 | [zero array transformation i](/python/3355-zero-array-transformation-i/) | Medium |
