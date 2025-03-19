@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 41**
-| *Easy: 16* | *Medium: 22* | *Hard: 3* |
+### **Total Problems: 45**
+| *Easy: 17* | *Medium: 25* | *Hard: 3* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -47,3 +47,7 @@
 | 39 | [evaluate reverse polish notation](/python/0150-evaluate-reverse-polish-notation/) | Medium |
 | 40 | [daily temperatures](/python/0739-daily-temperatures/) | Medium |
 | 41 | [car fleet](/python/0853-car-fleet/) | Medium |
+| 42 | [lru cache](/python/0146-lru-cache/) | Medium |
+| 43 | [diameter of binary tree](/python/0543-diameter-of-binary-tree/) | Easy |
+| 44 | [subarray product less than k](/python/0713-subarray-product-less-than-k/) | Medium |
+| 45 | [minimum remove to make valid parentheses](/python/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
