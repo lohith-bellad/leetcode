@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 58**
-| *Easy: 20* | *Medium: 34* | *Hard: 4* |
+### **Total Problems: 60**
+| *Easy: 21* | *Medium: 35* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -64,3 +64,5 @@
 | 56 | [maximum sum circular subarray](/python/0918-maximum-sum-circular-subarray/) | Medium |
 | 57 | [longest turbulent subarray](/python/0978-longest-turbulent-subarray/) | Medium |
 | 58 | [number of sub arrays of size k and average greater than or equal to threshold](/python/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| 59 | [remove duplicates from sorted array](/python/0026-remove-duplicates-from-sorted-array/) | Easy |
+| 60 | [find all anagrams in a string](/python/0438-find-all-anagrams-in-a-string/) | Medium |
