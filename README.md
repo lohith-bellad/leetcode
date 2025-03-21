@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 50**
-| *Easy: 19* | *Medium: 28* | *Hard: 3* |
+### **Total Problems: 58**
+| *Easy: 20* | *Medium: 34* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -56,3 +56,11 @@
 | 48 | [valid palindrome ii](/python/0680-valid-palindrome-ii/) | Easy |
 | 49 | [stock price fluctuation](/python/2034-stock-price-fluctuation/) | Medium |
 | 50 | [zero array transformation i](/python/3355-zero-array-transformation-i/) | Medium |
+| 51 | [longest substring without repeating characters](/python/0003-longest-substring-without-repeating-characters/) | Medium |
+| 52 | [first missing positive](/python/0041-first-missing-positive/) | Hard |
+| 53 | [maximum subarray](/python/0053-maximum-subarray/) | Medium |
+| 54 | [minimum size subarray sum](/python/0209-minimum-size-subarray-sum/) | Medium |
+| 55 | [contains duplicate ii](/python/0219-contains-duplicate-ii/) | Easy |
+| 56 | [maximum sum circular subarray](/python/0918-maximum-sum-circular-subarray/) | Medium |
+| 57 | [longest turbulent subarray](/python/0978-longest-turbulent-subarray/) | Medium |
+| 58 | [number of sub arrays of size k and average greater than or equal to threshold](/python/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
