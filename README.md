@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 66**
-| *Easy: 23* | *Medium: 39* | *Hard: 4* |
+### **Total Problems: 71**
+| *Easy: 25* | *Medium: 42* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -72,3 +72,8 @@
 | 64 | [longest repeating character replacement](/python/0424-longest-repeating-character-replacement/) | Medium |
 | 65 | [subarray sum equals k](/python/0560-subarray-sum-equals-k/) | Medium |
 | 66 | [find pivot index](/python/0724-find-pivot-index/) | Easy |
+| 67 | [linked list cycle](/python/0141-linked-list-cycle/) | Easy |
+| 68 | [linked list cycle ii](/python/0142-linked-list-cycle-ii/) | Medium |
+| 69 | [find the duplicate number](/python/0287-find-the-duplicate-number/) | Medium |
+| 70 | [middle of the linked list](/python/0876-middle-of-the-linked-list/) | Easy |
+| 71 | [maximum twin sum of a linked list](/python/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
