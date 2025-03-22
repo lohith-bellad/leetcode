@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 60**
-| *Easy: 21* | *Medium: 35* | *Hard: 4* |
+### **Total Problems: 66**
+| *Easy: 23* | *Medium: 39* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -66,3 +66,9 @@
 | 58 | [number of sub arrays of size k and average greater than or equal to threshold](/python/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | 59 | [remove duplicates from sorted array](/python/0026-remove-duplicates-from-sorted-array/) | Easy |
 | 60 | [find all anagrams in a string](/python/0438-find-all-anagrams-in-a-string/) | Medium |
+| 61 | [remove duplicates from sorted array ii](/python/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| 62 | [range sum query immutable](/python/0303-range-sum-query-immutable/) | Easy |
+| 63 | [range sum query 2d immutable](/python/0304-range-sum-query-2d-immutable/) | Medium |
+| 64 | [longest repeating character replacement](/python/0424-longest-repeating-character-replacement/) | Medium |
+| 65 | [subarray sum equals k](/python/0560-subarray-sum-equals-k/) | Medium |
+| 66 | [find pivot index](/python/0724-find-pivot-index/) | Easy |
