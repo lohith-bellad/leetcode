@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 83**
-| *Easy: 30* | *Medium: 49* | *Hard: 4* |
+### **Total Problems: 87**
+| *Easy: 32* | *Medium: 51* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -89,3 +89,7 @@
 | 81 | [can place flowers](/python/0605-can-place-flowers/) | Easy |
 | 82 | [greatest common divisor of strings](/python/1071-greatest-common-divisor-of-strings/) | Easy |
 | 83 | [kids with the greatest number of candies](/python/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| 84 | [unique number of occurrences](/python/1207-unique-number-of-occurrences/) | Easy |
+| 85 | [determine if two strings are close](/python/1657-determine-if-two-strings-are-close/) | Medium |
+| 86 | [find the difference of two arrays](/python/2215-find-the-difference-of-two-arrays/) | Easy |
+| 87 | [equal row and column pairs](/python/2352-equal-row-and-column-pairs/) | Medium |
