@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 76**
-| *Easy: 26* | *Medium: 46* | *Hard: 4* |
+### **Total Problems: 83**
+| *Easy: 30* | *Medium: 49* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -82,3 +82,10 @@
 | 74 | [reorder list](/python/0143-reorder-list/) | Medium |
 | 75 | [binary search](/python/0704-binary-search/) | Easy |
 | 76 | [koko eating bananas](/python/0875-koko-eating-bananas/) | Medium |
+| 77 | [search a 2d matrix](/python/0074-search-a-2d-matrix/) | Medium |
+| 78 | [reverse words in a string](/python/0151-reverse-words-in-a-string/) | Medium |
+| 79 | [increasing triplet subsequence](/python/0334-increasing-triplet-subsequence/) | Medium |
+| 80 | [reverse vowels of a string](/python/0345-reverse-vowels-of-a-string/) | Easy |
+| 81 | [can place flowers](/python/0605-can-place-flowers/) | Easy |
+| 82 | [greatest common divisor of strings](/python/1071-greatest-common-divisor-of-strings/) | Easy |
+| 83 | [kids with the greatest number of candies](/python/1431-kids-with-the-greatest-number-of-candies/) | Easy |
