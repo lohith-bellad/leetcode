@@ -8,11 +8,7 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        def printn(head: ListNode):
-            while head != None:
-                print(head.val)
-                head = head.next
-            
+
         def reverse(head: ListNode) -> ListNode:
             prev = None
 
@@ -26,7 +22,7 @@ class Solution:
 
         if head.next == None or head.next.next == None:
             return None
-            
+
         slow = head
         fast = head
 
