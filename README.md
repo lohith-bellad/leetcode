@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 87**
-| *Easy: 32* | *Medium: 51* | *Hard: 4* |
+### **Total Problems: 92**
+| *Easy: 34* | *Medium: 54* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -93,3 +93,8 @@
 | 85 | [determine if two strings are close](/python/1657-determine-if-two-strings-are-close/) | Medium |
 | 86 | [find the difference of two arrays](/python/2215-find-the-difference-of-two-arrays/) | Easy |
 | 87 | [equal row and column pairs](/python/2352-equal-row-and-column-pairs/) | Medium |
+| 88 | [merge two sorted lists](/python/0021-merge-two-sorted-lists/) | Easy |
+| 89 | [reverse linked list](/python/0206-reverse-linked-list/) | Easy |
+| 90 | [odd even linked list](/python/0328-odd-even-linked-list/) | Medium |
+| 91 | [?envType=study plan v2&envId=programming skills](/python/0445-add-two-numbers-ii/) | Medium |
+| 92 | [delete the middle node of a linked list](/python/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
