@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 92**
-| *Easy: 34* | *Medium: 54* | *Hard: 4* |
+### **Total Problems: 102**
+| *Easy: 37* | *Medium: 61* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -98,3 +98,13 @@
 | 90 | [odd even linked list](/python/0328-odd-even-linked-list/) | Medium |
 | 91 | [?envType=study plan v2&envId=programming skills](/python/0445-add-two-numbers-ii/) | Medium |
 | 92 | [delete the middle node of a linked list](/python/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| 93 | [best time to buy and sell stock](/python/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| 94 | [is subsequence](/python/0392-is-subsequence/) | Easy |
+| 95 | [decode string](/python/0394-decode-string/) | Medium |
+| 96 | [maximum average subarray i](/python/0643-maximum-average-subarray-i/) | Easy |
+| 97 | [asteroid collision](/python/0735-asteroid-collision/) | Medium |
+| 98 | [max consecutive ones iii](/python/1004-max-consecutive-ones-iii/) | Medium |
+| 99 | [maximum number of vowels in a substring of given length](/python/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| 100 | [longest subarray of 1s after deleting one element](/python/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| 101 | [max number of k sum pairs](/python/1679-max-number-of-k-sum-pairs/) | Medium |
+| 102 | [removing stars from a string](/python/2390-removing-stars-from-a-string/) | Medium |
