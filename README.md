@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 71**
-| *Easy: 25* | *Medium: 42* | *Hard: 4* |
+### **Total Problems: 76**
+| *Easy: 26* | *Medium: 46* | *Hard: 4* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -77,3 +77,8 @@
 | 69 | [find the duplicate number](/python/0287-find-the-duplicate-number/) | Medium |
 | 70 | [middle of the linked list](/python/0876-middle-of-the-linked-list/) | Easy |
 | 71 | [maximum twin sum of a linked list](/python/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| 72 | [add two numbers](/python/0002-add-two-numbers/) | Medium |
+| 73 | [remove nth node from end of list](/python/0019-remove-nth-node-from-end-of-list/) | Medium |
+| 74 | [reorder list](/python/0143-reorder-list/) | Medium |
+| 75 | [binary search](/python/0704-binary-search/) | Easy |
+| 76 | [koko eating bananas](/python/0875-koko-eating-bananas/) | Medium |
