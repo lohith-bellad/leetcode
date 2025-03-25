@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 102**
-| *Easy: 37* | *Medium: 61* | *Hard: 4* |
+### **Total Problems: 112**
+| *Easy: 42* | *Medium: 65* | *Hard: 5* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -108,3 +108,14 @@
 | 100 | [longest subarray of 1s after deleting one element](/python/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | 101 | [max number of k sum pairs](/python/1679-max-number-of-k-sum-pairs/) | Medium |
 | 102 | [removing stars from a string](/python/2390-removing-stars-from-a-string/) | Medium |
+| 103 | [reverse integer](/python/0007-reverse-integer/) | Medium |
+| 104 | [single number](/python/0136-single-number/) | Easy |
+| 105 | [single number ii](/python/0137-single-number-ii/) | Medium |
+| 106 | [copy list with random pointer](/python/0138-copy-list-with-random-pointer/) | Medium |
+| 107 | [reverse bits](/python/0190-reverse-bits/) | Easy |
+| 108 | [number of 1 bits](/python/0191-number-of-1-bits/) | Easy |
+| 109 | [bitwise and of numbers range](/python/0201-bitwise-and-of-numbers-range/) | Medium |
+| 110 | [missing number](/python/0268-missing-number/) | Easy |
+| 111 | [counting bits](/python/0338-counting-bits/) | Easy |
+| 112 | [sum of two integers](/python/0371-sum-of-two-integers/) | Medium |
+| 113 | [](/python/0399-evaluate-division/) | |
