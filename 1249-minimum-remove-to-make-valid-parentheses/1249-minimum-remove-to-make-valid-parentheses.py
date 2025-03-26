@@ -19,7 +19,7 @@ class Solution:
         if len(bracket) == 0:
             return "".join(output)
 
-        while len(bracket) > 0:
+        if len(bracket) > 0:
             bracket.pop()
             closed = 0
             while len(output) > 0:
