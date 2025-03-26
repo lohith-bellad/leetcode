@@ -1,17 +1,10 @@
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
         my_stack = []
-        output = []
 
         for i in range(len(heights)):
-            my_stack.append((heights[i], i))
+            while len(my_stack) > 0 and heights[my_stack[-1]] <= heights[i]:
+                my_stack.pop()
+            my_stack.append(i)
         
-        block = 0
-        while len(my_stack) > 0:
-            building, idx = my_stack.pop()
-            if building > block:
-                output.append(idx)
-                block = building
-        
-        output.reverse()
-        return output
+        return my_stack
