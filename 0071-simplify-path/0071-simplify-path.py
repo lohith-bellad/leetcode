@@ -4,14 +4,12 @@ class Solution:
         my_stack = []
 
         for item in path_list:
-            if item == "":
+            if item == "" or item == ".":
                 continue
             
             if item == "..":
                 if len(my_stack) > 0:
                     my_stack.pop()
-            elif item == ".":
-                continue
             else:
                 my_stack.append(item)
         
