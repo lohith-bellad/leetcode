@@ -15,7 +15,6 @@ class Solution:
                 else:
                     op = elem
             
-            print(f"result = {num}")
             return num
 
         s = "(" + s + ")"
