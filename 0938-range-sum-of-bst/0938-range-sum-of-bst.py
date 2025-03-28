@@ -11,10 +11,15 @@ class Solution:
             if root == None:
                 return
             
-            traverse(root.left, low, high)
             if low <= root.val <= high:
                 self.total += root.val
-            traverse(root.right, low, high)
+                traverse(root.left, low, high)
+                traverse(root.right, low, high)
+            elif root.val < low:
+                traverse(root.right, low, high)
+            else:
+                traverse(root.left, low, high)
+
 
         traverse(root, low, high)
         return self.total
