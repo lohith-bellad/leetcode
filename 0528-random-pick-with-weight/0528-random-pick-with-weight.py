@@ -6,8 +6,6 @@ class Solution:
         for n in w:
             self.total += n
             self.prefix_sum.append(self.total)
-        
-        print(self.prefix_sum)
 
     def pickIndex(self) -> int:
         r_num = self.total * random.random()
