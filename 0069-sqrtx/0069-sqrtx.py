@@ -1,8 +1,19 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        guess = 1
+        if x < 2:
+            return x
 
-        while (guess * guess) <= x:
-            guess += 1
+        start = 2
+        end = x // 2
+
+        while start <= end:
+            mid = start + (end - start) // 2
+
+            if mid * mid == x:
+                return mid
+            elif mid * mid > x:
+                end = mid - 1
+            else:
+                start = mid + 1
         
-        return guess - 1
+        return end
