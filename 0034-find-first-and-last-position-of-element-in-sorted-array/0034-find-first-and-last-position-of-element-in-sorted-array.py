@@ -26,12 +26,16 @@ class Solution:
         if start == -1:
             output.append(mid)
         else:
-            output.append(start)
+            while start >= 0 and nums[start] == target:
+                start -= 1
+            output.append(start + 1)
         
         end = binary_find(nums, mid + 1, len(nums) - 1)
         if end == -1:
             output.append(mid)
         else:
-            output.append(end)
+            while end < len(nums) and nums[end] == target:
+                end += 1
+            output.append(end - 1)
         
         return output
