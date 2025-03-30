@@ -5,33 +5,22 @@ class Solution:
         output = []
         carry = 0
 
-        while num1_list and num2_list:
-            a = int(num1_list.pop())
-            b = int(num2_list.pop())
+        while num1_list or num2_list:
+            if num1_list:
+                a = int(num1_list.pop())
+            else:
+                a = 0
+            
+            if num2_list:
+                b = int(num2_list.pop())
+            else:
+                b = 0
+
             total = a + b + carry
             carry = total // 10
             total = total % 10
             output.append(str(total))
         
-        rem = None
-        if num1_list:
-            rem = num1_list
-        elif num2_list:
-            rem = num2_list
-        
-        while rem:
-            total = int(rem.pop()) + carry
-            carry = total // 10
-            total = total % 10
-            output.append(str(total))
-        
-        """
-        while num2_list:
-            total = int(num2_list.pop()) + carry
-            carry = total // 10
-            total = total % 10
-            output.append(str(total))
-        """
         if carry > 0:
             output.append(str(carry))
         
