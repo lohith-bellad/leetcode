@@ -1,41 +1,26 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        def binary_find(nums: [int], start: int, end: int) -> int:
-            ind = -1
+        def binary_find(nums: [int], start: int, end: int, is_first: bool) -> int:
             while start <= end:
                 mid = start + (end - start) // 2
 
                 if nums[mid] == target:
-                    ind = mid
-                    break
-            
-                if nums[mid] > target:
+                    if is_first:
+                        if mid == start or nums[mid - 1] < target:
+                            return mid
+                        end = mid - 1
+                    else:
+                        if mid == end or nums[mid + 1] > target:
+                            return mid
+                        start = mid + 1
+                elif nums[mid] > target:
                     end = mid - 1
                 else:
                     start = mid + 1
         
-            return ind
+            return -1
         
-        output = []
-        mid = binary_find(nums, 0, len(nums) - 1)
-
-        if mid == -1:
-            return [-1, -1]
+        start = binary_find(nums, 0, len(nums) - 1, True)
+        end = binary_find(nums, 0, len(nums) - 1, False)
         
-        start = binary_find(nums, 0, mid - 1)
-        if start == -1:
-            output.append(mid)
-        else:
-            while start >= 0 and nums[start] == target:
-                start -= 1
-            output.append(start + 1)
-        
-        end = binary_find(nums, mid + 1, len(nums) - 1)
-        if end == -1:
-            output.append(mid)
-        else:
-            while end < len(nums) and nums[end] == target:
-                end += 1
-            output.append(end - 1)
-        
-        return output
+        return [start, end]
