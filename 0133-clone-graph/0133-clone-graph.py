@@ -18,7 +18,7 @@ class Solution:
         queue.append(node)
 
         while len(queue) > 0:
-            n = queue.pop()
+            n = queue.popleft()
 
             new_node = Node(n.val)
             mapping[n.val] = new_node
