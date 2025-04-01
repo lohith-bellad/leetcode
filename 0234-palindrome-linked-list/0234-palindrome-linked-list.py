@@ -5,11 +5,6 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        def lprint(root):
-            while root != None:
-                print(root.val)
-                root = root.next
-
         def reverse(root) -> ListNode:
             prev = None
 
@@ -35,7 +30,6 @@ class Solution:
         slow.next = None
         second_head = reverse(temp)
 
-        lprint(head)
         while head and second_head:
             if head.val != second_head.val:
                 return False
