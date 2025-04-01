@@ -11,11 +11,7 @@ class Solution:
                 return None
             
             root = TreeNode(preorder[0])
-            mid = 0
-            for i in range(len(inorder)):
-                if inorder[i] == preorder[0]:
-                    mid = i
-                    break
+            mid = inorder.index(preorder[0])
             
             root.left = traverse(preorder[1:mid + 1], inorder[:mid])
             root.right = traverse(preorder[mid + 1:], inorder[mid + 1:])
