@@ -6,22 +6,16 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def traverse(root: TreeNode, arr: []):
+        def traverse(root: TreeNode, num: int) -> bool:
             if root == None:
-                return
+                return True
             
-            traverse(root.left, arr)
-            arr.append(root.val)
-            traverse(root.right, arr)
-
-            return
-
-        inp = []
-        traverse(root, inp)
-
-        for i in range(len(inp) - 1):
-            if inp[i] >= inp[i + 1]:
+            left = traverse(root.left, num)
+            if root.val <= num:
                 return False
-        
-        return True
+            right = traverse(root.right, root.val)
+
+            return left and right
+
+        return traverse(root, float('-inf'))
 
