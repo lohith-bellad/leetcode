@@ -20,9 +20,6 @@ class Solution:
             if hop_cnt > k:
                 continue
 
-            if city == dst:
-                continue
-
             for neighbor, hop_price in adj_list[city]:
                 queue.append((neighbor, price + hop_price, hop_cnt + 1))
             
