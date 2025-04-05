@@ -4,10 +4,10 @@ class Solution:
         diff = 0
 
         while idx < len(nums) - 1:
-            diff = nums[idx + 1] - nums[idx]
-            if k < diff:
+            diff = nums[idx + 1] - nums[idx] - 1
+            if k <= diff:
                 break
             idx += 1
-            k -= (diff - 1)
+            k -= diff
         
         return nums[idx] + k
