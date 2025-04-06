@@ -32,18 +32,21 @@ class Solution:
         if len(nums) < 2:
             return False
 
-        prefix_sum = []
+        prefix_mod = 0
+        mod_map = {0: -1}
+
         for i in range(len(nums)):
-            psum = sum(nums[:i + 1])
-            if psum % k == 0 and i >= 1:
-                return True
-            prefix_sum.append(psum)
-        
-        for i in range(len(nums) - 1):
-            for j in range(i + 2, len(nums)):
-                asum = prefix_sum[j] - prefix_sum[i]
-                if asum % k == 0:
+            prefix_mod += nums[i]
+            prefix_mod %= k
+
+            if prefix_mod in mod_map:
+                if i - mod_map[prefix_mod] > 1:
                     return True
+            else:
+                mod_map[prefix_mod] = i
+        
+        return False
+
         
         return False
 
