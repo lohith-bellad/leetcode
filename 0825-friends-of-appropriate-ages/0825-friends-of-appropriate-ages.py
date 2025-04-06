@@ -8,11 +8,7 @@ class Solution:
         
         for i, g1_cnt in enumerate(age_cnt):
             for j, g2_cnt in enumerate(age_cnt):
-                if j <= (0.5 * i) + 7:
-                    continue
-                if j > i:
-                    continue
-                if j > 100 and i < 100:
+                if (j <= (0.5 * i) + 7) or (j > i) or (j > 100 and i < 100):
                     continue
                 if i == j:
                     requests -= g1_cnt
