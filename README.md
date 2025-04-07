@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 112**
-| *Easy: 42* | *Medium: 65* | *Hard: 5* |
+### **Total Problems: 220**
+| *Easy: 74* | *Medium: 129* | *Hard: 17* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -118,4 +118,111 @@
 | 110 | [missing number](/python/0268-missing-number/) | Easy |
 | 111 | [counting bits](/python/0338-counting-bits/) | Easy |
 | 112 | [sum of two integers](/python/0371-sum-of-two-integers/) | Medium |
-| 113 | [](/python/0399-evaluate-division/) | |
+| 113 | [median of two sorted arrays](/python/0004-median-of-two-sorted-arrays/) | Hard |
+| 114 | [palindrome number](/python/0009-palindrome-number/) | Easy |
+| 115 | [longest common prefix](/python/0014-longest-common-prefix/) | Easy |
+| 116 | [swap nodes in pairs](/python/0024-swap-nodes-in-pairs/) | Medium |
+| 117 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/0033-search-in-rotated-sorted-array/) | Medium |
+| 118 | [find first and last position of element in sorted array](/python/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| 119 | [search insert position](/python/0035-search-insert-position/) | Easy |
+| 120 | [rotate image](/python/0048-rotate-image/) | Medium |
+| 121 | [powx n](/python/0050-powx-n/) | Medium |
+| 122 | [](/python/0053-maximum-subarray/) | |
+| 123 | [insert interval](/python/0057-insert-interval/) | Medium |
+| 124 | [rotate list](/python/0061-rotate-list/) | Medium |
+| 125 | [](/python/0066-plus-one/) | |
+| 126 | [add binary](/python/0067-add-binary/) | Easy |
+| 127 | [sqrtx](/python/0069-sqrtx/) | Easy |
+| 128 | [climbing stairs](/python/0070-climbing-stairs/) | Easy |
+| 129 | [simplify path](/python/0071-simplify-path/) | Medium |
+| 130 | [subsets](/python/0078-subsets/) | Medium |
+| 131 | [remove duplicates from sorted list ii](/python/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| 132 | [?envType=study plan v2&envId=top interview 150](/python/0086-partition-list/) | Medium |
+| 133 | [subsets ii](/python/0090-subsets-ii/) | Medium |
+| 134 | [reverse linked list ii](/python/0092-reverse-linked-list-ii/) | Medium |
+| 135 | [validate binary search tree](/python/0098-validate-binary-search-tree/) | Medium |
+| 136 | [same tree](/python/0100-same-tree/) | Easy |
+| 137 | [symmetric tree](/python/0101-symmetric-tree/) | Easy |
+| 138 | [binary tree level order traversal](/python/0102-binary-tree-level-order-traversal/) | Medium |
+| 139 | [binary tree zigzag level order traversal](/python/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| 140 | [construct binary tree from preorder and inorder traversal](/python/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| 141 | [construct binary tree from inorder and postorder traversal](/python/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| 142 | [convert sorted array to binary search tree](/python/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| 143 | [balanced binary tree](/python/0110-balanced-binary-tree/) | Easy |
+| 144 | [?envType=study plan v2&envId=top 100 liked](/python/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| 145 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| 146 | [populating next right pointers in each node ii](/python/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| 147 | [clone graph](/python/0133-clone-graph/) | Medium |
+| 148 | [](/python/0136-single-number/) | |
+| 149 | [sort list](/python/0148-sort-list/) | Medium |
+| 150 | [max points on a line](/python/0149-max-points-on-a-line/) | Hard |
+| 151 | [find minimum in rotated sorted array](/python/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| 152 | [intersection of two linked lists](/python/0160-intersection-of-two-linked-lists/) | Easy |
+| 153 | [factorial trailing zeroes](/python/0172-factorial-trailing-zeroes/) | Medium |
+| 154 | [binary search tree iterator](/python/0173-binary-search-tree-iterator/) | Medium |
+| 155 | [](/python/0190-reverse-bits/) | |
+| 156 | [](/python/0191-number-of-1-bits/) | |
+| 157 | [](/python/0199-binary-tree-right-side-view/) | |
+| 158 | [happy number](/python/0202-happy-number/) | Easy |
+| 159 | [isomorphic strings](/python/0205-isomorphic-strings/) | Easy |
+| 160 | [course schedule](/python/0207-course-schedule/) | Medium |
+| 161 | [house robber ii](/python/0213-house-robber-ii/) | Medium |
+| 162 | [basic calculator](/python/0224-basic-calculator/) | Hard |
+| 163 | [invert binary tree](/python/0226-invert-binary-tree/) | Easy |
+| 164 | [basic calculator ii](/python/0227-basic-calculator-ii/) | Medium |
+| 165 | [summary ranges](/python/0228-summary-ranges/) | Easy |
+| 166 | [kth smallest element in a bst](/python/0230-kth-smallest-element-in-a-bst/) | Medium |
+| 167 | [palindrome linked list](/python/0234-palindrome-linked-list/) | Easy |
+| 168 | [search a 2d matrix ii](/python/0240-search-a-2d-matrix-ii/) | Medium |
+| 169 | [strobogrammatic number](/python/0246-strobogrammatic-number/) | Easy |
+| 170 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/0249-group-shifted-strings/) | Medium |
+| 171 | [meeting rooms ii](/python/0253-meeting-rooms-ii/) | Medium |
+| 172 | [closest binary search tree value](/python/0270-closest-binary-search-tree-value/) | Easy |
+| 173 | [game of life](/python/0289-game-of-life/) | Medium |
+| 174 | [word pattern](/python/0290-word-pattern/) | Easy |
+| 175 | [number of connected components in an undirected graph](/python/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| 176 | [nested list weight sum](/python/0339-nested-list-weight-sum/) | Medium |
+| 177 | [kth smallest element in a sorted matrix](/python/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| 178 | [ransom note](/python/0383-ransom-note/) | Easy |
+| 179 | [add strings](/python/0415-add-strings/) | Easy |
+| 180 | [convert binary search tree to sorted doubly linked list](/python/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
+| 181 | [assign cookies](/python/0455-assign-cookies/) | Easy |
+| 182 | [diagonal traverse](/python/0498-diagonal-traverse/) | Medium |
+| 183 | [continuous subarray sum](/python/0523-continuous-subarray-sum/) | Medium |
+| 184 | [random pick with weight](/python/0528-random-pick-with-weight/) | Medium |
+| 185 | [subtree of another tree](/python/0572-subtree-of-another-tree/) | Easy |
+| 186 | [construct string from binary tree](/python/0606-construct-string-from-binary-tree/) | Medium |
+| 187 | [average of levels in binary tree](/python/0637-average-of-levels-in-binary-tree/) | Easy |
+| 188 | [maximum swap](/python/0670-maximum-swap/) | Medium |
+| 189 | [redundant connection](/python/0684-redundant-connection/) | Medium |
+| 190 | [max area of island](/python/0695-max-area-of-island/) | Medium |
+| 191 | [insert into a sorted circular linked list](/python/0708-insert-into-a-sorted-circular-linked-list/) | Medium |
+| 192 | [max stack](/python/0716-max-stack/) | Hard |
+| 193 | [accounts merge](/python/0721-accounts-merge/) | Medium |
+| 194 | [toeplitz matrix](/python/0766-toeplitz-matrix/) | Easy |
+| 195 | [cheapest flights within k stops](/python/0787-cheapest-flights-within-k-stops/) | Medium |
+| 196 | [binary tree pruning](/python/0814-binary-tree-pruning/) | Medium |
+| 197 | [friends of appropriate ages](/python/0825-friends-of-appropriate-ages/) | Medium |
+| 198 | [peak index in a mountain array](/python/0852-peak-index-in-a-mountain-array/) | Medium |
+| 199 | [find and replace pattern](/python/0890-find-and-replace-pattern/) | Medium |
+| 200 | [sort array by parity](/python/0905-sort-array-by-parity/) | Easy |
+| 201 | [minimum add to make parentheses valid](/python/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| 202 | [range sum of bst](/python/0938-range-sum-of-bst/) | Easy |
+| 203 | [check completeness of a binary tree](/python/0958-check-completeness-of-a-binary-tree/) | Medium |
+| 204 | [k closest points to origin](/python/0973-k-closest-points-to-origin/) | Medium |
+| 205 | [squares of a sorted array](/python/0977-squares-of-a-sorted-array/) | Easy |
+| 206 | [interval list intersections](/python/0986-interval-list-intersections/) | Medium |
+| 207 | [vertical order traversal of a binary tree](/python/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| 208 | [capacity to ship packages within d days](/python/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| 209 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| 210 | [missing element in sorted array](/python/1060-missing-element-in-sorted-array/) | Medium |
+| 211 | [](/python/1249-minimum-remove-to-make-valid-parentheses/) | |
+| 212 | [kth missing positive number](/python/1539-kth-missing-positive-number/) | Easy |
+| 213 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| 214 | [maximum nesting depth of the parentheses](/python/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| 215 | [lowest common ancestor of a binary tree iii](/python/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| 216 | [buildings with an ocean view](/python/1762-buildings-with-an-ocean-view/) | Medium |
+| 217 | [lowest common ancestor of a binary tree iii](/python/1790-lowest-common-ancestor-of-a-binary-tree-iii/) | Medium |
+| 218 | [count nodes equal to average of subtree](/python/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| 219 | [find missing and repeated values](/python/2965-find-missing-and-repeated-values/) | Easy |
+| 220 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/3371-identify-the-largest-outlier-in-an-array/) | Medium |
