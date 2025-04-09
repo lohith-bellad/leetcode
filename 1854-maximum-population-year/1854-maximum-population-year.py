@@ -3,9 +3,10 @@ class Solution:
         years = [0 for i in range(101)]
 
         for start, end in logs:
-            for i in range(start, end + 1):
+            for i in range(start, end):
                 years[i - 1950] += 1
 
+        print(years)
         max_pop = max(years)
 
         for i in range(len(years)):
