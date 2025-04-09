@@ -25,10 +25,10 @@ class Solution:
                 queue.append(node.right)
         
         depth = 0
-        tar = target.val
-
+        visited = set()
         queue = deque()
-        queue.append(tar)
+        queue.append(target.val)
+        visited.add(target.val)
 
         while len(queue) > 0:
             if depth == k:
@@ -39,8 +39,9 @@ class Solution:
                 node = queue.popleft()
                 neighbors = adj_list[node]
                 for n in neighbors:
-                    if n != tar:
+                    if n not in visited:
                         queue.append(n)
+                        visited.add(n)
 
         output = []
         while len(queue) > 0:
