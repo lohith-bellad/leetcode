@@ -1,45 +1,37 @@
 class TicTacToe:
 
     def __init__(self, n: int):
-        self.board = [[-2 for i in range(n)] for i in range(n)]
+        self.board = [[0 for i in range(n)] for i in range(n)]
+        self.n = n
 
     def move(self, row: int, col: int, player: int) -> int:
         self.board[row][col] = player
 
-        winner = 0
-        for i in range(len(self.board)):
-            if sum(self.board[i]) == 6:
-                winner = 2
-            elif sum(self.board[i]) == 3:
-                winner = 1
+        for i in range(self.n):
+            if self.board[row][i] != player:
+                break
+            if i == self.n - 1:
+                return player
         
-        for i in range(len(self.board)):
-            if sum([r[i] for r in self.board]) == 6:
-                winner = 2
-            elif sum([r[i] for r in self.board]) == 3:
-               
-                winner = 1
-        
-        total = 0
-        for i in range(len(self.board)):
-            total += self.board[i][i]
-        
-        if total == 6:
-            winner = 2
-        elif total == 3:
-            winner = 1
+        for i in range(self.n):
+            if self.board[i][col] != player:
+                break
+            if i == self.n - 1:
+                return player
 
-        total = 0
-        n = len(self.board) - 1
-        for i in range(len(self.board)):
-            total += self.board[i][n - i]
-        
-        if total == 6:
-            winner = 2
-        elif total == 3:
-            winner = 1
-        
-        return winner
+        for i in range(self.n):
+            if self.board[i][i] != player:
+                break
+            if i == self.n - 1:
+                return player
+
+        for i in range(self.n):
+            if self.board[i][self.n - 1 - i] != player:
+                break
+            if i == self.n - 1:
+                return player
+
+        return 0
 
 # Your TicTacToe object will be instantiated and called as such:
 # obj = TicTacToe(n)
