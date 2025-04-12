@@ -1,6 +1,9 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
-        path = [0 for i in range(1000)]
+        trips.sort(key = lambda x: x[1])
+
+        max_dist = trips[-1][2]
+        path = [0 for i in range(max_dist)]
 
         for trip in trips:
             c, start, end = trip
