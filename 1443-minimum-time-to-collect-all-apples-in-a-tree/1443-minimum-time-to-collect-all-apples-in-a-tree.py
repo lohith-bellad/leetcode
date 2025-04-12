@@ -1,6 +1,10 @@
 class Solution:
     def minTime(self, n: int, edges: List[List[int]], hasApple: List[bool]) -> int:
         def dfs(level: int):
+            if level in visited:
+                return 0
+
+            visited.add(level)
             print(f"level={level}")
             steps = 0
             total = 0
@@ -17,7 +21,9 @@ class Solution:
 
         for l, r in edges:
             node_map[l].append(r)
+            node_map[r].append(l)
         
+        visited = set()
         tot = dfs(0)
         if tot > 0:
             return tot - 2
