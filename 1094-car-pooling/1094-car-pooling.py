@@ -1,5 +1,6 @@
 class Solution:
     def carPooling(self, trips: List[List[int]], capacity: int) -> bool:
+        """
         max_dist = 0
         for trip in trips:
             max_dist = max(max_dist, trip[2])
@@ -13,4 +14,20 @@ class Solution:
                 if path[i] > capacity:
                     return False
         
+        return True
+        """
+        my_stack = []
+
+        for pass_count, start, end in trips:
+            my_stack.append((start, pass_count))
+            my_stack.append((end, -pass_count))
+
+        my_stack.sort()
+
+        cur_count = 0
+        for stamp, count in my_stack:
+            cur_count += count
+            if cur_count > capacity:
+                return False
+
         return True
