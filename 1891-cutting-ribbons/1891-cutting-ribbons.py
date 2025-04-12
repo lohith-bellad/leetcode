@@ -6,17 +6,16 @@ class Solution:
             for i in range(len(ribbons)):
                 c += ribbons[i] // mid 
             
-            print(mid)
             return c >= count
 
-        start = 1
+        start = 0
         end = max(ribbons)
 
-        while start <= end:
-            mid = start + (end - start) // 2
+        while start < end:
+            mid = 1 + start + (end - start) // 2
 
             if check(mid, k):
-                start = mid + 1
+                start = mid
             else:
                 end = mid - 1
         
