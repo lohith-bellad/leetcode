@@ -5,15 +5,15 @@ class Solution:
                 return 0
 
             visited.add(level)
-            steps = 0
-            total = 0
+
+            dist = 0
             for neighbors in node_map[level]:
-                steps += dfs(neighbors)
+                dist += dfs(neighbors)
             
-            if steps or hasApple[level]:
-                total += 2 + steps
+            if dist or hasApple[level]:
+                dist += 2
             
-            return total
+            return dist
 
         ind = 0
         while ind < len(hasApple) and hasApple[ind] == False:
