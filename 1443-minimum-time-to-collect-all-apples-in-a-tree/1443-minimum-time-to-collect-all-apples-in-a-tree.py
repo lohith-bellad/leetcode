@@ -5,7 +5,6 @@ class Solution:
                 return 0
 
             visited.add(level)
-            print(f"level={level}")
             steps = 0
             total = 0
             for neighbors in node_map[level]:
@@ -14,9 +13,15 @@ class Solution:
             if steps or hasApple[level]:
                 total += 2 + steps
             
-            print(total)
             return total
 
+        ind = 0
+        while ind < len(hasApple) and hasApple[ind] == False:
+            ind += 1
+        
+        if ind == len(hasApple):
+            return 0
+        
         node_map = defaultdict(list)
 
         for l, r in edges:
@@ -24,7 +29,4 @@ class Solution:
             node_map[r].append(l)
         
         visited = set()
-        tot = dfs(0)
-        if tot > 0:
-            return tot - 2
-        return tot
+        return dfs(0) - 2
