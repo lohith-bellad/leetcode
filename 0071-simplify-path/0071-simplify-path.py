@@ -14,13 +14,5 @@ class Solution:
                 my_stack.append(item)
         
         
-        #return "/" + "/".join(my_stack)
-        output = "/"
-        for i in range(len(my_stack) - 1):
-            output += my_stack[i] + "/"
-    
-        if my_stack:
-            output += my_stack[-1]
-
-        return output    
+        return "/" + "/".join(my_stack)
         
