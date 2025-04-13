@@ -48,6 +48,9 @@ class Solution:
             while right >= 0 and not s[right].isalnum():
                 right -= 1
         
+            if left > right:
+                return True
+
             if (s[left].isdigit() and not s[right].isdigit()) or (not s[left].isdigit() and s[right].isdigit()):
                 return False
         
