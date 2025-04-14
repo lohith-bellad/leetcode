@@ -1,18 +1,17 @@
 class SparseVector:
-    def __init__(self, nums: List[int]):
-        self.indices = set()
-        self.nums = nums
-        for i, n in enumerate(nums):
-            if n > 0:
-                self.indices.add(i)
-        
+    def __init__(self, nums: []):
+        self.nums_map = {}
+        for i, val in enumerate(nums):
+            if val != 0:
+                self.nums_map[i] = val
 
     # Return the dotProduct of two sparse vectors
-    def dotProduct(self, vec: 'SparseVector') -> int:
+    def dotProduct(self, sv: 'SparseVector') -> int:
         res = 0
-        ind = list(self.indices & vec.indices)
-        for i in ind:
-            res += self.nums[i] * vec.nums[i]
+
+        for key, val in self.nums_map.items():
+            if key in sv.nums_map:
+                res += val * sv.nums_map[key]
         
         return res
 
