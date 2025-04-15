@@ -6,6 +6,8 @@
 #         self.right = right
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if root == None:
+            return []
         hash_map = defaultdict(list)
         queue = deque()
         output = []
