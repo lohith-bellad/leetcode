@@ -7,7 +7,19 @@
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
         self.total = 0
-        def traverse(root: TreeNode, low: int, high: int):
+        def range_sum(root: TreeNode, low: int, high: int) -> int:
+            if root == None:
+                return 0
+    
+            if low <= root.val <= high:
+                return root.val + range_sum(root.left, low, high) + range_sum(root.right, low, high)
+    
+            if root.val < low:
+                return range_sum(root.right, low, high)
+    
+            if root.val > high:
+                return range_sum(root.left, low, high)
+            """
             if root == None:
                 return
             
@@ -19,7 +31,7 @@ class Solution:
                 traverse(root.right, low, high)
             else:
                 traverse(root.left, low, high)
+            """
 
-
-        traverse(root, low, high)
-        return self.total
+        return range_sum(root, low, high)
+        #return self.total
