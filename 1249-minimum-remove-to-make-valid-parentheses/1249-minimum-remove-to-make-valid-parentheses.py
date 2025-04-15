@@ -1,40 +1,30 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        bracket = []
+        if s == "":
+            return s
+    
+        pstack = []
+        s_list = list(s)
         output = []
-        temp = []
 
-        for c in s:
-            if c == ")":
-                if len(bracket) > 0:
-                    if bracket[-1] == "(":
-                        bracket.pop()
-                        output.append(c)
-            elif c == "(":
-                bracket.append(c)
+        ind = 0
+        for c in s_list:
+            if c == "(":
+                pstack.append(ind)
                 output.append(c)
+                ind += 1
+            elif c == ")":
+                if pstack:
+                    pstack.pop()
+                    output.append(c)
+                    ind += 1
             else:
                 output.append(c)
-        
-        if len(bracket) == 0:
-            return "".join(output)
-
-        if len(bracket) > 0:
-            bracket.pop()
-            closed = 0
-            while len(output) > 0:
-                e = output.pop()
-                if e == ")":
-                    closed += 1
-                    temp.append(e)
-                elif e == "(":
-                    if closed > 0:
-                        closed -= 1
-                        temp.append(e)
-                else:
-                    temp.append(e)
-        
-        temp.reverse()
-        return "".join(temp)
+                ind += 1
+    
+        for ind in pstack:
+            output[ind] = ""
+    
+        return "".join(output)
         
     
