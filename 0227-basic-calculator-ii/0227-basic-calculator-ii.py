@@ -20,7 +20,7 @@ class Solution:
                 elif op == "*":
                     cal_stack.append(cal_stack.pop() * num)
                 else:
-                    cal_stack.append(cal_stack.pop() // num)
+                    cal_stack.append(int(cal_stack.pop() / num))
                 num = 0
                 op = c
     
