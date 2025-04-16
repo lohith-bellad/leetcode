@@ -43,6 +43,7 @@
 
 class Solution:
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
+        """
         queue = deque(nestedList)
 
         total = 0
@@ -59,4 +60,16 @@ class Solution:
             depth += 1
         
         return total
-        
+        """
+        def traverse(elem: List[NestedInteger], depth: int) -> int:
+            cur_sum = 0
+
+            for val in elem:
+                if val.isInteger():
+                    cur_sum += depth * val.getInteger()
+                else:
+                    cur_sum += traverse(val.getList(), depth + 1)
+    
+            return cur_sum
+
+        return traverse(nestedList, 1)
