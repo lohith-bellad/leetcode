@@ -13,23 +13,22 @@ class Solution:
                     queue.append((i, j))
                     grid[i][j] = island_idx
 
-                    island_size = 1
-                    while len(queue) > 0:
-                        row, col = queue.popleft()
+                island_size = 1
+                while len(queue) > 0:
+                    row, col = queue.popleft()
 
-                        for d in dirs:
-                            nrow = row + d[0]
-                            ncol = col + d[1]
+                    for d in dirs:
+                        nrow = row + d[0]
+                        ncol = col + d[1]
 
-                            if 0 <= nrow < size and 0 <= ncol < size and grid[nrow][ncol] == 1:
-                                queue.append((nrow, ncol))
-                                grid[nrow][ncol] = island_idx
-                                island_size += 1
+                        if 0 <= nrow < size and 0 <= ncol < size and grid[nrow][ncol] == 1:
+                            queue.append((nrow, ncol))
+                            grid[nrow][ncol] = island_idx
+                            island_size += 1
                 
-                    island_map[island_idx] = island_size
-                    island_idx += 1
+                island_map[island_idx] = island_size
+                island_idx += 1
 
-        print(island_map)
         max_island_size = 0
         for i in range(size):
             for j in range(size):
