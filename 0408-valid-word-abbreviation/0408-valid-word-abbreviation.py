@@ -1,31 +1,9 @@
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:
-        w_ptr = 0
-        a_ptr = 0
+        abbr_ptr = 0
+        word_ptr = 0
 
-        while w_ptr < len(word):
-            num = 0
-            while a_ptr < len(abbr) and abbr[a_ptr].isdigit():
-                num = (num * 10) + int(abbr[a_ptr])
-                a_ptr += 1
-        
-            if num > 0:
-                w_ptr += num
-        
-            if w_ptr >= len(word) and a_ptr >= len(abbr):
-                return True
-        
-            if word[w_ptr] != abbr[a_ptr]:
-                return False
-        
-            w_ptr += 1
-            a_ptr += 1
-    
-        return True
         """
-        abbr_ind = 0
-        word_ind = 0
-
         while abbr_ind < len(abbr):
             if abbr[abbr_ind] == "0" or word_ind >= len(word):
                 return False
@@ -45,3 +23,25 @@ class Solution:
         
         return word_ind == len(word)
         """
+        while word_ptr < len(word) and abbr_ptr < len(abbr):
+            if abbr[abbr_ptr] == "0":
+                return False
+
+            if abbr[abbr_ptr].isdigit():
+                num = 0
+                while abbr_ptr < len(abbr) and abbr[abbr_ptr].isdigit():
+                    num = num * 10 + int(abbr[abbr_ptr])
+                    abbr_ptr += 1
+            
+                word_ptr += num
+                if word_ptr >= len(word) and abbr_ptr < len(abbr):
+                    return False
+        
+            else:
+                if word[word_ptr] != abbr[abbr_ptr]:
+                    return False
+            
+                word_ptr += 1
+                abbr_ptr += 1
+
+        return word_ptr == len(word) and abbr_ptr == len(abbr)
