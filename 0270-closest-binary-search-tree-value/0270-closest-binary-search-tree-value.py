@@ -25,7 +25,7 @@ class Solution:
 
         while root:
             diff = abs(root.val - target)
-            if diff < closet_seen or (diff == closet_seen and root.val < result):
+            if diff < closet_seen or (diff == closet_seen and root.val < res):
                 closet_seen = diff
                 res = root.val
         
