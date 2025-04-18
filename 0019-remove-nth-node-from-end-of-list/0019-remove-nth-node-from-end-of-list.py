@@ -12,10 +12,7 @@ class Solution:
             root = root.next
             nodes += 1
 
-        if nodes == 1:
-            return None
-
-        if n > nodes:
+        if nodes == 1 or n > nodes:
             return None
         
         ind_to_remove = nodes - n
@@ -27,9 +24,6 @@ class Solution:
             root = root.next
             ind_to_remove -= 1
         
-        #if root.next == None:
-        #    return head
-
         root.next = root.next.next
 
         return dummy.next
