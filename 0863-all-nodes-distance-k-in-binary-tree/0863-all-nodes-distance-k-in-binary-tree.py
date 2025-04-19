@@ -7,6 +7,7 @@
 
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]: 
+        """
         adj_list = defaultdict(list)
 
         queue = deque()
@@ -48,3 +49,46 @@ class Solution:
             output.append(queue.popleft())
         
         return output
+        """
+        def dfs(node: int, visited: {}, depth: int):
+            if node in visited:
+                return
+
+            if depth == k:
+                self.output.append(node)
+
+            visited.add(node)
+
+            for neighbor in adj_map[node]:
+                dfs(neighbor, visited, depth + 1)
+
+            return
+    
+        if k == 0:
+            return [target.val]
+            
+        self.output = []
+        adj_map = defaultdict(list)
+        queue = deque()
+        queue.append(root)
+
+        while queue:
+            node = queue.popleft()
+
+            if node.left != None:
+                adj_map[node.val].append(node.left.val)
+                adj_map[node.left.val].append(node.val)
+                queue.append(node.left)
+
+            if node.right != None:
+                adj_map[node.val].append(node.right.val)
+                adj_map[node.right.val].append(node.val)
+                queue.append(node.right)
+
+        depth = 1
+        visited = set()
+        visited.add(target.val)
+        for neighbor in adj_map[target.val]:
+            dfs(neighbor, visited, depth)
+
+        return self.output
