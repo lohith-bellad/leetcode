@@ -17,11 +17,11 @@ class Solution:
                 n = int(s[idx])
                 num = (num * 10) + n
                 idx += 1
+            elif num == 0:
+                return 0
             else:
-                if num > 0:
-                    break
-                else:
-                    return 0
+                break
+            
         
         if is_neg:
             num = -num
