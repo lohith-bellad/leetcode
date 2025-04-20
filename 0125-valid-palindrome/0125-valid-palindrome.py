@@ -51,15 +51,12 @@ class Solution:
             if left > right:
                 return True
 
-            if (s[left].isdigit() and not s[right].isdigit()) or (not s[left].isdigit() and s[right].isdigit()):
-                return False
+            #if (s[left].isdigit() and not s[right].isdigit()) or (not s[left].isdigit() and s[right].isdigit()):
+            #    return False
         
-            if s[left].isdigit() and s[right].isdigit():
-                if s[left] != s[right]:
-                    return False
-            else:
-                if s[left].lower() != s[right].lower():
-                    return False
+
+            if s[left].lower() != s[right].lower():
+                return False
 
             left += 1
             right -= 1
