@@ -29,11 +29,11 @@ class Solution:
             if p.val <= root.val <= q.val:
                 return root
             if root.val > q.val:
-                return self.lowestCommonAncestor(root.left, p, q)
+                return traverse(root.left, p, q)
             else:
-                return self.lowestCommonAncestor(root.right, p, q)
+                return traverse(root.right, p, q)
 
         if p.val > q.val:
-            return traverse(root, q, p)
-        else:
-            return traverse(root, p, q)
+            p, q = q, p
+        
+        return traverse(root, p, q)
