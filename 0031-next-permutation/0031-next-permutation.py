@@ -45,7 +45,6 @@ class Solution:
             i -= 1
 
         nums[pivot], nums[i] = nums[i], nums[pivot]
-
-        nums[pivot:].reverse()
+        nums[pivot + 1:] = reversed(nums[pivot + 1:])
 
         return
