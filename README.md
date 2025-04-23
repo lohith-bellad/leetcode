@@ -1,7 +1,7 @@
 # LeetCode
 
-### **Total Problems: 220**
-| *Easy: 74* | *Medium: 129* | *Hard: 17* |
+### **Total Problems: 314**
+| *Easy: 79* | *Medium: 176* | *Hard: 59* |
 | --- | --- | ---|
 
 | # | Problem | Difficulty|
@@ -226,3 +226,97 @@
 | 218 | [count nodes equal to average of subtree](/python/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | 219 | [find missing and repeated values](/python/2965-find-missing-and-repeated-values/) | Easy |
 | 220 | [?envType=company&envId=facebook&favoriteSlug=facebook thirty days](/python/3371-identify-the-largest-outlier-in-an-array/) | Medium |
+| 221 | [](/python/0002-add-two-numbers/) | |
+| 222 | [longest palindromic substring](/python/0005-longest-palindromic-substring/) | Medium |
+| 223 | [string to integer atoi](/python/0008-string-to-integer-atoi/) | Medium |
+| 224 | [](/python/0014-longest-common-prefix/) | |
+| 225 | [](/python/0015-3sum/) | |
+| 226 | [letter combinations of a phone number](/python/0017-letter-combinations-of-a-phone-number/) | Medium |
+| 227 | [](/python/0019-remove-nth-node-from-end-of-list/) | |
+| 228 | [merge k sorted lists](/python/0023-merge-k-sorted-lists/) | Hard |
+| 229 | [](/python/0026-remove-duplicates-from-sorted-array/) | |
+| 230 | [next permutation](/python/0031-next-permutation/) | Medium |
+| 231 | [](/python/0033-search-in-rotated-sorted-array/) | |
+| 232 | [combination sum](/python/0039-combination-sum/) | Medium |
+| 233 | [combination sum ii](/python/0040-combination-sum-ii/) | Medium |
+| 234 | [jump game ii](/python/0045-jump-game-ii/) | Medium |
+| 235 | [permutations](/python/0046-permutations/) | Medium |
+| 236 | [permutations ii](/python/0047-permutations-ii/) | Medium |
+| 237 | [](/python/0053-maximum-subarray/) | |
+| 238 | [jump game](/python/0055-jump-game/) | Medium |
+| 239 | [valid number](/python/0065-valid-number/) | Hard |
+| 240 | [](/python/0066-plus-one/) | |
+| 241 | [](/python/0067-add-binary/) | |
+| 242 | [](/python/0071-simplify-path/) | |
+| 243 | [set matrix zeroes](/python/0073-set-matrix-zeroes/) | Medium |
+| 244 | [combinations](/python/0077-combinations/) | Medium |
+| 245 | [word search](/python/0079-word-search/) | Medium |
+| 246 | [interleaving string](/python/0097-interleaving-string/) | Medium |
+| 247 | [](/python/0116-populating-next-right-pointers-in-each-node/) | |
+| 248 | [](/python/0125-valid-palindrome/) | |
+| 249 | [surrounded regions](/python/0130-surrounded-regions/) | Medium |
+| 250 | [palindrome partitioning](/python/0131-palindrome-partitioning/) | Medium |
+| 251 | [](/python/0136-single-number/) | |
+| 252 | [find peak element](/python/0162-find-peak-element/) | Medium |
+| 253 | [missing ranges](/python/0163-missing-ranges/) | Easy |
+| 254 | [](/python/0190-reverse-bits/) | |
+| 255 | [](/python/0191-number-of-1-bits/) | |
+| 256 | [](/python/0199-binary-tree-right-side-view/) | |
+| 257 | [](/python/0207-course-schedule/) | |
+| 258 | [course schedule ii](/python/0210-course-schedule-ii/) | Medium |
+| 259 | [kth largest element in an array](/python/0215-kth-largest-element-in-an-array/) | Medium |
+| 260 | [](/python/0219-contains-duplicate-ii/) | |
+| 261 | [](/python/0227-basic-calculator-ii/) | |
+| 262 | [lowest common ancestor of a binary search tree](/python/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| 263 | [](/python/0246-strobogrammatic-number/) | |
+| 264 | [strobogrammatic number ii](/python/0247-strobogrammatic-number-ii/) | Medium |
+| 265 | [](/python/0249-group-shifted-strings/) | |
+| 266 | [graph valid tree](/python/0261-graph-valid-tree/) | Medium |
+| 267 | [](/python/0270-closest-binary-search-tree-value/) | |
+| 268 | [walls and gates](/python/0286-walls-and-gates/) | Medium |
+| 269 | [](/python/0314-binary-tree-vertical-order-traversal/) | |
+| 270 | [](/python/0339-nested-list-weight-sum/) | |
+| 271 | [](/python/0346-moving-average-from-data-stream/) | |
+| 272 | [](/python/0347-top-k-frequent-elements/) | |
+| 273 | [design tic tac toe](/python/0348-design-tic-tac-toe/) | Medium |
+| 274 | [random pick index](/python/0398-random-pick-index/) | Medium |
+| 275 | [](/python/0408-valid-word-abbreviation/) | |
+| 276 | [](/python/0415-add-strings/) | |
+| 277 | [pacific atlantic water flow](/python/0417-pacific-atlantic-water-flow/) | Medium |
+| 278 | [max consecutive ones](/python/0485-max-consecutive-ones/) | Easy |
+| 279 | [the maze](/python/0490-the-maze/) | Medium |
+| 280 | [](/python/0498-diagonal-traverse/) | |
+| 281 | [longest palindromic subsequence](/python/0516-longest-palindromic-subsequence/) | Medium |
+| 282 | [construct binary tree from string](/python/0536-construct-binary-tree-from-string/) | Medium |
+| 283 | [permutation in string](/python/0567-permutation-in-string/) | Medium |
+| 284 | [](/python/0605-can-place-flowers/) | |
+| 285 | [exclusive time of functions](/python/0636-exclusive-time-of-functions/) | Medium |
+| 286 | [palindromic substrings](/python/0647-palindromic-substrings/) | Medium |
+| 287 | [find k closest elements](/python/0658-find-k-closest-elements/) | Medium |
+| 288 | [](/python/0670-maximum-swap/) | |
+| 289 | [letter case permutation](/python/0784-letter-case-permutation/) | Medium |
+| 290 | [custom sort string](/python/0791-custom-sort-string/) | Medium |
+| 291 | [making a large island](/python/0827-making-a-large-island/) | Hard |
+| 292 | [all nodes distance k in binary tree](/python/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| 293 | [](/python/0921-minimum-add-to-make-parentheses-valid/) | |
+| 294 | [shortest bridge](/python/0934-shortest-bridge/) | Medium |
+| 295 | [](/python/0938-range-sum-of-bst/) | |
+| 296 | [](/python/0958-check-completeness-of-a-binary-tree/) | |
+| 297 | [](/python/0973-k-closest-points-to-origin/) | |
+| 298 | [car pooling](/python/1094-car-pooling/) | Medium |
+| 299 | [delete nodes and return forest](/python/1110-delete-nodes-and-return-forest/) | Medium |
+| 300 | [longest common subsequence](/python/1143-longest-common-subsequence/) | Medium |
+| 301 | [meeting scheduler](/python/1229-meeting-scheduler/) | Medium |
+| 302 | [](/python/1249-minimum-remove-to-make-valid-parentheses/) | |
+| 303 | [minimum time to collect all apples in a tree](/python/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
+| 304 | [course schedule iv](/python/1462-course-schedule-iv/) | Medium |
+| 305 | [](/python/1570-dot-product-of-two-sparse-vectors/) | |
+| 306 | [](/python/1650-lowest-common-ancestor-of-a-binary-tree-iii/) | |
+| 307 | [](/python/1762-buildings-with-an-ocean-view/) | |
+| 308 | [maximum population year](/python/1854-maximum-population-year/) | Easy |
+| 309 | [rotating the box](/python/1861-rotating-the-box/) | Medium |
+| 310 | [cutting ribbons](/python/1891-cutting-ribbons/) | Medium |
+| 311 | [count equal and divisible pairs in an array](/python/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| 312 | [longest nice subarray](/python/2401-longest-nice-subarray/) | Medium |
+| 313 | [house robber iv](/python/2560-house-robber-iv/) | Medium |
+| 314 | [minimum number of operations to make elements in array distinct](/python/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
