@@ -58,9 +58,7 @@ class Solution:
             even_left = (i + 1) // 2
             odd_right = (n - i + 1) // 2
             even_right = (n - i) // 2
-            
+
             result += arr[i] * (odd_left * odd_right + even_left * even_right)
 
         return result
-
-
