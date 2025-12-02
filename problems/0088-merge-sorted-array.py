@@ -42,13 +42,14 @@ Constraints:
 
 """
 
+
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Do not return anything, modify nums1 in-place instead.
         """
         n1_ptr = m - 1
-        n2_ptr = n - 1 
+        n2_ptr = n - 1
         res_ptr = len(nums1) - 1
 
         while n1_ptr >= 0 and n2_ptr >= 0:

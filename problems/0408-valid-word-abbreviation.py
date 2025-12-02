@@ -39,6 +39,7 @@ Constraints:
 
 """
 
+
 class Solution:
     def validWordAbbreviation(self, word: str, abbr: str) -> bool:
         word_ind = 0
@@ -47,7 +48,7 @@ class Solution:
         while word_ind < len(word) and abbr_ind < len(abbr):
             skip = 0
 
-            if abbr[abbr_ind] == '0':
+            if abbr[abbr_ind] == "0":
                 return False
 
             while abbr_ind < len(abbr) and abbr[abbr_ind].isdigit():

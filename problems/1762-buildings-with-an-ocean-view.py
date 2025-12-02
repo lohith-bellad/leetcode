@@ -39,6 +39,7 @@ Constraints:
 
 """
 
+
 class Solution:
     def findBuildings(self, heights: List[int]) -> List[int]:
         tallest = heights[-1]

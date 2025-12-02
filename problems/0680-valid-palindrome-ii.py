@@ -25,6 +25,7 @@ Constraints:
 
 """
 
+
 class Solution:
     def validPalindrome(self, s: str) -> bool:
         def is_palin(start, end, skip):
@@ -33,12 +34,12 @@ class Solution:
                     return is_palin(start + 1, end - 1, skip)
                 else:
                     if skip:
-                        return is_palin(start + 1, end, False) or is_palin(start, end - 1, False)
+                        return is_palin(start + 1, end, False) or is_palin(
+                            start, end - 1, False
+                        )
                     else:
                         return False
             else:
                 return True
 
         return is_palin(0, len(s) - 1, True)
-
-        

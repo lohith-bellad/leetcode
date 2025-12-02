@@ -42,6 +42,7 @@ Constraints:
 
 """
 
+
 # Definition for a Node.
 class Node:
     def __init__(self, val):
@@ -50,8 +51,9 @@ class Node:
         self.right = None
         self.parent = None
 
+
 class Solution:
-    def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
+    def lowestCommonAncestor(self, p: "Node", q: "Node") -> "Node":
         p_height = 0
         q_height = 0
         ptemp = p
