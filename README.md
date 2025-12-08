@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 56** | Easy: 33 | Medium: 23 | Hard: 0
+**Total Problems: 66** | Easy: 34 | Medium: 32 | Hard: 0
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -60,3 +60,13 @@
 | 54 | <a href="https://leetcode.com/problems/find-leaves-of-binary-tree/">366</a> | <a href="problems/0366-find-leaves-of-binary-tree.py">Find Leaves of Binary Tree</a> | Medium |
 | 55 | <a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">380</a> | <a href="problems/0380-insert-delete-getrandom-o1.py">Insert Delete GetRandom O(1)</a> | Medium |
 | 56 | <a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/">698</a> | <a href="problems/0698-partition-to-k-equal-sum-subsets.py">Partition to K Equal Sum Subsets</a> | Medium |
+| 57 | <a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">17</a> | <a href="problems/0017-letter-combinations-of-a-phone-number.py">Letter Combinations of a Phone Number</a> | Medium |
+| 58 | <a href="https://leetcode.com/problems/merge-intervals/">56</a> | <a href="problems/0056-merge-intervals.py">Merge Intervals</a> | Medium |
+| 59 | <a href="https://leetcode.com/problems/lru-cache/">146</a> | <a href="problems/0146-lru-cache.py">LRU Cache</a> | Medium |
+| 60 | <a href="https://leetcode.com/problems/repeated-dna-sequences/">187</a> | <a href="problems/0187-repeated-dna-sequences.py">Repeated DNA Sequences</a> | Medium |
+| 61 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/">236</a> | <a href="problems/0236-lowest-common-ancestor-of-a-binary-tree.py">Lowest Common Ancestor of a Binary Tree</a> | Medium |
+| 62 | <a href="https://leetcode.com/problems/factor-combinations/">254</a> | <a href="problems/0254-factor-combinations.py">Factor Combinations</a> | Medium |
+| 63 | <a href="https://leetcode.com/problems/paint-house/">256</a> | <a href="problems/0256-paint-house.py">Paint House</a> | Easy |
+| 64 | <a href="https://leetcode.com/problems/sort-transformed-array/">360</a> | <a href="problems/0360-sort-transformed-array.py">Sort Transformed Array</a> | Medium |
+| 65 | <a href="https://leetcode.com/problems/random-pick-with-weight/">528</a> | <a href="problems/0528-random-pick-with-weight.py">Random Pick with Weight</a> | Medium |
+| 66 | <a href="https://leetcode.com/problems/exclusive-time-of-functions/">636</a> | <a href="problems/0636-exclusive-time-of-functions.py">Exclusive Time of Functions</a> | Medium |
