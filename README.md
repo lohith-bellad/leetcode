@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 66** | Easy: 34 | Medium: 32 | Hard: 0
+**Total Problems: 70** | Easy: 35 | Medium: 35 | Hard: 0
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -70,3 +70,7 @@
 | 64 | <a href="https://leetcode.com/problems/sort-transformed-array/">360</a> | <a href="problems/0360-sort-transformed-array.py">Sort Transformed Array</a> | Medium |
 | 65 | <a href="https://leetcode.com/problems/random-pick-with-weight/">528</a> | <a href="problems/0528-random-pick-with-weight.py">Random Pick with Weight</a> | Medium |
 | 66 | <a href="https://leetcode.com/problems/exclusive-time-of-functions/">636</a> | <a href="problems/0636-exclusive-time-of-functions.py">Exclusive Time of Functions</a> | Medium |
+| 67 | <a href="https://leetcode.com/problems/permutations/">46</a> | <a href="problems/0046-permutations.py">Permutations</a> | Medium |
+| 68 | <a href="https://leetcode.com/problems/print-in-order/">1114</a> | <a href="problems/1114-print-in-order.py">Print in Order</a> | Easy |
+| 69 | <a href="https://leetcode.com/problems/building-h2o/">1117</a> | <a href="problems/1117-building-h2o.py">Building H2O</a> | Medium |
+| 70 | <a href="https://leetcode.com/problems/design-bounded-blocking-queue/">1188</a> | <a href="problems/1188-design-bounded-blocking-queue.py">Design Bounded Blocking Queue</a> | Medium |
