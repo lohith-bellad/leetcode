@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 90** | Easy: 35 | Medium: 54 | Hard: 1
+**Total Problems: 90** | Easy: 35 | Medium: 55 | Hard: 0
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -76,7 +76,7 @@
 | 70 | <a href="https://leetcode.com/problems/design-bounded-blocking-queue/">1188</a> | <a href="problems/1188-design-bounded-blocking-queue.py">Design Bounded Blocking Queue</a> | Medium |
 | 71 | <a href="https://leetcode.com/problems/permutations-ii/">47</a> | <a href="problems/0047-permutations-ii.py">Permutations II</a> | Medium |
 | 72 | <a href="https://leetcode.com/problems/insert-interval/">57</a> | <a href="problems/0057-insert-interval.py">Insert Interval</a> | Medium |
-| 73 | <a href="https://leetcode.com/problems/edit-distance/">72</a> | <a href="problems/0072-edit-distance.py">Edit Distance</a> | Hard |
+| 73 | <a href="https://leetcode.com/problems/edit-distance/">72</a> | <a href="problems/0072-edit-distance.py">Edit Distance</a> | Medium |
 | 74 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102</a> | <a href="problems/0102-binary-tree-level-order-traversal.py">Binary Tree Level Order Traversal</a> | Medium |
 | 75 | <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">103</a> | <a href="problems/0103-binary-tree-zigzag-level-order-traversal.py">Binary Tree Zigzag Level Order Traversal</a> | Medium |
 | 76 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">150</a> | <a href="problems/0150-evaluate-reverse-polish-notation.py">Evaluate Reverse Polish Notation</a> | Medium |
