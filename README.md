@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 70** | Easy: 35 | Medium: 35 | Hard: 0
+**Total Problems: 90** | Easy: 35 | Medium: 54 | Hard: 1
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -74,3 +74,23 @@
 | 68 | <a href="https://leetcode.com/problems/print-in-order/">1114</a> | <a href="problems/1114-print-in-order.py">Print in Order</a> | Easy |
 | 69 | <a href="https://leetcode.com/problems/building-h2o/">1117</a> | <a href="problems/1117-building-h2o.py">Building H2O</a> | Medium |
 | 70 | <a href="https://leetcode.com/problems/design-bounded-blocking-queue/">1188</a> | <a href="problems/1188-design-bounded-blocking-queue.py">Design Bounded Blocking Queue</a> | Medium |
+| 71 | <a href="https://leetcode.com/problems/permutations-ii/">47</a> | <a href="problems/0047-permutations-ii.py">Permutations II</a> | Medium |
+| 72 | <a href="https://leetcode.com/problems/insert-interval/">57</a> | <a href="problems/0057-insert-interval.py">Insert Interval</a> | Medium |
+| 73 | <a href="https://leetcode.com/problems/edit-distance/">72</a> | <a href="problems/0072-edit-distance.py">Edit Distance</a> | Hard |
+| 74 | <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102</a> | <a href="problems/0102-binary-tree-level-order-traversal.py">Binary Tree Level Order Traversal</a> | Medium |
+| 75 | <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">103</a> | <a href="problems/0103-binary-tree-zigzag-level-order-traversal.py">Binary Tree Zigzag Level Order Traversal</a> | Medium |
+| 76 | <a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">150</a> | <a href="problems/0150-evaluate-reverse-polish-notation.py">Evaluate Reverse Polish Notation</a> | Medium |
+| 77 | <a href="https://leetcode.com/problems/binary-search-tree-iterator/">173</a> | <a href="problems/0173-binary-search-tree-iterator.py">Binary Search Tree Iterator</a> | Medium |
+| 78 | <a href="https://leetcode.com/problems/house-robber/">198</a> | <a href="problems/0198-house-robber.py">House Robber</a> | Medium |
+| 79 | <a href="https://leetcode.com/problems/product-of-array-except-self/">238</a> | <a href="problems/0238-product-of-array-except-self.py">Product of Array Except Self</a> | Medium |
+| 80 | <a href="https://leetcode.com/problems/shortest-word-distance-iii/">245</a> | <a href="problems/0245-shortest-word-distance-iii.py">Shortest Word Distance III</a> | Medium |
+| 81 | <a href="https://leetcode.com/problems/graph-valid-tree/">261</a> | <a href="problems/0261-graph-valid-tree.py">Graph Valid Tree</a> | Medium |
+| 82 | <a href="https://leetcode.com/problems/sparse-matrix-multiplication/">311</a> | <a href="problems/0311-sparse-matrix-multiplication.py">Sparse Matrix Multiplication</a> | Medium |
+| 83 | <a href="https://leetcode.com/problems/bulb-switcher/">319</a> | <a href="problems/0319-bulb-switcher.py">Bulb Switcher</a> | Medium |
+| 84 | <a href="https://leetcode.com/problems/flatten-nested-list-iterator/">341</a> | <a href="problems/0341-flatten-nested-list-iterator.py">Flatten Nested List Iterator</a> | Medium |
+| 85 | <a href="https://leetcode.com/problems/find-k-pairs-with-smallest-sums/">373</a> | <a href="problems/0373-find-k-pairs-with-smallest-sums.py">Find K Pairs with Smallest Sums</a> | Medium |
+| 86 | <a href="https://leetcode.com/problems/can-i-win/">464</a> | <a href="problems/0464-can-i-win.py">Can I Win</a> | Medium |
+| 87 | <a href="https://leetcode.com/problems/find-largest-value-in-each-tree-row/">515</a> | <a href="problems/0515-find-largest-value-in-each-tree-row.py">Find Largest Value in Each Tree Row</a> | Medium |
+| 88 | <a href="https://leetcode.com/problems/longest-palindromic-subsequence/">516</a> | <a href="problems/0516-longest-palindromic-subsequence.py">Longest Palindromic Subsequence</a> | Medium |
+| 89 | <a href="https://leetcode.com/problems/palindromic-substrings/">647</a> | <a href="problems/0647-palindromic-substrings.py">Palindromic Substrings</a> | Medium |
+| 90 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/">1644</a> | <a href="problems/1644-lowest-common-ancestor-of-a-binary-tree-ii.py">Lowest Common Ancestor of a Binary Tree II</a> | Medium |
