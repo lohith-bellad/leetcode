@@ -17,18 +17,17 @@ class Solution:
                 right_hash[nums[idx]] -= 1
                 if right_hash[nums[idx]] == 0:
                     del right_hash[nums[idx]]
-            
+
             for n in left_hash.keys():
                 target = -(n + nums[idx])
                 if target in right_hash:
                     output.add((n, nums[idx], target))
-            
+
             if nums[idx] in left_hash:
                 left_hash[nums[idx]] += 1
             else:
                 left_hash[nums[idx]] = 1
 
             idx += 1
-        
-        return list(output)
 
+        return list(output)

@@ -17,7 +17,7 @@ class Solution:
                 head.next = prev
                 prev = head
                 head = temp
-            
+
             return prev
 
         if head.next == None or head.next.next == None:
@@ -29,7 +29,7 @@ class Solution:
         while fast.next != None and fast.next.next != None:
             slow = slow.next
             fast = fast.next.next
-        
+
         second_head = reverse(slow.next)
         slow.next = None
         first_head = head
@@ -44,8 +44,8 @@ class Solution:
             root = second_head
             second_head = second_head.next
             first_head = temp
-        
+
         if first_head != None:
             root.next = first_head
-        
+
         return None

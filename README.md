@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 90** | Easy: 35 | Medium: 55 | Hard: 0
+**Total Problems: 108** | Easy: 48 | Medium: 60 | Hard: 0
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -94,3 +94,21 @@
 | 88 | <a href="https://leetcode.com/problems/longest-palindromic-subsequence/">516</a> | <a href="problems/0516-longest-palindromic-subsequence.py">Longest Palindromic Subsequence</a> | Medium |
 | 89 | <a href="https://leetcode.com/problems/palindromic-substrings/">647</a> | <a href="problems/0647-palindromic-substrings.py">Palindromic Substrings</a> | Medium |
 | 90 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/">1644</a> | <a href="problems/1644-lowest-common-ancestor-of-a-binary-tree-ii.py">Lowest Common Ancestor of a Binary Tree II</a> | Medium |
+| 91 | <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">3</a> | <a href="problems/0003-longest-substring-without-repeating-characters.py">Longest Substring Without Repeating Characters</a> | Medium |
+| 92 | <a href="https://leetcode.com/problems/integer-to-roman/">12</a> | <a href="problems/0012-integer-to-roman.py">Integer to Roman</a> | Medium |
+| 93 | <a href="https://leetcode.com/problems/3sum/">15</a> | <a href="problems/0015-3sum.py">3Sum</a> | Medium |
+| 94 | <a href="https://leetcode.com/problems/add-binary/">67</a> | <a href="problems/0067-add-binary.py">Add Binary</a> | Easy |
+| 95 | <a href="https://leetcode.com/problems/climbing-stairs/">70</a> | <a href="problems/0070-climbing-stairs.py">Climbing Stairs</a> | Easy |
+| 96 | <a href="https://leetcode.com/problems/balanced-binary-tree/">110</a> | <a href="problems/0110-balanced-binary-tree.py">Balanced Binary Tree</a> | Easy |
+| 97 | <a href="https://leetcode.com/problems/clone-graph/">133</a> | <a href="problems/0133-clone-graph.py">Clone Graph</a> | Medium |
+| 98 | <a href="https://leetcode.com/problems/majority-element/">169</a> | <a href="problems/0169-majority-element.py">Majority Element</a> | Easy |
+| 99 | <a href="https://leetcode.com/problems/contains-duplicate/">217</a> | <a href="problems/0217-contains-duplicate.py">Contains Duplicate</a> | Easy |
+| 100 | <a href="https://leetcode.com/problems/implement-queue-using-stacks/">232</a> | <a href="problems/0232-implement-queue-using-stacks.py">Implement Queue using Stacks</a> | Easy |
+| 101 | <a href="https://leetcode.com/problems/valid-anagram/">242</a> | <a href="problems/0242-valid-anagram.py">Valid Anagram</a> | Easy |
+| 102 | <a href="https://leetcode.com/problems/first-bad-version/">278</a> | <a href="problems/0278-first-bad-version.py">First Bad Version</a> | Easy |
+| 103 | <a href="https://leetcode.com/problems/ransom-note/">383</a> | <a href="problems/0383-ransom-note.py">Ransom Note</a> | Easy |
+| 104 | <a href="https://leetcode.com/problems/longest-palindrome/">409</a> | <a href="problems/0409-longest-palindrome.py">Longest Palindrome</a> | Easy |
+| 105 | <a href="https://leetcode.com/problems/01-matrix/">542</a> | <a href="problems/0542-01-matrix.py">01 Matrix</a> | Medium |
+| 106 | <a href="https://leetcode.com/problems/binary-search/">704</a> | <a href="problems/0704-binary-search.py">Binary Search</a> | Easy |
+| 107 | <a href="https://leetcode.com/problems/flood-fill/">733</a> | <a href="problems/0733-flood-fill.py">Flood Fill</a> | Easy |
+| 108 | <a href="https://leetcode.com/problems/middle-of-the-linked-list/">876</a> | <a href="problems/0876-middle-of-the-linked-list.py">Middle of the Linked List</a> | Easy |

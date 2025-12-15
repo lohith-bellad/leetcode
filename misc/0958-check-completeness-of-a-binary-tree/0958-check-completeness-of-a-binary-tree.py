@@ -15,12 +15,8 @@ class Solution:
             node = queue.popleft()
             queue.append(node.left)
             queue.append(node.right)
-    
+
         while queue and not queue[0]:
             queue.popleft()
 
         return len(queue) == 0
-        
-
-
-

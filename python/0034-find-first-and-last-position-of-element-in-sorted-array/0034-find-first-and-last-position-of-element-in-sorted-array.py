@@ -17,10 +17,10 @@ class Solution:
                     end = mid - 1
                 else:
                     start = mid + 1
-        
+
             return -1
-        
+
         start = binary_find(nums, 0, len(nums) - 1, True)
         end = binary_find(nums, 0, len(nums) - 1, False)
-        
+
         return [start, end]

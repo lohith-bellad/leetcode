@@ -18,15 +18,15 @@ class Solution:
 
                 if node.left:
                     queue.append((node.left, row + 1, col - 1))
-                
+
                 if node.right:
                     queue.append((node.right, row + 1, col + 1))
-            
+
         output = []
         for cols in sorted(mapping.keys()):
             temp = []
             for n in sorted(mapping[cols]):
                 temp.append(n[1])
             output.append(temp)
-        
+
         return output

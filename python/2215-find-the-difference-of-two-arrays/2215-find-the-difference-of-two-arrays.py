@@ -14,9 +14,9 @@ class Solution:
         for n in set1:
             if n not in set2:
                 out1.append(n)
-        
+
         for n in set2:
             if n not in set1:
                 out2.append(n)
 
-        return([out1, out2])
+        return [out1, out2]

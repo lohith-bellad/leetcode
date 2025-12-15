@@ -12,7 +12,7 @@ class Solution:
         for i in range(len(lists)):
             if lists[i] != None:
                 heapq.heappush(min_heap, (lists[i].val, i, lists[i]))
-        
+
         while len(min_heap) > 0:
             _, _, min_head = heapq.heappop(min_heap)
             prev.next = min_head
@@ -21,5 +21,5 @@ class Solution:
             if min_head != None:
                 i += 1
                 heapq.heappush(min_heap, (min_head.val, i, min_head))
-        
+
         return dummy.next

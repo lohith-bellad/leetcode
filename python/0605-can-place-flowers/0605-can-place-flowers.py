@@ -5,9 +5,10 @@ class Solution:
 
         i = 0
         while i < len(flowerbed):
-            if (flowerbed[i] == 0 and
-                (i == 0 or flowerbed[i-1] == 0) and
-                (i == len(flowerbed) - 1 or flowerbed[i+1] == 0)
+            if (
+                flowerbed[i] == 0
+                and (i == 0 or flowerbed[i - 1] == 0)
+                and (i == len(flowerbed) - 1 or flowerbed[i + 1] == 0)
             ):
                 i = i + 2
                 n = n - 1
@@ -16,4 +17,4 @@ class Solution:
             else:
                 i = i + 1
 
-        return (n == 0)
+        return n == 0

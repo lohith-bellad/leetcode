@@ -9,7 +9,7 @@ class Solution:
         def traverse(root: TreeNode):
             if root == None:
                 return
-            
+
             traverse(root.left)
             traverse(root.right)
 

@@ -9,5 +9,5 @@ class Solution:
                 max_count = max(max_count, cur_count)
             else:
                 cur_count = 0
-        
+
         return max_count

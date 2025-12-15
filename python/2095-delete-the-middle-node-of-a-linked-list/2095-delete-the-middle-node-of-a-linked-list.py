@@ -19,5 +19,5 @@ class Solution:
             prev.next = prev.next.next
         else:
             slow.next = slow.next.next
-    
+
         return temp.next

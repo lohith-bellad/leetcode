@@ -10,5 +10,5 @@ class Solution:
                 start = mid + 1
             else:
                 end = mid
-        
+
         return start

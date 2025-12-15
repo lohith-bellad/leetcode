@@ -8,7 +8,7 @@ class Solution:
             for i in range(len(grid)):
                 temp.append(grid[i][j])
             transpose.append(temp)
-        
+
         for row in grid:
             for col in transpose:
                 if row == col:

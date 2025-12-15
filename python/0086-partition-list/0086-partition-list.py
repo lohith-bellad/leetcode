@@ -25,7 +25,7 @@ class Solution:
                 right_root.next = root
                 right_root = root
             root = root.next
-    
+
         right_root.next = None
         left_root.next = right.next
 

@@ -4,8 +4,11 @@
 #         self.val = x
 #         self.next = None
 
+
 class Solution:
-    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+    def getIntersectionNode(
+        self, headA: ListNode, headB: ListNode
+    ) -> Optional[ListNode]:
         cnt1 = 0
         root = headA
 
@@ -19,7 +22,7 @@ class Solution:
         while root != None:
             cnt2 += 1
             root = root.next
-        
+
         left = headA
         right = headB
         if cnt1 > cnt2:
@@ -32,9 +35,9 @@ class Solution:
             while diff > 0:
                 right = right.next
                 diff -= 1
-        
+
         while left != right:
             left = left.next
             right = right.next
-        
+
         return left

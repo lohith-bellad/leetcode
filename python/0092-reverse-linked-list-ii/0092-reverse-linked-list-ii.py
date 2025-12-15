@@ -4,7 +4,9 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+    def reverseBetween(
+        self, head: Optional[ListNode], left: int, right: int
+    ) -> Optional[ListNode]:
         def list_reverse(root: ListNode):
             prev = None
             while root != None:
@@ -33,7 +35,7 @@ class Solution:
             cnt += 1
             prev = root
             root = root.next
-        
+
         new_head = list_reverse(start)
 
         temp = new_head
@@ -46,5 +48,3 @@ class Solution:
             return head
         else:
             return new_head
-
-        

@@ -16,7 +16,7 @@ class Solution:
         out = []
         if carry == 1:
             out.append(1)
-        
+
         for i in range(len(digits)):
             out.append(digits[i])
 

@@ -5,11 +5,11 @@ class Solution:
 
         for word in strs:
             key = "".join(sorted(word))
-            
+
             if key not in hash_map:
                 hash_map[key] = []
             hash_map[key].append(word)
-        
+
         for val in hash_map.values():
             output.append(val)
 

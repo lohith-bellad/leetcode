@@ -10,10 +10,10 @@ class Solution:
         for a, b in zip(inp, comp):
             if a not in mapping or mapping[a] != b:
                 return False
-            
+
         return True
         """
-        matches = {'0': '0', '6': '9', '1': '1', '8': '8', '9': '6'}
+        matches = {"0": "0", "6": "9", "1": "1", "8": "8", "9": "6"}
 
         start = 0
         end = len(num) - 1

@@ -5,5 +5,5 @@ class Solution:
         for i in range(len(haystack) - l + 1):
             if needle == haystack[i : i + l]:
                 return i
-        
+
         return -1

@@ -1,12 +1,11 @@
 class StockPrice:
-
     def __init__(self):
         self.hash_table = {}
         self.latest = 0
 
         self.min_heap = []
         self.max_heap = []
-    
+
     def update(self, timestamp: int, price: int) -> None:
         self.hash_table[timestamp] = price
         self.latest = max(self.latest, timestamp)
@@ -34,7 +33,6 @@ class StockPrice:
             min_price, timestamp = self.min_heap[0]
 
         return min_price
-
 
 
 # Your StockPrice object will be instantiated and called as such:

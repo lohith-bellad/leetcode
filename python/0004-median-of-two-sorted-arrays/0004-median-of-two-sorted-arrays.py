@@ -19,9 +19,9 @@ class Solution:
             else:
                 out = nums2[self.p2]
                 self.p2 += 1
-            
+
             return out
-        
+
         if (len1 + len2) % 2 == 0:
             for i in range((len1 + len2) // 2 - 1):
                 v = get_min()

@@ -28,27 +28,33 @@ class Solution:
                     else:
                         queue.append(new)
                 size -= 1
-                    
+
         return output
         """
-        phoneBook = {2: "abc", 3: "def", 4: "ghi", 5: "jkl", 6: "mno", 7: "pqrs", 8: "tuv", 9: "wxyz"}
+        phoneBook = {
+            2: "abc",
+            3: "def",
+            4: "ghi",
+            5: "jkl",
+            6: "mno",
+            7: "pqrs",
+            8: "tuv",
+            9: "wxyz",
+        }
 
         def traverse(ind: int, cur_word: str):
             if len(cur_word) == len(digits):
                 output.append(cur_word)
                 return
-            
+
             for c in phoneBook[int(digits[ind])]:
                 traverse(ind + 1, cur_word + c)
-            
+
             return
 
         output = []
 
         if len(digits) > 0:
             traverse(0, "")
-        
-        return output
-        
 
-            
+        return output

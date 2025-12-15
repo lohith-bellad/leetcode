@@ -9,7 +9,7 @@ class Solution:
                 return ["0", "1", "8"]
             else:
                 res = traverse(ind - 2)
-            
+
             num = []
 
             for r in res:
@@ -17,7 +17,7 @@ class Solution:
                     if ind == n and k == "0":
                         continue
                     num.append(k + r + v)
-            
+
             return num
-        
+
         return traverse(n)

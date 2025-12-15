@@ -21,15 +21,14 @@ class Solution:
                 return 0
             else:
                 break
-            
-        
+
         if is_neg:
             num = -num
 
-        if num < (2**31)*(-1):
-            return (2**31)*-1
+        if num < (2**31) * (-1):
+            return (2**31) * -1
 
         if num > 2**31 - 1:
             return 2**31 - 1
-        
+
         return num

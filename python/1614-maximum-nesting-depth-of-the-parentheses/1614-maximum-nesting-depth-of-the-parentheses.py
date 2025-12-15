@@ -9,5 +9,5 @@ class Solution:
                 output = max(output, len(my_stack))
             elif c == ")":
                 my_stack.pop()
-        
+
         return output

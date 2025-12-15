@@ -8,7 +8,7 @@ class Solution:
             inp = -x
         else:
             inp = x
-        
+
         while inp > 0:
             temp = (res * 10) + (inp % 10)
             if temp > 2**31:

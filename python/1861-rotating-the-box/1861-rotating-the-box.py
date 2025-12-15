@@ -11,7 +11,7 @@ class Solution:
 
         for i in range(col_max):
             output[i].reverse()
- 
+
         for i in range(row_max):
             bottom_most = col_max - 1
             for ind in range(col_max - 1, -1, -1):
@@ -24,4 +24,3 @@ class Solution:
                     bottom_most = ind - 1
 
         return output
-        

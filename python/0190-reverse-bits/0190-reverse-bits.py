@@ -10,7 +10,7 @@ class Solution:
             else:
                 output.append("0")
             inp = inp >> 1
-        
+
         while len(output) < 32:
             output.append("0")
 

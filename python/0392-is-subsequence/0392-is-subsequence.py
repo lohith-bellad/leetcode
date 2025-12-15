@@ -12,6 +12,5 @@ class Solution:
                 return False
             else:
                 ind += 1
-            
+
         return True
-            

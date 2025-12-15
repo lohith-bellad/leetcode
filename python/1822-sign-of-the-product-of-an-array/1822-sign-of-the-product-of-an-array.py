@@ -17,6 +17,5 @@ class Solution:
 
         for num in nums:
             product *= num
-        
+
         return Solution.signFunc(product)
-        

@@ -2,7 +2,7 @@ class Solution:
     def isMonotonic(self, nums: List[int]) -> bool:
         if len(nums) == 1:
             return True
-        
+
         ind = 0
         inc = -1
 
@@ -21,5 +21,5 @@ class Solution:
                 ind += 1
                 continue
             ind += 1
-        
+
         return True

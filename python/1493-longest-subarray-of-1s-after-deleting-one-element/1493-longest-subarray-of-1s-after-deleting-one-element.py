@@ -12,7 +12,7 @@ class Solution:
                 if nums[start] == 0:
                     zero -= 1
                 start += 1
-            
+
             max_count = max(max_count, ind - start + 1)
 
         return max_count - 1

@@ -11,11 +11,10 @@ class Solution:
 
             if matrix[row][col] == target:
                 return True
-            
+
             if matrix[row][col] > target:
                 end = mid - 1
             else:
                 start = mid + 1
-        
-        return False
 
+        return False

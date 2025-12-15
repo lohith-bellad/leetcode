@@ -14,8 +14,8 @@ class Solution:
             min_sum = min(min_sum, cur_min)
 
             total_sum += num
-        
+
         if total_sum == min_sum:
             return max_sum
-        
+
         return max(max_sum, total_sum - min_sum)

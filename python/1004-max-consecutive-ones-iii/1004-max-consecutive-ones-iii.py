@@ -14,5 +14,5 @@ class Solution:
                 start += 1
 
             max_length = max(max_length, ind - start + 1)
-    
+
         return max_length

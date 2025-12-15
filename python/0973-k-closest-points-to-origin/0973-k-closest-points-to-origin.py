@@ -5,11 +5,11 @@ class Solution:
         output = []
 
         for x, y in points:
-            distance = (x**2 + y**2)**0.5
+            distance = (x**2 + y**2) ** 0.5
             heapq.heappush(heap, (distance, x, y))
-        
+
         for i in range(k):
             dist, x, y = heapq.heappop(heap)
             output.append([x, y])
-        
+
         return output

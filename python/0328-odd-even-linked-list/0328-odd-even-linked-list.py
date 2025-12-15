@@ -17,7 +17,7 @@ class Solution:
             even.next = even.next.next
             odd = odd.next
             even = even.next
-            
+
         if even.next == None:
             odd.next = even_head
         else:

@@ -5,12 +5,15 @@
 #         self.left = None
 #         self.right = None
 
+
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+    def lowestCommonAncestor(
+        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
+    ) -> "TreeNode":
         """
         if root == None or root == p or root == q:
             return root
-        
+
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
 
@@ -22,6 +25,7 @@ class Solution:
         else:
             return right
         """
+
         def traverse(root, p, q):
             if root == None:
                 return root
@@ -35,5 +39,5 @@ class Solution:
 
         if p.val > q.val:
             p, q = q, p
-        
+
         return traverse(root, p, q)

@@ -11,7 +11,7 @@ class Solution:
                 cur_diff = ord(word1[idx]) - ord(word2[idx])
                 if cur_diff < 0:
                     cur_diff += 26
-                
+
                 if cur_diff != diff:
                     return False
                 idx += 1
@@ -37,9 +37,8 @@ class Solution:
             if appended == False:
                 mappings[word].append(word)
 
-                
         output = []
         for key, vals in mappings.items():
             output.append(vals)
-        
+
         return output

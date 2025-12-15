@@ -10,12 +10,12 @@ class Solution:
 
             if action == "start":
                 my_stack.append([tid, ttime, 0])
-            
+
             else:
                 tid, start_time, otime = my_stack.pop()
                 duration = ttime - start_time + 1 - otime
                 if len(my_stack) > 0:
                     my_stack[-1][2] += duration + otime
                 output[tid] += duration
-        
+
         return output

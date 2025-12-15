@@ -7,7 +7,7 @@ class Solution:
 
             if ind > n:
                 return
-            
+
             cur_combs.append(ind)
             traverse(n, ind + 1, k, cur_combs, output)
             cur_combs.pop()

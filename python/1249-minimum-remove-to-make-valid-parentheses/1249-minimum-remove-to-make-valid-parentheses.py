@@ -15,7 +15,7 @@ class Solution:
                 output.append(c)
             else:
                 output.append(c)
-        
+
         if len(bracket) == 0:
             return "".join(output)
 
@@ -33,8 +33,6 @@ class Solution:
                         temp.append(e)
                 else:
                     temp.append(e)
-        
+
         temp.reverse()
         return "".join(temp)
-        
-    

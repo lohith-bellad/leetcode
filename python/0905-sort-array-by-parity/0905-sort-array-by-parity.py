@@ -8,5 +8,5 @@ class Solution:
                 even.append(num)
             else:
                 odd.append(num)
-        
+
         return even + odd

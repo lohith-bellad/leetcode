@@ -11,7 +11,7 @@ class Solution:
 
         if len(points) <= 2:
             return len(points)
-        
+
         res = 1
         i = 0
 
@@ -27,7 +27,5 @@ class Solution:
                 res = max(res, table[slope])
                 j += 1
             i += 1
-        
-        return res + 1
 
-        
+        return res + 1

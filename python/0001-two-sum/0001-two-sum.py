@@ -8,5 +8,5 @@ class Solution:
                 return [hash_map[pivot], ind]
             else:
                 hash_map[num] = ind
-    
+
         return []

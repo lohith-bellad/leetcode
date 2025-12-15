@@ -20,9 +20,9 @@ class Solution:
             res.append(str(total))
             p1 -= 1
             p2 -= 1
-    
+
         if carry > 0:
             res.append(str(carry))
-    
+
         res.reverse()
         return "".join(res)

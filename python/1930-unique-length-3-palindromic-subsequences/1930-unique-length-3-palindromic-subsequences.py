@@ -12,7 +12,7 @@ class Solution:
             if s[i] not in right_hash:
                 right_hash[s[i]] = 0
             right_hash[s[i]] += 1
-        
+
         idx = 1
         while idx < len(s) - 1:
             if s[idx] in right_hash:
@@ -29,7 +29,7 @@ class Solution:
                 left_hash[s[idx]] += 1
             else:
                 left_hash[s[idx]] = 1
-            
+
             idx += 1
-        
+
         return len(output)

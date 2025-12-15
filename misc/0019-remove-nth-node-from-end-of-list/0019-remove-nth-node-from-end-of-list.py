@@ -14,7 +14,7 @@ class Solution:
 
         if nodes == 1 or n > nodes:
             return None
-        
+
         ind_to_remove = nodes - n
         dummy = ListNode(0)
         dummy.next = head
@@ -23,10 +23,7 @@ class Solution:
         while ind_to_remove > 0:
             root = root.next
             ind_to_remove -= 1
-        
+
         root.next = root.next.next
 
         return dummy.next
-
-
-        

@@ -1,5 +1,4 @@
 class MaxStack:
-
     def __init__(self):
         self.heap = []
         self.stack = []
@@ -37,7 +36,6 @@ class MaxStack:
         self.removed.add(-ident)
 
         return -elem
-        
 
 
 # Your MaxStack object will be instantiated and called as such:

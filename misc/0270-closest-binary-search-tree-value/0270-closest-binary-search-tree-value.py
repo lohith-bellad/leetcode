@@ -10,17 +10,17 @@ class Solution:
         def traverse(root: TreeNode, target: int) -> int:
             if root == None:
                 return float('inf')
-            
+
             if root.val > target:
                 l = traverse(root.left, target)
                 return min(l, root.val, key = lambda x: (abs(target - x), x))
             else:
                 r = traverse(root.right, target)
                 return min(r, root.val, key = lambda x: (abs(target - x), x))
-            
+
         return traverse(root, target)
         """
-        closet_seen = float('inf')
+        closet_seen = float("inf")
         res = 0
 
         while root:
@@ -28,10 +28,10 @@ class Solution:
             if diff < closet_seen or (diff == closet_seen and root.val < res):
                 closet_seen = diff
                 res = root.val
-        
+
             if root.val > target:
                 root = root.left
             else:
                 root = root.right
-    
+
         return res

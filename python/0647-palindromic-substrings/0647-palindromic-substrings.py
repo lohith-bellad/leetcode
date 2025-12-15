@@ -11,7 +11,7 @@ class Solution:
                 count += 1
                 left -= 1
                 right += 1
-            
+
             left = i
             right = i + 1
 
@@ -19,5 +19,5 @@ class Solution:
                 count += 1
                 left -= 1
                 right += 1
-        
+
         return count

@@ -10,7 +10,7 @@ class Solution:
                 while temp + 1 in table:
                     cnt += 1
                     temp = temp + 1
-                
+
                 max_len = max(max_len, cnt)
-        
+
         return max_len

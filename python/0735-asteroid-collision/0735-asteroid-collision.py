@@ -5,7 +5,7 @@ class Solution:
         def stack_add(stack: List[int], cur: int):
             if len(stack) == 0:
                 stack.append(cur)
-                return 
+                return
 
             last = stack[-1]
             if last * cur > 0:
@@ -24,6 +24,5 @@ class Solution:
 
         for i in range(1, len(asteroids)):
             stack_add(stack, asteroids[i])
-                
-        return stack
 
+        return stack

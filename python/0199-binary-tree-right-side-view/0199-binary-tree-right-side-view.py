@@ -20,7 +20,7 @@ class Solution:
             traverse(root.left, levels, ind + 1)
             traverse(root.right, levels, ind + 1)
             return
-        
+
         traverse(root, levels, 0)
 
         return levels

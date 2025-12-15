@@ -4,8 +4,8 @@ class Solution:
             c = 0
 
             for i in range(len(ribbons)):
-                c += ribbons[i] // mid 
-            
+                c += ribbons[i] // mid
+
             return c >= count
 
         start = 0
@@ -18,5 +18,5 @@ class Solution:
                 start = mid
             else:
                 end = mid - 1
-        
+
         return end

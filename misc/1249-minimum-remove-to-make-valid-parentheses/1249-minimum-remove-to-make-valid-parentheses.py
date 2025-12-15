@@ -2,7 +2,7 @@ class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
         if s == "":
             return s
-    
+
         pstack = []
         s_list = list(s)
         output = []
@@ -21,10 +21,8 @@ class Solution:
             else:
                 output.append(c)
                 ind += 1
-    
+
         for ind in pstack:
             output[ind] = ""
-    
+
         return "".join(output)
-        
-    

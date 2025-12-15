@@ -10,7 +10,7 @@ class Solution:
             while ind < len(output) and inp[i][ind] == output[ind]:
                 ind += 1
             output = output[:ind]
-        
+
         return output
         """
         longest = strs[0]
@@ -22,7 +22,7 @@ class Solution:
             ind = 0
             while ind < max_ind and longest[ind] == cur_word[ind]:
                 ind += 1
-        
+
             longest = longest[:ind]
-    
+
         return longest

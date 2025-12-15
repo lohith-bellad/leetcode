@@ -23,12 +23,12 @@ class Solution:
             cur_sum = 0
 
             return max(find(nums, 0, memo), find(nums, 1, memo))
-        
+
         memo1 = [-1 for i in range(len(nums) - 1)]
         memo2 = [-1 for i in range(len(nums) - 1)]
         if len(nums) == 1:
             return nums[0]
-        
+
         if len(nums) == 2:
             return max(nums[0], nums[1])
 

@@ -17,7 +17,7 @@ class Solution:
                     max_len = cur_len
                 left -= 1
                 right += 1
-            
+
             left = i
             right = i + 1
 
@@ -30,4 +30,4 @@ class Solution:
                 left -= 1
                 right += 1
 
-        return s[start: end + 1]
+        return s[start : end + 1]

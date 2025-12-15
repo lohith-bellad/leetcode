@@ -10,7 +10,7 @@ class Solution:
             if root == None:
                 s.append("")
                 return
-            
+
             s.append(str(root.val))
             s.append("(")
             if root.left == None and root.right == None:
@@ -26,7 +26,7 @@ class Solution:
                 s.append(")")
 
             return
-        
+
         output = []
         traverse(root, output)
         return "".join(output)

@@ -7,8 +7,9 @@ class Node:
         self.random = random
 """
 
+
 class Solution:
-    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+    def copyRandomList(self, head: "Optional[Node]") -> "Optional[Node]":
         table = {}
         root = head
         dummy = Node(0)
@@ -20,7 +21,7 @@ class Solution:
             table[root] = new_node
             prev = new_node
             root = root.next
-        
+
         old_head = head
         new_head = dummy.next
 

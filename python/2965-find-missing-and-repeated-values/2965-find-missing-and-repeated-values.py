@@ -15,12 +15,12 @@ class Solution:
                     dup.add(grid[i][j])
             if dup_num > 0:
                 break
-        
+
         output = [dup_num]
         for i in range(l):
             for j in range(l):
                 total += grid[i][j]
-        
+
         total -= output[0]
         s = l * l
         suma = (s * (s + 1)) // 2

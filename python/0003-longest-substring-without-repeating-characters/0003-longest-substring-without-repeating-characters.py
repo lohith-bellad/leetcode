@@ -14,5 +14,5 @@ class Solution:
                     start += 1
                 table[s[i]] = i
                 start += 1
-        
+
         return max_len

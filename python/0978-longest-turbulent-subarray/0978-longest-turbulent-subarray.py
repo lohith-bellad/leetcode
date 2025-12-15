@@ -19,7 +19,9 @@ class Solution:
                 idx += 1
                 max_count = max(max_count, count)
             else:
-                if (exp_sign == ">" and arr[idx] <= arr[idx + 1]) or (exp_sign == "<" and arr[idx] >= arr[idx + 1]):
+                if (exp_sign == ">" and arr[idx] <= arr[idx + 1]) or (
+                    exp_sign == "<" and arr[idx] >= arr[idx + 1]
+                ):
                     count = 1
                     exp_sign = None
                 else:
@@ -32,4 +34,3 @@ class Solution:
                     idx += 1
 
         return max_count
-

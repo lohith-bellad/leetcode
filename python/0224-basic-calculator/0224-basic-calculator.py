@@ -14,7 +14,7 @@ class Solution:
                         num -= int(elem)
                 else:
                     op = elem
-            
+
             return num
 
         s = "(" + s + ")"
@@ -24,7 +24,7 @@ class Solution:
         while ind < len(s):
             while s[ind] == " ":
                 ind += 1
-            
+
             n = 0
             while s[ind].isdigit():
                 n = (n * 10) + int(s[ind])
@@ -43,6 +43,5 @@ class Solution:
             else:
                 my_stack.append(s[ind])
             ind += 1
-        
-        return int(my_stack[0])
 
+        return int(my_stack[0])

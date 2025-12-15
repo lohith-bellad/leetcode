@@ -1,9 +1,9 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
+        vowels = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
 
         inp = list(s)
-        
+
         start = 0
         end = len(s) - 1
 
@@ -22,4 +22,3 @@ class Solution:
             end -= 1
 
         return "".join(inp)
-        

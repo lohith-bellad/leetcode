@@ -11,5 +11,3 @@ class Solution:
                 hash_map[nums[i]] = i
 
         return False
-       
-

@@ -14,4 +14,3 @@ class Solution:
 
         build(n, n, "", output)
         return output
-            

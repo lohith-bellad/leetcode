@@ -13,7 +13,7 @@ class Solution:
                 path[i] += c
                 if path[i] > capacity:
                     return False
-        
+
         return True
         """
         my_stack = []

@@ -3,7 +3,7 @@ class Solution:
         def traverse(nums: List[int], ind: int) -> [[]]:
             if ind == len(nums):
                 return [[]]
-            
+
             temp = []
             perms = traverse(nums, ind + 1)
             for perm in perms:
@@ -12,5 +12,5 @@ class Solution:
                     pc.insert(j, nums[ind])
                     temp.append(pc)
             return temp
-        
+
         return traverse(nums, 0)

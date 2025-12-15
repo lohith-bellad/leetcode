@@ -4,7 +4,7 @@ class Solution:
             if ind == len(nums):
                 output.append(cur_subset.copy())
                 return
-            
+
             cur_subset.append(nums[ind])
             traverse(nums, ind + 1, cur_subset, output)
             cur_subset.pop()

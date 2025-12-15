@@ -1,5 +1,7 @@
 class Solution:
-    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+    def findCheapestPrice(
+        self, n: int, flights: List[List[int]], src: int, dst: int, k: int
+    ) -> int:
         adj_list = defaultdict(list)
 
         for s, d, cost in flights:
@@ -22,7 +24,7 @@ class Solution:
 
             for neighbor, hop_price in adj_list[city]:
                 queue.append((neighbor, price + hop_price, hop_cnt + 1))
-            
+
         if dst in min_price:
             return min_price[dst]
         else:

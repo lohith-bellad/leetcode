@@ -10,5 +10,5 @@ class Solution:
                     my_stack.append(bracket)
             else:
                 my_stack.append(bracket)
-        
+
         return len(my_stack)

@@ -5,7 +5,9 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def delNodes(self, root: Optional[TreeNode], to_delete: List[int]) -> List[TreeNode]:
+    def delNodes(
+        self, root: Optional[TreeNode], to_delete: List[int]
+    ) -> List[TreeNode]:
         def traverse(root: TreeNode, to_delete: []) -> TreeNode:
             if root == None:
                 return None
@@ -19,7 +21,7 @@ class Solution:
                 if root.right:
                     forest.append(root.right)
                 return None
-                
+
             return root
 
         forest = []

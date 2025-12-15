@@ -9,15 +9,18 @@ class Solution:
         def traverse(root: TreeNode) -> (bool, int):
             if root == None:
                 return (True, 0)
-            
+
             left_balanced, left_height = traverse(root.left)
             right_balanced, right_height = traverse(root.right)
 
-            if left_balanced == False or right_balanced == False or abs(left_height - right_height) > 1:
+            if (
+                left_balanced == False
+                or right_balanced == False
+                or abs(left_height - right_height) > 1
+            ):
                 return (False, 0)
-            
+
             return (True, max(left_height, right_height) + 1)
 
         balanced, height = traverse(root)
         return balanced
-            

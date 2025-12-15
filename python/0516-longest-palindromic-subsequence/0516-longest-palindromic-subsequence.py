@@ -11,4 +11,4 @@ class Solution:
                 else:
                     cache[i + 1][j + 1] = max(cache[i + 1][j], cache[i][j + 1])
 
-        return cache[-1][-1] 
+        return cache[-1][-1]

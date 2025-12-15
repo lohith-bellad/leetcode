@@ -12,5 +12,5 @@ class Solution:
                     if (index * i) % k == 0:
                         count += 1
                 index_hash[nums[i]].append(i)
-        
+
         return count

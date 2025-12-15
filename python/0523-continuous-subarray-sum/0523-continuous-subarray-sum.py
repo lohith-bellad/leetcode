@@ -6,7 +6,7 @@ class Solution:
 
         if sum(nums) % k == 0:
             return True
-        
+
         size = 2
         while size < len(nums):
             end = size
@@ -21,11 +21,11 @@ class Solution:
 
                 if arr_sum % k == 0:
                     return True
-            
+
                 start += 1
                 end += 1
             size += 1
-        
+
         return False
         """
 
@@ -44,10 +44,7 @@ class Solution:
                     return True
             else:
                 mod_map[prefix_mod] = i
-        
+
         return False
 
-        
         return False
-
-        

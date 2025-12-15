@@ -7,15 +7,16 @@ class Node:
         self.right = right
 """
 
+
 class Solution:
-    def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
+    def treeToDoublyList(self, root: "Optional[Node]") -> "Optional[Node]":
         self.head = None
         self.tail = None
 
-        def traverse(root: 'Node'):
+        def traverse(root: "Node"):
             if root == None:
                 return
-            
+
             traverse(root.left)
 
             if self.tail != None:
@@ -28,10 +29,10 @@ class Solution:
 
             traverse(root.right)
             return
-        
+
         if root == None:
             return None
-            
+
         traverse(root)
         self.tail.right = self.head
         self.head.left = self.tail

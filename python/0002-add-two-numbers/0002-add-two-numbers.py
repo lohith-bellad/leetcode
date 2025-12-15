@@ -4,8 +4,10 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        suma = 0 
+    def addTwoNumbers(
+        self, l1: Optional[ListNode], l2: Optional[ListNode]
+    ) -> Optional[ListNode]:
+        suma = 0
         carry = 0
         dummy = ListNode()
         output = dummy
@@ -20,7 +22,7 @@ class Solution:
             l1 = l1.next
             l2 = l2.next
             output = output.next
-        
+
         if l1 == None:
             ptr = l2
         else:
@@ -37,5 +39,5 @@ class Solution:
 
         if carry > 0:
             output.next = ListNode(carry)
-        
+
         return dummy.next

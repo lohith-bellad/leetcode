@@ -13,7 +13,7 @@ class Solution:
 
         for i in range(len(temp)):
             nums[i] = temp[i]
-        
+
         return len(temp)
         """
         left = 0
@@ -25,7 +25,7 @@ class Solution:
 
             if right == len(nums):
                 break
-                
+
             left += 1
             nums[left] = nums[right]
 

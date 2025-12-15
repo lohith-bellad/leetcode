@@ -3,12 +3,12 @@ class Solution:
         is_number = False
         is_decimal = False
         is_exponent = False
-    
+
         for i in range(len(s)):
             if s[i].isdigit():
                 is_number = True
             elif s[i] in "+-":
-                if i > 0 and s[i-1] != "e" and s[i-1] != "E":
+                if i > 0 and s[i - 1] != "e" and s[i - 1] != "E":
                     return False
             elif s[i] == ".":
                 if is_exponent or is_decimal:
@@ -21,5 +21,5 @@ class Solution:
                 is_number = False
             else:
                 return False
-        
+
         return is_number

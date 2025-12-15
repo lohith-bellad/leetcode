@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        open_braces = ['(', '{', '[']
+        open_braces = ["(", "{", "["]
 
         for b in s:
             if b in open_braces:
@@ -12,11 +12,14 @@ class Solution:
 
                 brace = stack.pop()
 
-                if (b == ')' and brace != '(') or (b == '}' and brace != '{') or (b == ']' and brace != '['):
+                if (
+                    (b == ")" and brace != "(")
+                    or (b == "}" and brace != "{")
+                    or (b == "]" and brace != "[")
+                ):
                     return False
 
         if len(stack) > 0:
             return False
-            
-        return True
 
+        return True

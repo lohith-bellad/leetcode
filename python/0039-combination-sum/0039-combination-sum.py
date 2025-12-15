@@ -1,10 +1,12 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        def traverse(candidates: List[int], target: int, ind: int, combs: [], output: []):
+        def traverse(
+            candidates: List[int], target: int, ind: int, combs: [], output: []
+        ):
             if sum(combs) == target:
                 output.append(combs.copy())
                 return
-            
+
             if ind > len(candidates) - 1:
                 return
 

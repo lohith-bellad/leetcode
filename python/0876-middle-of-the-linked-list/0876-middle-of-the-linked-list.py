@@ -11,7 +11,7 @@ class Solution:
         while fast.next != None and fast.next.next != None:
             slow = slow.next
             fast = fast.next.next
-        
+
         if fast.next == None:
             return slow
         else:

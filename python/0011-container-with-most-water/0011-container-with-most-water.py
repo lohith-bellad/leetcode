@@ -13,5 +13,5 @@ class Solution:
                 tail -= 1
             else:
                 head += 1
-        
+
         return max_water

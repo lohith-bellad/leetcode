@@ -4,8 +4,8 @@ class Solution:
         :type nums: List[int]
         :rtype: bool
         """
-        first = float('inf')
-        second = float('inf')
+        first = float("inf")
+        second = float("inf")
 
         for num in nums:
             if num <= first:
@@ -14,9 +14,5 @@ class Solution:
                 second = num
             else:
                 return True
-        
+
         return False
-
-
-
-        

@@ -7,8 +7,10 @@ class Node:
 """
 
 from typing import Optional
+
+
 class Solution:
-    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+    def cloneGraph(self, node: Optional["Node"]) -> Optional["Node"]:
         if node == None:
             return None
 
@@ -23,11 +25,11 @@ class Solution:
             new_node = Node(n.val)
             mapping[n.val] = new_node
             neighbor_list[n.val] = []
-            
+
             for neighbor in n.neighbors:
                 if neighbor.val not in mapping:
                     queue.append(neighbor)
-                
+
                 neighbor_list[n.val].append(neighbor.val)
 
         for key, val in mapping.items():
@@ -35,5 +37,5 @@ class Solution:
 
             for n in neighbors:
                 val.neighbors.append(mapping[n])
-        
+
         return mapping[1]

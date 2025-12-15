@@ -9,13 +9,13 @@ class Solution:
         def traverse(root: TreeNode, arr: []):
             if root == None:
                 return
-            
+
             traverse(root.left, arr)
             arr.append(root.val)
             traverse(root.right, arr)
             return
-        
+
         arr = []
         traverse(root, arr)
-        
+
         return arr[k - 1]

@@ -5,11 +5,11 @@ class Solution:
         output = end
 
         while start <= end:
-            mid = start + (end - start)//2
-            
+            mid = start + (end - start) // 2
+
             cur_sum = 0
             for p in piles:
-                cur_sum += math.ceil(p/mid)
+                cur_sum += math.ceil(p / mid)
 
             if cur_sum <= h:
                 output = min(output, mid)

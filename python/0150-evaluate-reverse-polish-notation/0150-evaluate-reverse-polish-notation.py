@@ -19,5 +19,5 @@ class Solution:
                         temp.append(num1 * num2)
                     else:
                         temp.append(int(num2 / num1))
-            
+
         return temp[0]

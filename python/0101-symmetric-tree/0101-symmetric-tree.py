@@ -11,11 +11,10 @@ class Solution:
                 return True
             if p == None or q == None:
                 return False
-            
+
             if p.val != q.val:
                 return False
-            
-            return traverse(p.left, q.right) and traverse(p.right, q.left)
-           
 
-        return traverse(root, root) 
+            return traverse(p.left, q.right) and traverse(p.right, q.left)
+
+        return traverse(root, root)

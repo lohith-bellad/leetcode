@@ -17,18 +17,16 @@ class Solution:
             node, ind = queue.popleft()
 
             hash_map[ind].append(node.val)
-            
+
             if node.left is not None:
                 queue.append((node.left, ind - 1))
-            
+
             if node.right is not None:
                 queue.append((node.right, ind + 1))
-        
+
         sorted_keys = sorted(hash_map.keys())
 
         for key in sorted_keys:
             output.append(hash_map[key])
-        
-        return output
 
-        
+        return output

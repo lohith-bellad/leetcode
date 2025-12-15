@@ -14,9 +14,8 @@ class Solution:
                     del table[c]
             else:
                 table[c] = 1
-            
+
         for k, v in table.items():
             return k
-        
-        return ''
-        
+
+        return ""

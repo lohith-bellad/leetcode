@@ -2,7 +2,7 @@ class Solution:
     def longestNiceSubarray(self, nums: List[int]) -> int:
         if len(nums) < 2:
             return 1
-        
+
         left = 0
         right = 1
         max_size = 1
@@ -20,6 +20,5 @@ class Solution:
             else:
                 left = i + 1
                 right = left + 1
-        
+
         return max_size
-            

@@ -11,7 +11,7 @@ class Solution:
 
             while stack and temp >= stack[-1][0]:
                 stack.pop()
-            
+
             if len(stack) > 0:
                 output[ind] = stack[-1][1] - ind
             stack.append((temp, ind))

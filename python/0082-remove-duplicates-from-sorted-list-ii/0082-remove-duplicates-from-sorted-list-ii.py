@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode(float('-inf'))
+        dummy = ListNode(float("-inf"))
         dups = set()
         prev = dummy
         root = head
@@ -18,7 +18,7 @@ class Solution:
             else:
                 dups.add(root.val)
                 root = root.next
-        
+
         prev = dummy
         root = head
 
@@ -30,5 +30,5 @@ class Solution:
             else:
                 root = root.next
         prev.next = root
-                
+
         return dummy.next

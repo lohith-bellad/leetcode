@@ -16,7 +16,7 @@ class Solution:
         temp = s
         while start <= end and s[start].isalnum() == False:
             start += 1
-        
+
         while start <= end and s[end].isalnum() == False:
             end -= 1
 
@@ -29,10 +29,10 @@ class Solution:
 
             if temp[start].isdigit() and temp[start] != temp[end]:
                 return False
-            
+
             if temp[start].isalpha() and temp[start].lower() != temp[end].lower():
                 return False
-            
+
             start += 1
             end -= 1
 

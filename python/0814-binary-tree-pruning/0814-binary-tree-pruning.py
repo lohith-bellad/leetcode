@@ -19,5 +19,5 @@ class Solution:
                 else:
                     return None
             return root
-        
+
         return traverse(root)

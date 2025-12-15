@@ -10,5 +10,5 @@ class Solution:
                     my_stack.append(c)
             else:
                 my_stack.append(c)
-        
+
         return "".join(my_stack)

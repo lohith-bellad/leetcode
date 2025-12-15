@@ -10,11 +10,9 @@ class Solution:
                 max_area = max(max_area, (height * (i - ind)))
                 start = ind
             hstack.append((start, heights[i]))
-        
+
         while len(hstack) > 0:
             ind, height = hstack.pop()
             max_area = max(max_area, height * (len(heights) - ind))
-        
-        return max_area
 
-        
+        return max_area

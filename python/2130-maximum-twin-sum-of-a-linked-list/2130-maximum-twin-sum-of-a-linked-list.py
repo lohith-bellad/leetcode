@@ -17,7 +17,7 @@ class Solution:
                 head.next = prev
                 prev = head
                 head = temp
-            
+
             return prev
 
         while fast.next != None and fast.next.next != None:
@@ -32,6 +32,5 @@ class Solution:
             max_twin = max(max_twin, c1.val + c2.val)
             c1 = c1.next
             c2 = c2.next
-        
+
         return max_twin
-        

@@ -9,5 +9,5 @@ class Solution:
                 heapq.heappop(heap)
 
         max_elem = heapq.heappop(heap)
-        
+
         return max_elem

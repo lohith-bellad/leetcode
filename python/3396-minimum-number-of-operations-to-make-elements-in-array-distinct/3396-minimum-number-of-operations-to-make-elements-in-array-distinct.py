@@ -4,7 +4,7 @@ class Solution:
 
         for num in nums:
             counts[num] += 1
-        
+
         start = 0
         end = len(nums) - 1
         cnt = 0
@@ -14,5 +14,5 @@ class Solution:
             for i in range(start, end):
                 counts[nums[i]] -= 1
             start = start + 3
-        
+
         return cnt

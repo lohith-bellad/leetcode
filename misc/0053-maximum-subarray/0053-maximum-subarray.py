@@ -6,5 +6,5 @@ class Solution:
         for i in range(len(nums)):
             cur_sum = max(cur_sum, 0) + nums[i]
             max_sum = max(max_sum, cur_sum)
-        
+
         return max_sum

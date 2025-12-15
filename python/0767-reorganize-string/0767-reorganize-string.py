@@ -10,13 +10,13 @@ class Solution:
                 hash_map[c] = 0
             hash_map[c] += 1
 
-        for k,v in hash_map.items():
+        for k, v in hash_map.items():
             arr.append((-v, k))
-           
+
         heapq.heapify(arr)
         last_char = ""
         temp_q = []
-        
+
         while len(arr) > 1:
             p, q = heapq.heappop(arr)
             if q == last_char:
@@ -25,12 +25,12 @@ class Solution:
             output += q
             p = -p
             if p > 1:
-                heapq.heappush(arr, (-(p-1), q))
+                heapq.heappush(arr, (-(p - 1), q))
             while len(temp_q) > 0:
                 heapq.heappush(arr, temp_q.pop())
 
             last_char = q
-        
+
         p, q = heapq.heappop(arr)
         p = -p
         if p > 1:
@@ -39,6 +39,3 @@ class Solution:
             output += q
 
         return "".join(output)
-
-
-            

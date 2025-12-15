@@ -11,10 +11,10 @@ class Solution:
         def traverse(root: TreeNode, ind: int, levels: []):
             if root == None:
                 return
-            
+
             if len(levels) == ind:
                 levels.append([])
-            
+
             levels[ind].append(root.val)
 
             traverse(root.left, ind + 1, levels)

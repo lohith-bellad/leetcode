@@ -9,5 +9,5 @@ class Solution:
                 break
             idx += 1
             k -= diff
-        
+
         return nums[idx] + k

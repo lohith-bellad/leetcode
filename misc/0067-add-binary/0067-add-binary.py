@@ -1,13 +1,11 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-       
-        
         p1 = len(a) - 1
         p2 = len(b) - 1
         carry = 0
         result = ""
 
-        while p1 >=0 or p2 >= 0:
+        while p1 >= 0 or p2 >= 0:
             n1 = 0
             n2 = 0
             if p1 >= 0:

@@ -3,9 +3,9 @@ class Solution:
         def fact(n: int) -> int:
             if n == 0:
                 return 1
-            
-            return n * fact(n-1)
-        
+
+            return n * fact(n - 1)
+
         num = fact(n)
         cnt = 0
         while num > 0:
@@ -14,7 +14,5 @@ class Solution:
                 num = num // 10
             else:
                 break
-        
-        return cnt
 
-        
+        return cnt

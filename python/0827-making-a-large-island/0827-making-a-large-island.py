@@ -21,11 +21,15 @@ class Solution:
                         nrow = row + d[0]
                         ncol = col + d[1]
 
-                        if 0 <= nrow < size and 0 <= ncol < size and grid[nrow][ncol] == 1:
+                        if (
+                            0 <= nrow < size
+                            and 0 <= ncol < size
+                            and grid[nrow][ncol] == 1
+                        ):
                             queue.append((nrow, ncol))
                             grid[nrow][ncol] = island_idx
                             island_size += 1
-                
+
                 island_map[island_idx] = island_size
                 island_idx += 1
 
@@ -40,14 +44,18 @@ class Solution:
                         new_i = i + d[0]
                         new_j = j + d[1]
 
-                        if 0 <= new_i < size and 0 <= new_j < size and grid[new_i][new_j] != 0 and grid[new_i][new_j] not in island_set:
+                        if (
+                            0 <= new_i < size
+                            and 0 <= new_j < size
+                            and grid[new_i][new_j] != 0
+                            and grid[new_i][new_j] not in island_set
+                        ):
                             island_set.add(grid[new_i][new_j])
                             cur_size += island_map[grid[new_i][new_j]]
-                    
+
                     max_island_size = max(max_island_size, cur_size + 1)
-        
+
         if max_island_size == 0:
             return island_map[2]
-        
-        return max_island_size
 
+        return max_island_size

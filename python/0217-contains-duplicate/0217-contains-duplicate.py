@@ -7,5 +7,5 @@ class Solution:
                 hash_map[num] = 1
             else:
                 return True
-        
+
         return False

@@ -8,16 +8,16 @@ class Node:
         self.parent = None
 """
 
+
 class Solution:
-    def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
+    def lowestCommonAncestor(self, p: "Node", q: "Node") -> "Node":
         seen = []
 
         while p != None:
             seen.append(p)
             p = p.parent
-        
+
         while q != None:
             if q in seen:
                 return q
             q = q.parent
-        

@@ -12,7 +12,7 @@ class Solution:
                 while idx < len(s) and s[idx].isdigit():
                     num2 = (num2 * 10) + int(s[idx])
                     idx += 1
-                idx -= 1 
+                idx -= 1
                 if len(cstack) > 0 and (cstack[-1] == "*" or cstack[-1] == "/"):
                     op = cstack.pop()
                     num1 = cstack.pop()
@@ -20,7 +20,7 @@ class Solution:
                         cstack.append(num1 * num2)
                     else:
                         cstack.append(num1 // num2)
-                else: 
+                else:
                     cstack.append(num2)
             else:
                 cstack.append(s[idx])
@@ -36,6 +36,5 @@ class Solution:
                 cstack.append(num1 + num2)
             else:
                 cstack.append(num1 - num2)
-        
-        return cstack.pop()
 
+        return cstack.pop()

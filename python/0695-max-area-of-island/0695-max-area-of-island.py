@@ -21,11 +21,15 @@ class Solution:
                             nr = r + d[0]
                             nc = c + d[1]
 
-                            if 0 <= nr < row_max and 0 <= nc < col_max and grid[nr][nc] == 1:
+                            if (
+                                0 <= nr < row_max
+                                and 0 <= nc < col_max
+                                and grid[nr][nc] == 1
+                            ):
                                 queue.append((nr, nc))
                                 grid[nr][nc] = 2
                                 cnt += 1
-                    
+
                     max_island = max(max_island, cnt)
-        
+
         return max_island

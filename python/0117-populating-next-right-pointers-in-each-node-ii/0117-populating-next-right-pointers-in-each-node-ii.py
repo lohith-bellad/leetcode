@@ -8,27 +8,28 @@ class Node:
         self.next = next
 """
 
+
 class Solution:
-    def connect(self, root: 'Node') -> 'Node':
-        def traverse(root: 'Node', pointers: ['Node'], ind: int):
+    def connect(self, root: "Node") -> "Node":
+        def traverse(root: "Node", pointers: ["Node"], ind: int):
             if root == None:
                 return
-            
+
             if len(pointers) == ind:
                 pointers.append(root)
             else:
                 pointers[ind].next = root
                 pointers[ind] = root
-            
+
             traverse(root.left, pointers, ind + 1)
             traverse(root.right, pointers, ind + 1)
 
             return
-        
+
         links = []
         traverse(root, links, 0)
 
         for node in links:
             node.next = None
-        
+
         return root

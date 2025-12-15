@@ -2,7 +2,7 @@ class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
         g.sort()
         s.sort()
-        
+
         g_ptr = 0
         s_ptr = 0
 
@@ -10,5 +10,5 @@ class Solution:
             if g[g_ptr] <= s[s_ptr]:
                 g_ptr += 1
             s_ptr += 1
-    
+
         return g_ptr

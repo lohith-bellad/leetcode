@@ -8,10 +8,10 @@ class Solution:
                 hashmap[num] += 1
             else:
                 hashmap[num] = 1
-            
+
         for key, value in hashmap.items():
             if value in temp:
                 return False
             temp.append(value)
-        
+
         return True

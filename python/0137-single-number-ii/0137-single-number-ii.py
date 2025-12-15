@@ -6,5 +6,5 @@ class Solution:
             once = (once ^ num) & (~twice)
             twice = (twice ^ num) & (~once)
             print(once, twice)
-        
+
         return once

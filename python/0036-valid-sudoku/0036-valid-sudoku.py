@@ -17,7 +17,7 @@ class Solution:
                         col_hash[board[c][r]] = 1
                     else:
                         return False
-        
+
         for outer_row in range(0, 9, 3):
             for outer_col in range(0, 9, 3):
                 row_hash.clear()

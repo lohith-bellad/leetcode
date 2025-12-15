@@ -1,5 +1,4 @@
 class TicTacToe:
-
     def __init__(self, n: int):
         self.board = [[0 for i in range(n)] for i in range(n)]
         self.n = n
@@ -12,7 +11,7 @@ class TicTacToe:
                 break
             if i == self.n - 1:
                 return player
-        
+
         for i in range(self.n):
             if self.board[i][col] != player:
                 break
@@ -32,6 +31,7 @@ class TicTacToe:
                 return player
 
         return 0
+
 
 # Your TicTacToe object will be instantiated and called as such:
 # obj = TicTacToe(n)

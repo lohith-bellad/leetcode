@@ -13,14 +13,14 @@ class Solution:
                 num_stack.append(num)
                 continue
 
-            elif s[i] == '[':
-                alpha_stack.append('[')
+            elif s[i] == "[":
+                alpha_stack.append("[")
 
-            elif s[i] == ']':
+            elif s[i] == "]":
                 word = ""
-                while len(alpha_stack) > 0 and alpha_stack[-1] != '[':
+                while len(alpha_stack) > 0 and alpha_stack[-1] != "[":
                     word = word + alpha_stack.pop()[::-1]
-                
+
                 alpha_stack.pop()
                 word = word[::-1]
                 cnt = num_stack.pop()
@@ -29,7 +29,7 @@ class Solution:
 
             else:
                 alpha_stack.append(s[i])
-            
+
             i += 1
 
         return "".join(alpha_stack)

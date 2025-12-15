@@ -9,7 +9,8 @@ class MovingAverage:
         if len(self.nums) > self.size:
             self.nums = self.nums[1:]
 
-        return (1.0 * sum(self.nums))/len(self.nums)
+        return (1.0 * sum(self.nums)) / len(self.nums)
+
 
 """   
 class MovingAverage:

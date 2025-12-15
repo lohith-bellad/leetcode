@@ -1,5 +1,7 @@
 class Solution:
-    def hasPath(self, maze: List[List[int]], start: List[int], destination: List[int]) -> bool:
+    def hasPath(
+        self, maze: List[List[int]], start: List[int], destination: List[int]
+    ) -> bool:
         row_max = len(maze)
         col_max = len(maze[0])
 
@@ -18,7 +20,11 @@ class Solution:
                 nrow = row
                 ncol = col
 
-                while 0 <= nrow < row_max and 0 <= ncol < col_max and maze[nrow][ncol] == 0:
+                while (
+                    0 <= nrow < row_max
+                    and 0 <= ncol < col_max
+                    and maze[nrow][ncol] == 0
+                ):
                     nrow += d[0]
                     ncol += d[1]
                 nrow -= d[0]

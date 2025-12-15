@@ -28,9 +28,9 @@ class Solution:
         """
         pivot = -1
 
-        for i in range(len(nums) - 2, -1 , -1):
+        for i in range(len(nums) - 2, -1, -1):
             cur_num = nums[i]
-            next_num = nums[i+1]
+            next_num = nums[i + 1]
 
             if cur_num < next_num:
                 pivot = i
@@ -45,6 +45,6 @@ class Solution:
             i -= 1
 
         nums[pivot], nums[i] = nums[i], nums[pivot]
-        nums[pivot + 1:] = reversed(nums[pivot + 1:])
+        nums[pivot + 1 :] = reversed(nums[pivot + 1 :])
 
         return

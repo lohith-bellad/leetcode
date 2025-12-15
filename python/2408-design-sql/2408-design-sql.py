@@ -4,17 +4,17 @@ class table:
         self.name = name
         self.idx = 0
         self.rows = {}
-    
+
     def insert(self, row: List[str]):
         self.idx += 1
-        self.rows[self.idx] = (row)
-    
+        self.rows[self.idx] = row
+
     def remove(self, row_id: int):
         if row_id in self.rows:
             del self.rows[row_id]
 
-class SQL:
 
+class SQL:
     def __init__(self, names: List[str], columns: List[int]):
         self.tables = {}
         for i in range(len(names)):
@@ -24,7 +24,7 @@ class SQL:
     def ins(self, name: str, row: List[str]) -> bool:
         if name not in self.tables:
             return False
-        
+
         if self.tables[name].col != len(row):
             return False
 
@@ -35,33 +35,33 @@ class SQL:
     def rmv(self, name: str, rowId: int) -> None:
         if name not in self.tables:
             return
-        
+
         return self.tables[name].remove(rowId)
 
     def sel(self, name: str, rowId: int, columnId: int) -> str:
         if name not in self.tables:
             return "<null>"
-        
+
         if rowId not in self.tables[name].rows:
             return "<null>"
-        
+
         if 0 <= columnId <= self.tables[name].col:
             row = self.tables[name].rows[rowId]
             return row[columnId - 1]
-        
+
         return "<null>"
 
     def exp(self, name: str) -> List[str]:
         if name not in self.tables:
             return []
-        
+
         output = []
         for k, v in self.tables[name].rows.items():
             out = str(k)
             for cell in v:
                 out += "," + cell
             output.append(out)
-        
+
         return output
 
 

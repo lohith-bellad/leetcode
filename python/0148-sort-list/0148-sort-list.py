@@ -26,7 +26,7 @@ class Solution:
                 prev.next = right
                 right = right.next
             prev = prev.next
-        
+
         prev.next = left if left else right
 
         return dummy.next
@@ -39,7 +39,7 @@ class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head == None or head.next == None:
             return head
-        
+
         mid = self.get_mid(head)
         second = mid.next
         mid.next = None
@@ -48,6 +48,4 @@ class Solution:
         right = self.sortList(second)
 
         temp = self.merge(left, right)
-        return temp    
-
-
+        return temp

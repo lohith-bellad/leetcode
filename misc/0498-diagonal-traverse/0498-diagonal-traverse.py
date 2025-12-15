@@ -7,7 +7,7 @@ class Solution:
         for row in range(row_max):
             for col in range(col_max):
                 mat_map[row + col].append(mat[row][col])
-    
+
         indices = sorted(mat_map.keys())
 
         output = []
@@ -15,9 +15,9 @@ class Solution:
             if ind % 2 == 0:
                 mat_map[ind].reverse()
             output += mat_map[ind]
-    
+
         return output
-        
+
         """
         mapping = {}
 

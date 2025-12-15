@@ -13,12 +13,12 @@ class Solution:
                 start += 1
             rang.append(nums[idx - 1])
             output.append(rang)
-        
+
         for each in output:
             if each[0] == each[1]:
                 link = str(each[0])
             else:
                 link = str(each[0]) + "->" + str(each[1])
             out_str.append(link)
-        
+
         return out_str

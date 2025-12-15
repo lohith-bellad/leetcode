@@ -8,9 +8,9 @@ class Solution:
                     start = mid + 1
                 else:
                     end = mid - 1
-            
+
             return start
-        
+
         right = binary_search(0, len(arr) - 1)
         left = right - 1
 
@@ -25,4 +25,4 @@ class Solution:
                 right += 1
             k -= 1
 
-        return arr[left + 1:right]
+        return arr[left + 1 : right]

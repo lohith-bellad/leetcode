@@ -14,7 +14,7 @@ class Solution:
                     ind += 2
                 else:
                     ind += 1
-            
+
             if rob >= k:
                 end = mid
             else:

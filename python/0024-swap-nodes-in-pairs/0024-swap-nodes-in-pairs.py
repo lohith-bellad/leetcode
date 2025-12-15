@@ -19,5 +19,5 @@ class Solution:
             first.next = temp
             prev = first
             cur = temp
-        
+
         return dummy.next

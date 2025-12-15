@@ -10,8 +10,7 @@ class Solution:
                 n = n >> 1
             return count
 
-        for i in range(n+1):
+        for i in range(n + 1):
             output.append(count(i))
 
         return output
-            

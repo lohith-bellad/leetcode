@@ -1,5 +1,7 @@
 class Solution:
-    def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+    def calcEquation(
+        self, equations: List[List[str]], values: List[float], queries: List[List[str]]
+    ) -> List[float]:
         graph = {}
         output = []
 
@@ -9,14 +11,14 @@ class Solution:
 
             for link, cost in graph[p]:
                 if link == q:
-                    return prod*cost
-            
+                    return prod * cost
+
             for link, cost in graph[p]:
                 path.append(p)
-                c = findPair(graph, link, q, path, prod*cost)
+                c = findPair(graph, link, q, path, prod * cost)
                 if c != -1:
                     return c
-            
+
             return -1
 
         ind = 0
@@ -28,7 +30,7 @@ class Solution:
                 graph[b] = []
             graph[b].append((a, 1 / values[ind]))
             ind += 1
-        
+
         for p, q in queries:
             if p not in graph or q not in graph:
                 output.append(-1.0)

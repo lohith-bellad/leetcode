@@ -11,12 +11,12 @@ class Solution:
                     my_stack.append(bracket)
             else:
                 my_stack.append(bracket)
-        
+
         return len(my_stack)
         """
         p_stack = []
         result = 0
-    
+
         for i in range(len(s)):
             if s[i] in "(":
                 p_stack.append("(")
@@ -25,7 +25,7 @@ class Solution:
                     p_stack.pop()
                 else:
                     result += 1
-        
+
         result += len(p_stack)
-    
+
         return result

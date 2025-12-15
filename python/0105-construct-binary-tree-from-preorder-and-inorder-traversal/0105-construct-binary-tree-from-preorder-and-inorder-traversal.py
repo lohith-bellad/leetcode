@@ -9,13 +9,13 @@ class Solution:
         def traverse(preorder: List[int], inorder: List[int]) -> TreeNode:
             if len(preorder) == 0 or len(inorder) == 0:
                 return None
-            
+
             root = TreeNode(preorder[0])
             mid = inorder.index(preorder[0])
-            
-            root.left = traverse(preorder[1:mid + 1], inorder[:mid])
-            root.right = traverse(preorder[mid + 1:], inorder[mid + 1:])
+
+            root.left = traverse(preorder[1 : mid + 1], inorder[:mid])
+            root.right = traverse(preorder[mid + 1 :], inorder[mid + 1 :])
 
             return root
-        
+
         return traverse(preorder, inorder)

@@ -17,4 +17,4 @@ class Solution:
             else:
                 end = mid
 
-        return nums[end]    
+        return nums[end]

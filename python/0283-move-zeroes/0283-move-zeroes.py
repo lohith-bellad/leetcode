@@ -8,5 +8,5 @@ class Solution:
                 nums[idx], nums[pivot] = nums[pivot], nums[idx]
                 pivot += 1
             idx += 1
-        
+
         return

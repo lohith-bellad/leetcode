@@ -13,7 +13,7 @@ class Solution:
                     seq_num += 1
                     grid[i][j] = str(seq_num)
                     queue.append((i, j))
-                
+
                 while len(queue) > 0:
                     (r, c) = queue.popleft()
 
@@ -21,8 +21,12 @@ class Solution:
                         new_r = r + d[0]
                         new_c = c + d[1]
 
-                        if 0 <= new_r < row_max and 0 <= new_c < col_max and grid[new_r][new_c] == "1":
+                        if (
+                            0 <= new_r < row_max
+                            and 0 <= new_c < col_max
+                            and grid[new_r][new_c] == "1"
+                        ):
                             grid[new_r][new_c] = str(seq_num)
                             queue.append((new_r, new_c))
-        
+
         return seq_num - 1

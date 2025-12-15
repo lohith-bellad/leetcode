@@ -9,16 +9,16 @@ class Solution:
         def traverse(p: TreeNode, q: TreeNode) -> bool:
             if p == None and q != None or p != None and q == None:
                 return False
-            
+
             if p == None and q == None:
                 return True
 
             if p.val != q.val:
                 return False
-            
+
             left = traverse(p.left, q.left)
             right = traverse(p.right, q.right)
 
             return left and right
-        
+
         return traverse(p, q)

@@ -12,5 +12,3 @@ class Solution:
         for i in range(len(years)):
             if years[i] == max_pop:
                 return i + 1950
-        
-

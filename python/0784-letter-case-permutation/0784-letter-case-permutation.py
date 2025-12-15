@@ -3,7 +3,7 @@ class Solution:
         def traverse(s: str, ind: int) -> [""]:
             if ind == len(s):
                 return [""]
-            
+
             perms = traverse(s, ind + 1)
             temp = []
             for perm in perms:
@@ -15,5 +15,5 @@ class Solution:
                 else:
                     temp.append(s[ind] + perm)
             return temp
-        
+
         return traverse(s, 0)

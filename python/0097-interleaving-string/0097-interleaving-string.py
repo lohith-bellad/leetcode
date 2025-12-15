@@ -2,8 +2,8 @@ class Solution:
     def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
         def traverse(p1, p2, p3):
             if p3 == len(s3):
-               return True
-            
+                return True
+
             if (p1, p2) in mapping:
                 return mapping[(p1, p2)]
 
@@ -15,13 +15,12 @@ class Solution:
                 res = traverse(p1, p2 + 1, p3 + 1)
             else:
                 res = False
-            
+
             mapping[(p1, p2)] = res
             return res
 
-
         if len(s1) + len(s2) != len(s3):
             return False
-        
+
         mapping = {}
         return traverse(0, 0, 0)

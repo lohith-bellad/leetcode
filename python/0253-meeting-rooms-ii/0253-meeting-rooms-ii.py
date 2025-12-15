@@ -1,7 +1,7 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         intervals.sort()
-        
+
         rooms = [intervals[0]]
 
         for i in range(1, len(intervals)):
@@ -19,5 +19,4 @@ class Solution:
                 rooms.append([s, e])
 
         print(rooms)
-        return len(rooms)    
-            
+        return len(rooms)

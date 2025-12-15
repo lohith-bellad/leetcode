@@ -5,16 +5,16 @@ class SparseVector:
         for i, n in enumerate(nums):
             if n > 0:
                 self.indices.add(i)
-        
 
     # Return the dotProduct of two sparse vectors
-    def dotProduct(self, vec: 'SparseVector') -> int:
+    def dotProduct(self, vec: "SparseVector") -> int:
         res = 0
         ind = list(self.indices & vec.indices)
         for i in ind:
             res += self.nums[i] * vec.nums[i]
-        
+
         return res
+
 
 # Your SparseVector object will be instantiated and called as such:
 # v1 = SparseVector(nums1)

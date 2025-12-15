@@ -1,6 +1,6 @@
 class Solution:
     def getSum(self, a: int, b: int) -> int:
-        res = 0 
+        res = 0
         carry = 0
         mask = 0xFFFFFFFF
 
@@ -9,7 +9,7 @@ class Solution:
             carry = a & b
             a = res
             b = carry << 1
-        
+
         if b > 0:
             return a & mask
         else:

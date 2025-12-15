@@ -5,10 +5,10 @@ class Solution:
 
         for i in range(k):
             subarr_sum += arr[i]
-        
+
         if (subarr_sum / k) >= threshold:
             count += 1
-        
+
         start = 0
         end = k
 

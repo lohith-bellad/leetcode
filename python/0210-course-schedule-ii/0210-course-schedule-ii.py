@@ -3,7 +3,7 @@ class Solution:
         def dfs(course, visited, path, hash_map, order):
             if course in path:
                 return False
-            
+
             if course in visited:
                 return True
 
@@ -28,7 +28,7 @@ class Solution:
 
         for prereq in prerequisites:
             hash_map[prereq[0]].append(prereq[1])
-        
+
         order = []
         visited = set()
 
@@ -37,5 +37,3 @@ class Solution:
                 return []
 
         return order
-
-        

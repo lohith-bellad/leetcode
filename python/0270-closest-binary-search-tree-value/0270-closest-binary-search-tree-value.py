@@ -8,13 +8,13 @@ class Solution:
     def closestValue(self, root: Optional[TreeNode], target: float) -> int:
         def traverse(root: TreeNode, target: int) -> int:
             if root == None:
-                return float('inf')
-            
+                return float("inf")
+
             if root.val > target:
                 l = traverse(root.left, target)
-                return min(l, root.val, key = lambda x: (abs(target - x), x))
+                return min(l, root.val, key=lambda x: (abs(target - x), x))
             else:
                 r = traverse(root.right, target)
-                return min(r, root.val, key = lambda x: (abs(target - x), x))
-            
+                return min(r, root.val, key=lambda x: (abs(target - x), x))
+
         return traverse(root, target)

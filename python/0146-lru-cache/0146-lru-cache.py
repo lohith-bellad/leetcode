@@ -5,8 +5,8 @@ class Node:
         self.next = None
         self.prev = None
 
-class LRUCache:
 
+class LRUCache:
     def __init__(self, capacity: int):
         self.capacity = capacity
         self.table = {}
@@ -20,13 +20,13 @@ class LRUCache:
             self.remove_node(self.table[key])
             self.add_node(self.table[key])
             return self.table[key].val
-        
+
         return -1
-    
+
     def remove_node(self, node: Node):
         node.prev.next = node.next
         node.next.prev = node.prev
-    
+
     def add_node(self, node: Node):
         prev_node = self.tail.prev
         prev_node.next = node
@@ -38,7 +38,7 @@ class LRUCache:
         if key in self.table:
             old_node = self.table[key]
             self.remove_node(old_node)
-        
+
         new_node = Node(key, value)
         self.table[key] = new_node
         self.add_node(new_node)
@@ -47,6 +47,7 @@ class LRUCache:
             del_node = self.head.next
             self.remove_node(del_node)
             del self.table[del_node.key]
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)

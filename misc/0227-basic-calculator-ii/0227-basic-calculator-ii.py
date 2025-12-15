@@ -2,7 +2,7 @@ class Solution:
     def calculate(self, s: str) -> int:
         if s == "":
             return 0
-    
+
         cal_stack = []
         s = s + "+"
         num = 0
@@ -23,5 +23,5 @@ class Solution:
                     cal_stack.append(int(cal_stack.pop() / num))
                 num = 0
                 op = c
-    
+
         return sum(cal_stack)

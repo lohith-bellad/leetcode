@@ -6,5 +6,5 @@ class Solution:
         for num in range(2, len(arr)):
             if (arr[num] - arr[num - 1]) != diff:
                 return False
-        
+
         return True
