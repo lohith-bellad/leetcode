@@ -30,6 +30,7 @@ Constraints:
 
 from typing import List
 
+
 class UnionFind:
     def __init__(self, n: int):
         self.parent = [i for i in range(n)]
@@ -57,6 +58,7 @@ class UnionFind:
 
         return True
 
+
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
         uf = UnionFind(n)
@@ -66,7 +68,7 @@ class Solution:
 
             if not uf.union(a, b):
                 return False
-        
+
         output = set()
         for i in range(n):
             p = uf.find(i)

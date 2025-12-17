@@ -30,6 +30,7 @@ Constraints:
 
 from typing import List
 
+
 class UnionFind:
     def __init__(self, n: int):
         self.parent = [i for i in range(n)]
@@ -39,7 +40,7 @@ class UnionFind:
         while self.parent[n] != n:
             n = self.parent[n]
 
-        return n 
+        return n
 
     def union(self, n1: int, n2: int) -> bool:
         p1 = self.find(n1)
@@ -57,6 +58,7 @@ class UnionFind:
 
         return True
 
+
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
         uf = UnionFind(n)
@@ -67,7 +69,7 @@ class Solution:
             uf.union(a, b)
 
         for i in range(n):
-            p = uf.find(i) 
+            p = uf.find(i)
             output.add(p)
 
         return len(output)
