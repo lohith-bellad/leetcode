@@ -26,7 +26,7 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
         start_idx = 0
         max_len = 0
-        
+
         for start in range(len(s)):
             i = start
             j = start
@@ -50,4 +50,4 @@ class Solution:
                 i += 1
                 j -= 1
 
-        return s[start_idx: start_idx + max_len]
+        return s[start_idx : start_idx + max_len]

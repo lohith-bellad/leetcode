@@ -49,8 +49,7 @@ class Solution:
         words = s.split()
         output = ""
 
-        for i in range(len(words) - 1, -1 , -1):
+        for i in range(len(words) - 1, -1, -1):
             output += words[i] + " "
 
-        return output[:len(output) - 1]
-
+        return output[: len(output) - 1]

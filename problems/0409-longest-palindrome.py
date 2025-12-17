@@ -34,7 +34,7 @@ class Solution:
 
         for c in s:
             ctable[c] = ctable.get(c, 0) + 1
-        
+
         for _, value in ctable.items():
             if value % 2 == 0:
                 output += value

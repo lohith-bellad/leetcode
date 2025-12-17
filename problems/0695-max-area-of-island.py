@@ -38,6 +38,7 @@ Constraints:
     * grid[i][j] is either 0 or 1.
 
 """
+
 from typing import List
 
 
@@ -65,7 +66,12 @@ class Solution:
                             nrow = row + d[0]
                             ncol = col + d[1]
 
-                            if 0 <= nrow < row_max and 0 <= ncol < col_max and grid[nrow][ncol] == 1 and (nrow, ncol) not in visited:
+                            if (
+                                0 <= nrow < row_max
+                                and 0 <= ncol < col_max
+                                and grid[nrow][ncol] == 1
+                                and (nrow, ncol) not in visited
+                            ):
                                 queue.append((nrow, ncol))
                                 visited.add((nrow, ncol))
                                 cur_area += 1

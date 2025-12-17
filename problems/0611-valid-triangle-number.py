@@ -24,6 +24,7 @@ Constraints:
     * 0 <= nums[i] <= 1000
 
 """
+
 from typing import List
 
 
@@ -33,7 +34,7 @@ class Solution:
         output = 0
 
         max_side = len(nums) - 1
-        
+
         while max_side >= 2:
             left = 0
             right = max_side - 1
@@ -48,7 +49,3 @@ class Solution:
             max_side -= 1
 
         return output
-
-
-
-
