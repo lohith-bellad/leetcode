@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 108** | Easy: 48 | Medium: 60 | Hard: 0
+**Total Problems: 164** | Easy: 49 | Medium: 115 | Hard: 0
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -112,3 +112,59 @@
 | 106 | <a href="https://leetcode.com/problems/binary-search/">704</a> | <a href="problems/0704-binary-search.py">Binary Search</a> | Easy |
 | 107 | <a href="https://leetcode.com/problems/flood-fill/">733</a> | <a href="problems/0733-flood-fill.py">Flood Fill</a> | Easy |
 | 108 | <a href="https://leetcode.com/problems/middle-of-the-linked-list/">876</a> | <a href="problems/0876-middle-of-the-linked-list.py">Middle of the Linked List</a> | Easy |
+| 109 | <a href="https://leetcode.com/problems/4sum/">18</a> | <a href="problems/0018-4sum.py">4Sum</a> | Medium |
+| 110 | <a href="https://leetcode.com/problems/combination-sum/">39</a> | <a href="problems/0039-combination-sum.py">Combination Sum</a> | Medium |
+| 111 | <a href="https://leetcode.com/problems/combination-sum-ii/">40</a> | <a href="problems/0040-combination-sum-ii.py">Combination Sum II</a> | Medium |
+| 112 | <a href="https://leetcode.com/problems/unique-paths/">62</a> | <a href="problems/0062-unique-paths.py">Unique Paths</a> | Medium |
+| 113 | <a href="https://leetcode.com/problems/word-search/">79</a> | <a href="problems/0079-word-search.py">Word Search</a> | Medium |
+| 114 | <a href="https://leetcode.com/problems/unique-binary-search-trees/">96</a> | <a href="problems/0096-unique-binary-search-trees.py">Unique Binary Search Trees</a> | Medium |
+| 115 | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">128</a> | <a href="problems/0128-longest-consecutive-sequence.py">Longest Consecutive Sequence</a> | Medium |
+| 116 | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">153</a> | <a href="problems/0153-find-minimum-in-rotated-sorted-array.py">Find Minimum in Rotated Sorted Array</a> | Medium |
+| 117 | <a href="https://leetcode.com/problems/course-schedule/">207</a> | <a href="problems/0207-course-schedule.py">Course Schedule</a> | Medium |
+| 118 | <a href="https://leetcode.com/problems/course-schedule-ii/">210</a> | <a href="problems/0210-course-schedule-ii.py">Course Schedule II</a> | Medium |
+| 119 | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure/">211</a> | <a href="problems/0211-design-add-and-search-words-data-structure.py">Design Add and Search Words Data Structure</a> | Medium |
+| 120 | <a href="https://leetcode.com/problems/house-robber-ii/">213</a> | <a href="problems/0213-house-robber-ii.py">House Robber II</a> | Medium |
+| 121 | <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">230</a> | <a href="problems/0230-kth-smallest-element-in-a-bst.py">Kth Smallest Element in a BST</a> | Medium |
+| 122 | <a href="https://leetcode.com/problems/h-index/">274</a> | <a href="problems/0274-h-index.py">H-Index</a> | Medium |
+| 123 | <a href="https://leetcode.com/problems/house-robber-iii/">337</a> | <a href="problems/0337-house-robber-iii.py">House Robber III</a> | Medium |
+| 124 | <a href="https://leetcode.com/problems/decode-string/">394</a> | <a href="problems/0394-decode-string.py">Decode String</a> | Medium |
+| 125 | <a href="https://leetcode.com/problems/evaluate-division/">399</a> | <a href="problems/0399-evaluate-division.py">Evaluate Division</a> | Medium |
+| 126 | <a href="https://leetcode.com/problems/partition-equal-subset-sum/">416</a> | <a href="problems/0416-partition-equal-subset-sum.py">Partition Equal Subset Sum</a> | Medium |
+| 127 | <a href="https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/">430</a> | <a href="problems/0430-flatten-a-multilevel-doubly-linked-list.py">Flatten a Multilevel Doubly Linked List</a> | Medium |
+| 128 | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">560</a> | <a href="problems/0560-subarray-sum-equals-k.py">Subarray Sum Equals K</a> | Medium |
+| 129 | <a href="https://leetcode.com/problems/task-scheduler/">621</a> | <a href="problems/0621-task-scheduler.py">Task Scheduler</a> | Medium |
+| 130 | <a href="https://leetcode.com/problems/accounts-merge/">721</a> | <a href="problems/0721-accounts-merge.py">Accounts Merge</a> | Medium |
+| 131 | <a href="https://leetcode.com/problems/partition-labels/">763</a> | <a href="problems/0763-partition-labels.py">Partition Labels</a> | Medium |
+| 132 | <a href="https://leetcode.com/problems/koko-eating-bananas/">875</a> | <a href="problems/0875-koko-eating-bananas.py">Koko Eating Bananas</a> | Medium |
+| 133 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">921</a> | <a href="problems/0921-minimum-add-to-make-parentheses-valid.py">Minimum Add to Make Parentheses Valid</a> | Medium |
+| 134 | <a href="https://leetcode.com/problems/robot-bounded-in-circle/">1041</a> | <a href="problems/1041-robot-bounded-in-circle.py">Robot Bounded In Circle</a> | Medium |
+| 135 | <a href="https://leetcode.com/problems/longest-string-chain/">1048</a> | <a href="problems/1048-longest-string-chain.py">Longest String Chain</a> | Medium |
+| 136 | <a href="https://leetcode.com/problems/minimum-knight-moves/">1197</a> | <a href="problems/1197-minimum-knight-moves.py">Minimum Knight Moves</a> | Medium |
+| 137 | <a href="https://leetcode.com/problems/cinema-seat-allocation/">1386</a> | <a href="problems/1386-cinema-seat-allocation.py">Cinema Seat Allocation</a> | Medium |
+| 138 | <a href="https://leetcode.com/problems/design-authentication-manager/">1797</a> | <a href="problems/1797-design-authentication-manager.py">Design Authentication Manager</a> | Medium |
+| 139 | <a href="https://leetcode.com/problems/process-tasks-using-servers/">1882</a> | <a href="problems/1882-process-tasks-using-servers.py">Process Tasks Using Servers</a> | Medium |
+| 140 | <a href="https://leetcode.com/problems/stock-price-fluctuation/">2034</a> | <a href="problems/2034-stock-price-fluctuation.py">Stock Price Fluctuation</a> | Medium |
+| 141 | <a href="https://leetcode.com/problems/house-robber-iv/">2560</a> | <a href="problems/2560-house-robber-iv.py">House Robber IV</a> | Medium |
+| 142 | <a href="https://leetcode.com/problems/longest-palindromic-substring/">5</a> | <a href="problems/0005-longest-palindromic-substring.py">Longest Palindromic Substring</a> | Medium |
+| 143 | <a href="https://leetcode.com/problems/rotate-list/">61</a> | <a href="problems/0061-rotate-list.py">Rotate List</a> | Medium |
+| 144 | <a href="https://leetcode.com/problems/reverse-words-in-a-string/">151</a> | <a href="problems/0151-reverse-words-in-a-string.py">Reverse Words in a String</a> | Medium |
+| 145 | <a href="https://leetcode.com/problems/min-stack/">155</a> | <a href="problems/0155-min-stack.py">Min Stack</a> | Easy |
+| 146 | <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">323</a> | <a href="problems/0323-number-of-connected-components-in-an-undirected-graph.py">Number of Connected Components in an Undirected Graph</a> | Medium |
+| 147 | <a href="https://leetcode.com/problems/shuffle-an-array/">384</a> | <a href="problems/0384-shuffle-an-array.py">Shuffle an Array</a> | Medium |
+| 148 | <a href="https://leetcode.com/problems/delete-node-in-a-bst/">450</a> | <a href="problems/0450-delete-node-in-a-bst.py">Delete Node in a BST</a> | Medium |
+| 149 | <a href="https://leetcode.com/problems/implement-rand10-using-rand7/">470</a> | <a href="problems/0470-implement-rand10-using-rand7.py">Implement Rand10() Using Rand7()</a> | Medium |
+| 150 | <a href="https://leetcode.com/problems/valid-triangle-number/">611</a> | <a href="problems/0611-valid-triangle-number.py">Valid Triangle Number</a> | Medium |
+| 151 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">633</a> | <a href="problems/0633-sum-of-square-numbers.py">Sum of Square Numbers</a> | Medium |
+| 152 | <a href="https://leetcode.com/problems/find-k-closest-elements/">658</a> | <a href="problems/0658-find-k-closest-elements.py">Find K Closest Elements</a> | Medium |
+| 153 | <a href="https://leetcode.com/problems/valid-parenthesis-string/">678</a> | <a href="problems/0678-valid-parenthesis-string.py">Valid Parenthesis String</a> | Medium |
+| 154 | <a href="https://leetcode.com/problems/max-area-of-island/">695</a> | <a href="problems/0695-max-area-of-island.py">Max Area of Island</a> | Medium |
+| 155 | <a href="https://leetcode.com/problems/closest-leaf-in-a-binary-tree/">742</a> | <a href="problems/0742-closest-leaf-in-a-binary-tree.py">Closest Leaf in a Binary Tree</a> | Medium |
+| 156 | <a href="https://leetcode.com/problems/is-graph-bipartite/">785</a> | <a href="problems/0785-is-graph-bipartite.py">Is Graph Bipartite?</a> | Medium |
+| 157 | <a href="https://leetcode.com/problems/possible-bipartition/">886</a> | <a href="problems/0886-possible-bipartition.py">Possible Bipartition</a> | Medium |
+| 158 | <a href="https://leetcode.com/problems/validate-stack-sequences/">946</a> | <a href="problems/0946-validate-stack-sequences.py">Validate Stack Sequences</a> | Medium |
+| 159 | <a href="https://leetcode.com/problems/k-closest-points-to-origin/">973</a> | <a href="problems/0973-k-closest-points-to-origin.py">K Closest Points to Origin</a> | Medium |
+| 160 | <a href="https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/">1343</a> | <a href="problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py">Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold</a> | Medium |
+| 161 | <a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">1570</a> | <a href="problems/1570-dot-product-of-two-sparse-vectors.py">Dot Product of Two Sparse Vectors</a> | Medium |
+| 162 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">2196</a> | <a href="problems/2196-create-binary-tree-from-descriptions.py">Create Binary Tree From Descriptions</a> | Medium |
+| 163 | <a href="https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/">2431</a> | <a href="problems/2431-maximize-total-tastiness-of-purchased-fruits.py">Maximize Total Tastiness of Purchased Fruits</a> | Medium |
+| 164 | <a href="https://leetcode.com/problems/number-of-divisible-triplet-sums/">2964</a> | <a href="problems/2964-number-of-divisible-triplet-sums.py">Number of Divisible Triplet Sums</a> | Medium |
