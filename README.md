@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 164** | Easy: 49 | Medium: 115 | Hard: 0
+**Total Problems: 175** | Easy: 49 | Medium: 115 | Hard: 11
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -168,3 +168,14 @@
 | 162 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">2196</a> | <a href="problems/2196-create-binary-tree-from-descriptions.py">Create Binary Tree From Descriptions</a> | Medium |
 | 163 | <a href="https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/">2431</a> | <a href="problems/2431-maximize-total-tastiness-of-purchased-fruits.py">Maximize Total Tastiness of Purchased Fruits</a> | Medium |
 | 164 | <a href="https://leetcode.com/problems/number-of-divisible-triplet-sums/">2964</a> | <a href="problems/2964-number-of-divisible-triplet-sums.py">Number of Divisible Triplet Sums</a> | Medium |
+| 165 | <a href="https://leetcode.com/problems/word-ladder-ii/">126</a> | <a href="problems/0126-word-ladder-ii.py">Word Ladder II</a> | Hard |
+| 166 | <a href="https://leetcode.com/problems/word-ladder/">127</a> | <a href="problems/0127-word-ladder.py">Word Ladder</a> | Hard |
+| 167 | <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">297</a> | <a href="problems/0297-serialize-and-deserialize-binary-tree.py">Serialize and Deserialize Binary Tree</a> | Hard |
+| 168 | <a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/">381</a> | <a href="problems/0381-insert-delete-getrandom-o1-duplicates-allowed.py">Insert Delete GetRandom O(1) - Duplicates allowed</a> | Hard |
+| 169 | <a href="https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/">428</a> | <a href="problems/0428-serialize-and-deserialize-n-ary-tree.py">Serialize and Deserialize N-ary Tree</a> | Hard |
+| 170 | <a href="https://leetcode.com/problems/all-oone-data-structure/">432</a> | <a href="problems/0432-all-oone-data-structure.py">All O'one Data Structure</a> | Hard |
+| 171 | <a href="https://leetcode.com/problems/lfu-cache/">460</a> | <a href="problems/0460-lfu-cache.py">LFU Cache</a> | Hard |
+| 172 | <a href="https://leetcode.com/problems/robot-room-cleaner/">489</a> | <a href="problems/0489-robot-room-cleaner.py">Robot Room Cleaner</a> | Hard |
+| 173 | <a href="https://leetcode.com/problems/max-stack/">716</a> | <a href="problems/0716-max-stack.py">Max Stack</a> | Hard |
+| 174 | <a href="https://leetcode.com/problems/minimum-window-subsequence/">727</a> | <a href="problems/0727-minimum-window-subsequence.py">Minimum Window Subsequence</a> | Hard |
+| 175 | <a href="https://leetcode.com/problems/making-a-large-island/">827</a> | <a href="problems/0827-making-a-large-island.py">Making A Large Island</a> | Hard |
