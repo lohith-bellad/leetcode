@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 175** | Easy: 49 | Medium: 115 | Hard: 11
+**Total Problems: 181** | Easy: 50 | Medium: 119 | Hard: 12
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -179,3 +179,9 @@
 | 173 | <a href="https://leetcode.com/problems/max-stack/">716</a> | <a href="problems/0716-max-stack.py">Max Stack</a> | Hard |
 | 174 | <a href="https://leetcode.com/problems/minimum-window-subsequence/">727</a> | <a href="problems/0727-minimum-window-subsequence.py">Minimum Window Subsequence</a> | Hard |
 | 175 | <a href="https://leetcode.com/problems/making-a-large-island/">827</a> | <a href="problems/0827-making-a-large-island.py">Making A Large Island</a> | Hard |
+| 176 | <a href="https://leetcode.com/problems/container-with-most-water/">11</a> | <a href="problems/0011-container-with-most-water.py">Container With Most Water</a> | Medium |
+| 177 | <a href="https://leetcode.com/problems/trapping-rain-water/">42</a> | <a href="problems/0042-trapping-rain-water.py">Trapping Rain Water</a> | Hard |
+| 178 | <a href="https://leetcode.com/problems/sort-colors/">75</a> | <a href="problems/0075-sort-colors.py">Sort Colors</a> | Medium |
+| 179 | <a href="https://leetcode.com/problems/triangle/">120</a> | <a href="problems/0120-triangle.py">Triangle</a> | Medium |
+| 180 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167</a> | <a href="problems/0167-two-sum-ii-input-array-is-sorted.py">Two Sum II - Input Array Is Sorted</a> | Medium |
+| 181 | <a href="https://leetcode.com/problems/move-zeroes/">283</a> | <a href="problems/0283-move-zeroes.py">Move Zeroes</a> | Easy |
