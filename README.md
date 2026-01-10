@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 181** | Easy: 50 | Medium: 119 | Hard: 12
+**Total Problems: 184** | Easy: 50 | Medium: 122 | Hard: 12
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -185,3 +185,6 @@
 | 179 | <a href="https://leetcode.com/problems/triangle/">120</a> | <a href="problems/0120-triangle.py">Triangle</a> | Medium |
 | 180 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167</a> | <a href="problems/0167-two-sum-ii-input-array-is-sorted.py">Two Sum II - Input Array Is Sorted</a> | Medium |
 | 181 | <a href="https://leetcode.com/problems/move-zeroes/">283</a> | <a href="problems/0283-move-zeroes.py">Move Zeroes</a> | Easy |
+| 182 | <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">424</a> | <a href="problems/0424-longest-repeating-character-replacement.py">Longest Repeating Character Replacement</a> | Medium |
+| 183 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">1423</a> | <a href="problems/1423-maximum-points-you-can-obtain-from-cards.py">Maximum Points You Can Obtain from Cards</a> | Medium |
+| 184 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">2461</a> | <a href="problems/2461-maximum-sum-of-distinct-subarrays-with-length-k.py">Maximum Sum of Distinct Subarrays With Length K</a> | Medium |
