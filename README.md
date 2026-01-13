@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 184** | Easy: 50 | Medium: 122 | Hard: 12
+**Total Problems: 187** | Easy: 50 | Medium: 123 | Hard: 14
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -188,3 +188,6 @@
 | 182 | <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">424</a> | <a href="problems/0424-longest-repeating-character-replacement.py">Longest Repeating Character Replacement</a> | Medium |
 | 183 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">1423</a> | <a href="problems/1423-maximum-points-you-can-obtain-from-cards.py">Maximum Points You Can Obtain from Cards</a> | Medium |
 | 184 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">2461</a> | <a href="problems/2461-maximum-sum-of-distinct-subarrays-with-length-k.py">Maximum Sum of Distinct Subarrays With Length K</a> | Medium |
+| 185 | <a href="https://leetcode.com/problems/longest-valid-parentheses/">32</a> | <a href="problems/0032-longest-valid-parentheses.py">Longest Valid Parentheses</a> | Hard |
+| 186 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">84</a> | <a href="problems/0084-largest-rectangle-in-histogram.py">Largest Rectangle in Histogram</a> | Hard |
+| 187 | <a href="https://leetcode.com/problems/daily-temperatures/">739</a> | <a href="problems/0739-daily-temperatures.py">Daily Temperatures</a> | Medium |
