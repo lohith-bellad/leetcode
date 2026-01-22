@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-**Total Problems: 187** | Easy: 50 | Medium: 123 | Hard: 14
+**Total Problems: 195** | Easy: 52 | Medium: 128 | Hard: 15
 
 | Serial # | Problem # | Problem Title | Difficulty |
 |----------|-----------|---------------|------------|
@@ -139,55 +139,63 @@
 | 133 | <a href="https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/">921</a> | <a href="problems/0921-minimum-add-to-make-parentheses-valid.py">Minimum Add to Make Parentheses Valid</a> | Medium |
 | 134 | <a href="https://leetcode.com/problems/robot-bounded-in-circle/">1041</a> | <a href="problems/1041-robot-bounded-in-circle.py">Robot Bounded In Circle</a> | Medium |
 | 135 | <a href="https://leetcode.com/problems/longest-string-chain/">1048</a> | <a href="problems/1048-longest-string-chain.py">Longest String Chain</a> | Medium |
-| 136 | <a href="https://leetcode.com/problems/minimum-knight-moves/">1197</a> | <a href="problems/1197-minimum-knight-moves.py">Minimum Knight Moves</a> | Medium |
-| 137 | <a href="https://leetcode.com/problems/cinema-seat-allocation/">1386</a> | <a href="problems/1386-cinema-seat-allocation.py">Cinema Seat Allocation</a> | Medium |
-| 138 | <a href="https://leetcode.com/problems/design-authentication-manager/">1797</a> | <a href="problems/1797-design-authentication-manager.py">Design Authentication Manager</a> | Medium |
-| 139 | <a href="https://leetcode.com/problems/process-tasks-using-servers/">1882</a> | <a href="problems/1882-process-tasks-using-servers.py">Process Tasks Using Servers</a> | Medium |
-| 140 | <a href="https://leetcode.com/problems/stock-price-fluctuation/">2034</a> | <a href="problems/2034-stock-price-fluctuation.py">Stock Price Fluctuation</a> | Medium |
-| 141 | <a href="https://leetcode.com/problems/house-robber-iv/">2560</a> | <a href="problems/2560-house-robber-iv.py">House Robber IV</a> | Medium |
-| 142 | <a href="https://leetcode.com/problems/longest-palindromic-substring/">5</a> | <a href="problems/0005-longest-palindromic-substring.py">Longest Palindromic Substring</a> | Medium |
-| 143 | <a href="https://leetcode.com/problems/rotate-list/">61</a> | <a href="problems/0061-rotate-list.py">Rotate List</a> | Medium |
-| 144 | <a href="https://leetcode.com/problems/reverse-words-in-a-string/">151</a> | <a href="problems/0151-reverse-words-in-a-string.py">Reverse Words in a String</a> | Medium |
-| 145 | <a href="https://leetcode.com/problems/min-stack/">155</a> | <a href="problems/0155-min-stack.py">Min Stack</a> | Easy |
-| 146 | <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">323</a> | <a href="problems/0323-number-of-connected-components-in-an-undirected-graph.py">Number of Connected Components in an Undirected Graph</a> | Medium |
-| 147 | <a href="https://leetcode.com/problems/shuffle-an-array/">384</a> | <a href="problems/0384-shuffle-an-array.py">Shuffle an Array</a> | Medium |
-| 148 | <a href="https://leetcode.com/problems/delete-node-in-a-bst/">450</a> | <a href="problems/0450-delete-node-in-a-bst.py">Delete Node in a BST</a> | Medium |
-| 149 | <a href="https://leetcode.com/problems/implement-rand10-using-rand7/">470</a> | <a href="problems/0470-implement-rand10-using-rand7.py">Implement Rand10() Using Rand7()</a> | Medium |
-| 150 | <a href="https://leetcode.com/problems/valid-triangle-number/">611</a> | <a href="problems/0611-valid-triangle-number.py">Valid Triangle Number</a> | Medium |
-| 151 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">633</a> | <a href="problems/0633-sum-of-square-numbers.py">Sum of Square Numbers</a> | Medium |
-| 152 | <a href="https://leetcode.com/problems/find-k-closest-elements/">658</a> | <a href="problems/0658-find-k-closest-elements.py">Find K Closest Elements</a> | Medium |
-| 153 | <a href="https://leetcode.com/problems/valid-parenthesis-string/">678</a> | <a href="problems/0678-valid-parenthesis-string.py">Valid Parenthesis String</a> | Medium |
-| 154 | <a href="https://leetcode.com/problems/max-area-of-island/">695</a> | <a href="problems/0695-max-area-of-island.py">Max Area of Island</a> | Medium |
-| 155 | <a href="https://leetcode.com/problems/closest-leaf-in-a-binary-tree/">742</a> | <a href="problems/0742-closest-leaf-in-a-binary-tree.py">Closest Leaf in a Binary Tree</a> | Medium |
-| 156 | <a href="https://leetcode.com/problems/is-graph-bipartite/">785</a> | <a href="problems/0785-is-graph-bipartite.py">Is Graph Bipartite?</a> | Medium |
-| 157 | <a href="https://leetcode.com/problems/possible-bipartition/">886</a> | <a href="problems/0886-possible-bipartition.py">Possible Bipartition</a> | Medium |
-| 158 | <a href="https://leetcode.com/problems/validate-stack-sequences/">946</a> | <a href="problems/0946-validate-stack-sequences.py">Validate Stack Sequences</a> | Medium |
-| 159 | <a href="https://leetcode.com/problems/k-closest-points-to-origin/">973</a> | <a href="problems/0973-k-closest-points-to-origin.py">K Closest Points to Origin</a> | Medium |
-| 160 | <a href="https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/">1343</a> | <a href="problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py">Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold</a> | Medium |
-| 161 | <a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">1570</a> | <a href="problems/1570-dot-product-of-two-sparse-vectors.py">Dot Product of Two Sparse Vectors</a> | Medium |
-| 162 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">2196</a> | <a href="problems/2196-create-binary-tree-from-descriptions.py">Create Binary Tree From Descriptions</a> | Medium |
-| 163 | <a href="https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/">2431</a> | <a href="problems/2431-maximize-total-tastiness-of-purchased-fruits.py">Maximize Total Tastiness of Purchased Fruits</a> | Medium |
-| 164 | <a href="https://leetcode.com/problems/number-of-divisible-triplet-sums/">2964</a> | <a href="problems/2964-number-of-divisible-triplet-sums.py">Number of Divisible Triplet Sums</a> | Medium |
-| 165 | <a href="https://leetcode.com/problems/word-ladder-ii/">126</a> | <a href="problems/0126-word-ladder-ii.py">Word Ladder II</a> | Hard |
-| 166 | <a href="https://leetcode.com/problems/word-ladder/">127</a> | <a href="problems/0127-word-ladder.py">Word Ladder</a> | Hard |
-| 167 | <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">297</a> | <a href="problems/0297-serialize-and-deserialize-binary-tree.py">Serialize and Deserialize Binary Tree</a> | Hard |
-| 168 | <a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/">381</a> | <a href="problems/0381-insert-delete-getrandom-o1-duplicates-allowed.py">Insert Delete GetRandom O(1) - Duplicates allowed</a> | Hard |
-| 169 | <a href="https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/">428</a> | <a href="problems/0428-serialize-and-deserialize-n-ary-tree.py">Serialize and Deserialize N-ary Tree</a> | Hard |
-| 170 | <a href="https://leetcode.com/problems/all-oone-data-structure/">432</a> | <a href="problems/0432-all-oone-data-structure.py">All O'one Data Structure</a> | Hard |
-| 171 | <a href="https://leetcode.com/problems/lfu-cache/">460</a> | <a href="problems/0460-lfu-cache.py">LFU Cache</a> | Hard |
-| 172 | <a href="https://leetcode.com/problems/robot-room-cleaner/">489</a> | <a href="problems/0489-robot-room-cleaner.py">Robot Room Cleaner</a> | Hard |
-| 173 | <a href="https://leetcode.com/problems/max-stack/">716</a> | <a href="problems/0716-max-stack.py">Max Stack</a> | Hard |
-| 174 | <a href="https://leetcode.com/problems/minimum-window-subsequence/">727</a> | <a href="problems/0727-minimum-window-subsequence.py">Minimum Window Subsequence</a> | Hard |
-| 175 | <a href="https://leetcode.com/problems/making-a-large-island/">827</a> | <a href="problems/0827-making-a-large-island.py">Making A Large Island</a> | Hard |
-| 176 | <a href="https://leetcode.com/problems/container-with-most-water/">11</a> | <a href="problems/0011-container-with-most-water.py">Container With Most Water</a> | Medium |
-| 177 | <a href="https://leetcode.com/problems/trapping-rain-water/">42</a> | <a href="problems/0042-trapping-rain-water.py">Trapping Rain Water</a> | Hard |
-| 178 | <a href="https://leetcode.com/problems/sort-colors/">75</a> | <a href="problems/0075-sort-colors.py">Sort Colors</a> | Medium |
-| 179 | <a href="https://leetcode.com/problems/triangle/">120</a> | <a href="problems/0120-triangle.py">Triangle</a> | Medium |
-| 180 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167</a> | <a href="problems/0167-two-sum-ii-input-array-is-sorted.py">Two Sum II - Input Array Is Sorted</a> | Medium |
-| 181 | <a href="https://leetcode.com/problems/move-zeroes/">283</a> | <a href="problems/0283-move-zeroes.py">Move Zeroes</a> | Easy |
-| 182 | <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">424</a> | <a href="problems/0424-longest-repeating-character-replacement.py">Longest Repeating Character Replacement</a> | Medium |
-| 183 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">1423</a> | <a href="problems/1423-maximum-points-you-can-obtain-from-cards.py">Maximum Points You Can Obtain from Cards</a> | Medium |
-| 184 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">2461</a> | <a href="problems/2461-maximum-sum-of-distinct-subarrays-with-length-k.py">Maximum Sum of Distinct Subarrays With Length K</a> | Medium |
-| 185 | <a href="https://leetcode.com/problems/longest-valid-parentheses/">32</a> | <a href="problems/0032-longest-valid-parentheses.py">Longest Valid Parentheses</a> | Hard |
-| 186 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">84</a> | <a href="problems/0084-largest-rectangle-in-histogram.py">Largest Rectangle in Histogram</a> | Hard |
-| 187 | <a href="https://leetcode.com/problems/daily-temperatures/">739</a> | <a href="problems/0739-daily-temperatures.py">Daily Temperatures</a> | Medium |
+| 136 | <a href="https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/">1161</a> | <a href="problems/1161-maximum-level-sum-of-a-binary-tree.py">Maximum Level Sum of a Binary Tree</a> | Medium |
+| 137 | <a href="https://leetcode.com/problems/minimum-knight-moves/">1197</a> | <a href="problems/1197-minimum-knight-moves.py">Minimum Knight Moves</a> | Medium |
+| 138 | <a href="https://leetcode.com/problems/cinema-seat-allocation/">1386</a> | <a href="problems/1386-cinema-seat-allocation.py">Cinema Seat Allocation</a> | Medium |
+| 139 | <a href="https://leetcode.com/problems/design-authentication-manager/">1797</a> | <a href="problems/1797-design-authentication-manager.py">Design Authentication Manager</a> | Medium |
+| 140 | <a href="https://leetcode.com/problems/process-tasks-using-servers/">1882</a> | <a href="problems/1882-process-tasks-using-servers.py">Process Tasks Using Servers</a> | Medium |
+| 141 | <a href="https://leetcode.com/problems/stock-price-fluctuation/">2034</a> | <a href="problems/2034-stock-price-fluctuation.py">Stock Price Fluctuation</a> | Medium |
+| 142 | <a href="https://leetcode.com/problems/house-robber-iv/">2560</a> | <a href="problems/2560-house-robber-iv.py">House Robber IV</a> | Medium |
+| 143 | <a href="https://leetcode.com/problems/longest-palindromic-substring/">5</a> | <a href="problems/0005-longest-palindromic-substring.py">Longest Palindromic Substring</a> | Medium |
+| 144 | <a href="https://leetcode.com/problems/rotate-list/">61</a> | <a href="problems/0061-rotate-list.py">Rotate List</a> | Medium |
+| 145 | <a href="https://leetcode.com/problems/reverse-words-in-a-string/">151</a> | <a href="problems/0151-reverse-words-in-a-string.py">Reverse Words in a String</a> | Medium |
+| 146 | <a href="https://leetcode.com/problems/min-stack/">155</a> | <a href="problems/0155-min-stack.py">Min Stack</a> | Easy |
+| 147 | <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/">323</a> | <a href="problems/0323-number-of-connected-components-in-an-undirected-graph.py">Number of Connected Components in an Undirected Graph</a> | Medium |
+| 148 | <a href="https://leetcode.com/problems/shuffle-an-array/">384</a> | <a href="problems/0384-shuffle-an-array.py">Shuffle an Array</a> | Medium |
+| 149 | <a href="https://leetcode.com/problems/delete-node-in-a-bst/">450</a> | <a href="problems/0450-delete-node-in-a-bst.py">Delete Node in a BST</a> | Medium |
+| 150 | <a href="https://leetcode.com/problems/implement-rand10-using-rand7/">470</a> | <a href="problems/0470-implement-rand10-using-rand7.py">Implement Rand10() Using Rand7()</a> | Medium |
+| 151 | <a href="https://leetcode.com/problems/valid-triangle-number/">611</a> | <a href="problems/0611-valid-triangle-number.py">Valid Triangle Number</a> | Medium |
+| 152 | <a href="https://leetcode.com/problems/sum-of-square-numbers/">633</a> | <a href="problems/0633-sum-of-square-numbers.py">Sum of Square Numbers</a> | Medium |
+| 153 | <a href="https://leetcode.com/problems/find-k-closest-elements/">658</a> | <a href="problems/0658-find-k-closest-elements.py">Find K Closest Elements</a> | Medium |
+| 154 | <a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">662</a> | <a href="problems/0662-maximum-width-of-binary-tree.py">Maximum Width of Binary Tree</a> | Medium |
+| 155 | <a href="https://leetcode.com/problems/valid-parenthesis-string/">678</a> | <a href="problems/0678-valid-parenthesis-string.py">Valid Parenthesis String</a> | Medium |
+| 156 | <a href="https://leetcode.com/problems/max-area-of-island/">695</a> | <a href="problems/0695-max-area-of-island.py">Max Area of Island</a> | Medium |
+| 157 | <a href="https://leetcode.com/problems/closest-leaf-in-a-binary-tree/">742</a> | <a href="problems/0742-closest-leaf-in-a-binary-tree.py">Closest Leaf in a Binary Tree</a> | Medium |
+| 158 | <a href="https://leetcode.com/problems/is-graph-bipartite/">785</a> | <a href="problems/0785-is-graph-bipartite.py">Is Graph Bipartite?</a> | Medium |
+| 159 | <a href="https://leetcode.com/problems/bus-routes/">815</a> | <a href="problems/0815-bus-routes.py">Bus Routes</a> | Hard |
+| 160 | <a href="https://leetcode.com/problems/possible-bipartition/">886</a> | <a href="problems/0886-possible-bipartition.py">Possible Bipartition</a> | Medium |
+| 161 | <a href="https://leetcode.com/problems/validate-stack-sequences/">946</a> | <a href="problems/0946-validate-stack-sequences.py">Validate Stack Sequences</a> | Medium |
+| 162 | <a href="https://leetcode.com/problems/k-closest-points-to-origin/">973</a> | <a href="problems/0973-k-closest-points-to-origin.py">K Closest Points to Origin</a> | Medium |
+| 163 | <a href="https://leetcode.com/problems/rotting-oranges/">994</a> | <a href="problems/0994-rotting-oranges.py">Rotting Oranges</a> | Medium |
+| 164 | <a href="https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/">1343</a> | <a href="problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py">Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold</a> | Medium |
+| 165 | <a href="https://leetcode.com/problems/dot-product-of-two-sparse-vectors/">1570</a> | <a href="problems/1570-dot-product-of-two-sparse-vectors.py">Dot Product of Two Sparse Vectors</a> | Medium |
+| 166 | <a href="https://leetcode.com/problems/create-binary-tree-from-descriptions/">2196</a> | <a href="problems/2196-create-binary-tree-from-descriptions.py">Create Binary Tree From Descriptions</a> | Medium |
+| 167 | <a href="https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/">2431</a> | <a href="problems/2431-maximize-total-tastiness-of-purchased-fruits.py">Maximize Total Tastiness of Purchased Fruits</a> | Medium |
+| 168 | <a href="https://leetcode.com/problems/number-of-divisible-triplet-sums/">2964</a> | <a href="problems/2964-number-of-divisible-triplet-sums.py">Number of Divisible Triplet Sums</a> | Medium |
+| 169 | <a href="https://leetcode.com/problems/word-ladder-ii/">126</a> | <a href="problems/0126-word-ladder-ii.py">Word Ladder II</a> | Hard |
+| 170 | <a href="https://leetcode.com/problems/word-ladder/">127</a> | <a href="problems/0127-word-ladder.py">Word Ladder</a> | Hard |
+| 171 | <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">297</a> | <a href="problems/0297-serialize-and-deserialize-binary-tree.py">Serialize and Deserialize Binary Tree</a> | Hard |
+| 172 | <a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/">381</a> | <a href="problems/0381-insert-delete-getrandom-o1-duplicates-allowed.py">Insert Delete GetRandom O(1) - Duplicates allowed</a> | Hard |
+| 173 | <a href="https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/">428</a> | <a href="problems/0428-serialize-and-deserialize-n-ary-tree.py">Serialize and Deserialize N-ary Tree</a> | Hard |
+| 174 | <a href="https://leetcode.com/problems/all-oone-data-structure/">432</a> | <a href="problems/0432-all-oone-data-structure.py">All O'one Data Structure</a> | Hard |
+| 175 | <a href="https://leetcode.com/problems/lfu-cache/">460</a> | <a href="problems/0460-lfu-cache.py">LFU Cache</a> | Hard |
+| 176 | <a href="https://leetcode.com/problems/robot-room-cleaner/">489</a> | <a href="problems/0489-robot-room-cleaner.py">Robot Room Cleaner</a> | Hard |
+| 177 | <a href="https://leetcode.com/problems/max-stack/">716</a> | <a href="problems/0716-max-stack.py">Max Stack</a> | Hard |
+| 178 | <a href="https://leetcode.com/problems/minimum-window-subsequence/">727</a> | <a href="problems/0727-minimum-window-subsequence.py">Minimum Window Subsequence</a> | Hard |
+| 179 | <a href="https://leetcode.com/problems/making-a-large-island/">827</a> | <a href="problems/0827-making-a-large-island.py">Making A Large Island</a> | Hard |
+| 180 | <a href="https://leetcode.com/problems/container-with-most-water/">11</a> | <a href="problems/0011-container-with-most-water.py">Container With Most Water</a> | Medium |
+| 181 | <a href="https://leetcode.com/problems/trapping-rain-water/">42</a> | <a href="problems/0042-trapping-rain-water.py">Trapping Rain Water</a> | Hard |
+| 182 | <a href="https://leetcode.com/problems/sort-colors/">75</a> | <a href="problems/0075-sort-colors.py">Sort Colors</a> | Medium |
+| 183 | <a href="https://leetcode.com/problems/triangle/">120</a> | <a href="problems/0120-triangle.py">Triangle</a> | Medium |
+| 184 | <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">167</a> | <a href="problems/0167-two-sum-ii-input-array-is-sorted.py">Two Sum II - Input Array Is Sorted</a> | Medium |
+| 185 | <a href="https://leetcode.com/problems/move-zeroes/">283</a> | <a href="problems/0283-move-zeroes.py">Move Zeroes</a> | Easy |
+| 186 | <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">424</a> | <a href="problems/0424-longest-repeating-character-replacement.py">Longest Repeating Character Replacement</a> | Medium |
+| 187 | <a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">1423</a> | <a href="problems/1423-maximum-points-you-can-obtain-from-cards.py">Maximum Points You Can Obtain from Cards</a> | Medium |
+| 188 | <a href="https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/">2461</a> | <a href="problems/2461-maximum-sum-of-distinct-subarrays-with-length-k.py">Maximum Sum of Distinct Subarrays With Length K</a> | Medium |
+| 189 | <a href="https://leetcode.com/problems/longest-valid-parentheses/">32</a> | <a href="problems/0032-longest-valid-parentheses.py">Longest Valid Parentheses</a> | Hard |
+| 190 | <a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">84</a> | <a href="problems/0084-largest-rectangle-in-histogram.py">Largest Rectangle in Histogram</a> | Hard |
+| 191 | <a href="https://leetcode.com/problems/daily-temperatures/">739</a> | <a href="problems/0739-daily-temperatures.py">Daily Temperatures</a> | Medium |
+| 192 | <a href="https://leetcode.com/problems/validate-binary-search-tree/">98</a> | <a href="problems/0098-validate-binary-search-tree.py">Validate Binary Search Tree</a> | Medium |
+| 193 | <a href="https://leetcode.com/problems/path-sum/">112</a> | <a href="problems/0112-path-sum.py">Path Sum</a> | Easy |
+| 194 | <a href="https://leetcode.com/problems/path-sum-ii/">113</a> | <a href="problems/0113-path-sum-ii.py">Path Sum II</a> | Medium |
+| 195 | <a href="https://leetcode.com/problems/binary-tree-tilt/">563</a> | <a href="problems/0563-binary-tree-tilt.py">Binary Tree Tilt</a> | Easy |

@@ -41,6 +41,7 @@ class TreeNode:
 
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        """
         def traverse(root, ind):
             if not root:
                 return
@@ -59,3 +60,24 @@ class Solution:
         traverse(root, 0)
 
         return self.right_view
+        """
+        if not root:
+            return []
+
+        queue = deque()
+        queue.append(root)
+        levels = []
+
+        while queue:
+            levels.append(queue[-1].val)
+
+            for _ in range(len(queue)):
+                cur_node = queue.popleft()
+
+                if cur_node.left:
+                    queue.append(cur_node.left)
+
+                if cur_node.right:
+                    queue.append(cur_node.right)
+
+        return levels
