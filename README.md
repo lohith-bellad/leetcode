@@ -199,3 +199,27 @@
 | 193 | <a href="https://leetcode.com/problems/path-sum/">112</a> | <a href="problems/0112-path-sum.py">Path Sum</a> | Easy |
 | 194 | <a href="https://leetcode.com/problems/path-sum-ii/">113</a> | <a href="problems/0113-path-sum-ii.py">Path Sum II</a> | Medium |
 | 195 | <a href="https://leetcode.com/problems/binary-tree-tilt/">563</a> | <a href="problems/0563-binary-tree-tilt.py">Binary Tree Tilt</a> | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+<!---LeetCode Topics End-->
