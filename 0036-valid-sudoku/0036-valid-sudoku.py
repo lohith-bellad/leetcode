@@ -55,10 +55,9 @@ class Solution:
                 d_set.clear()
                 for r in range(row_start, row_start + 3):
                     for c in range(col_start, col_start + 3):
-                        if board[r][c] == ".":
-                            continue
-                        if board[r][c] in d_set:
-                            return False
-                        d_set.add(board[r][c])
+                        if board[r][c] != ".":
+                            if board[r][c] in d_set:
+                                return False
+                            d_set.add(board[r][c])
         
         return True
