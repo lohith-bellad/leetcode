@@ -205,11 +205,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -227,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
