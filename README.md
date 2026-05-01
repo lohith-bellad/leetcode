@@ -206,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lohith-bellad/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -227,6 +228,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lohith-bellad/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Matrix
