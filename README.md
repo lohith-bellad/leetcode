@@ -214,6 +214,7 @@
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Hash Table
@@ -225,6 +226,7 @@
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -240,6 +242,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
