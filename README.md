@@ -210,6 +210,7 @@
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
@@ -273,6 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
@@ -280,4 +282,16 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
