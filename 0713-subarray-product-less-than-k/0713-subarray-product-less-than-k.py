@@ -10,7 +10,7 @@ class Solution:
         for right in range(len(nums)):
             cur_product *= nums[right]
 
-            while left <= right and cur_product >= k:
+            while cur_product >= k:
                 cur_product //= nums[left]
                 left += 1
             
