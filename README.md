@@ -216,6 +216,7 @@
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Hash Table
@@ -230,6 +231,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -267,6 +269,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -286,6 +289,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -305,4 +309,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
