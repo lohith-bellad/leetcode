@@ -284,6 +284,7 @@
 | [0011-container-with-most-water](https://github.com/lohith-bellad/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -313,6 +314,7 @@
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Queue
@@ -350,6 +352,7 @@
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -368,4 +371,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
