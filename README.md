@@ -269,6 +269,7 @@
 | [0011-container-with-most-water](https://github.com/lohith-bellad/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/lohith-bellad/leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/lohith-bellad/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -392,4 +393,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/lohith-bellad/leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
