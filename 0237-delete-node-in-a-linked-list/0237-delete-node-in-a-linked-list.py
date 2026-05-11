@@ -9,19 +9,6 @@ class Solution:
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
-        
-        prev = node
-        cur_node = node.next
-
-        while cur_node != None:
-            prev.val = cur_node.val
-            if cur_node.next == None:
-                prev.next = None
-                break
-            prev = cur_node
-            cur_node = cur_node.next
-
-        return
         """
         while node.next and node.next.next:
             node.val = node.next.val
