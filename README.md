@@ -242,6 +242,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -284,6 +285,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 ## Prefix Sum
@@ -407,6 +409,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -416,4 +419,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
