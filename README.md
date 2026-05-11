@@ -236,6 +236,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -270,6 +271,7 @@
 | [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/lohith-bellad/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/lohith-bellad/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -398,4 +400,5 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/lohith-bellad/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lohith-bellad/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
