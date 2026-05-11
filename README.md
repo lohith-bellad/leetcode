@@ -390,6 +390,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/lohith-bellad/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -401,4 +402,5 @@
 | [0061-rotate-list](https://github.com/lohith-bellad/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lohith-bellad/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/lohith-bellad/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
