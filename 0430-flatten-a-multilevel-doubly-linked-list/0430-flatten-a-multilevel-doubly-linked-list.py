@@ -39,6 +39,7 @@ class Solution:
                 else:
                     cur_head = cur_head.next
         
+        prev.next = None
         dummy.next.prev = None
         return dummy.next
 
