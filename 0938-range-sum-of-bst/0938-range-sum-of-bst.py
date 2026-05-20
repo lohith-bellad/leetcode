@@ -44,7 +44,7 @@ class Solution:
         """
         def traverse(root, low, high, cur_val):
             if not root:
-                return cur_val
+                return 0
             
             left = traverse(root.left, low, high, cur_val)
             right = traverse(root.right, low, high, cur_val)
