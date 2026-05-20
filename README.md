@@ -248,6 +248,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -453,6 +454,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -477,6 +479,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -487,6 +490,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lohith-bellad/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +508,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
