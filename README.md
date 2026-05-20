@@ -450,6 +450,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +472,7 @@
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,11 +498,13 @@
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
