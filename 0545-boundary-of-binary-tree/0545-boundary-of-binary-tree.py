@@ -6,51 +6,57 @@
 #         self.right = right
 class Solution:
     def boundaryOfBinaryTree(self, root: Optional[TreeNode]) -> List[int]:
-        def left_boundary(root):
+        def left_traverse(root):
             if not root:
                 return
             
+            if root.left or root.right:
+                self.output.append(root.val)
+            
             if root.left:
-                self.output.append(root.val)
-                left_boundary(root.left)
+                left_traverse(root.left)
             elif root.right:
-                self.output.append(root.val)
-                left_boundary(root.right)
+                left_traverse(root.right)
+            
             return
         
-        def right_boundary(root):
+        def right_traverse(root):
             if not root:
                 return
             
             if root.right:
-                right_boundary(root.right)
-                self.output.append(root.val)
+                right_traverse(root.right)
             elif root.left:
-                right_boundary(root.left)
-                self.output.append(root.val)
+                right_traverse(root.left)
+            
+            if root.left or root.right:
+                 self.output.append(root.val)
+                 
             return
         
-        def bottom_boundary(root):
-            if root == None:
+        def bottom_traverse(root):
+            if not root:
                 return
             
-            if root.right == None and root.left == None:
+            if not root.left and not root.right:
                 self.output.append(root.val)
+                return
             
-            bottom_boundary(root.left)
-            bottom_boundary(root.right)
+            if root.left:
+                bottom_traverse(root.left)
+            
+            if root.right:
+                bottom_traverse(root.right)
             return
         
         self.output = []
-        if root == None:
-            return self.output
-        
+
         self.output.append(root.val)
         if not root.left and not root.right:
             return self.output
-            
-        left_boundary(root.left)
-        bottom_boundary(root)
-        right_boundary(root.right)
+        
+        left_traverse(root.left)
+        bottom_traverse(root)
+        right_traverse(root.right)
 
         return self.output
