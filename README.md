@@ -250,6 +250,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
@@ -267,6 +268,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting
@@ -459,6 +461,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -487,6 +490,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -500,6 +504,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -520,6 +525,7 @@
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
