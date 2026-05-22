@@ -253,6 +253,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,6 +458,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +485,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -493,6 +496,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,6 +517,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
