@@ -6,17 +6,18 @@
 #         self.right = right
 class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
-        def dfs(node, depth):
+        def dfs(node):
             if node in self.visited:
-                return
+                return 0
             
             self.visited.add(node)
-            self.max_time = max(self.max_time, depth)
 
+            cur_max = 0
             for neighbor in nodeMap[node]:
-                dfs(neighbor, depth + 1)
+                if neighbor not in self.visited:
+                    cur_max = max(cur_max, dfs(neighbor) + 1)
             
-            return
+            return cur_max
 
         queue = deque()
         queue.append(root)
@@ -35,8 +36,5 @@ class Solution:
                 nodeMap[node.right.val].append(node.val)
                 queue.append(node.right)
 
-        self.max_time = 0
         self.visited = set()
-        dfs(start, 0)
-
-        return self.max_time
+        return dfs(start)
