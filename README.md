@@ -258,6 +258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +319,7 @@
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Binary Search
@@ -458,6 +460,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -485,6 +488,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -517,6 +521,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -525,6 +530,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
