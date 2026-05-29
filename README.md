@@ -272,6 +272,7 @@
 | ------- | ------- |
 | [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
@@ -297,6 +298,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -311,6 +313,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
@@ -388,6 +391,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -575,4 +579,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
