@@ -233,6 +233,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lohith-bellad/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -282,6 +283,7 @@
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting
@@ -342,6 +344,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Binary Search
@@ -353,6 +356,7 @@
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -405,6 +409,7 @@
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Queue
@@ -424,6 +429,7 @@
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
