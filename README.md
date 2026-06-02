@@ -230,6 +230,7 @@
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -480,6 +481,7 @@
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
