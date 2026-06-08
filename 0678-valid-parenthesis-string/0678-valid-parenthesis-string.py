@@ -54,7 +54,7 @@ class Solution:
 
         cache = {}
         return dfs(0, 0)
-        """
+        
         def dfs(ind, opened, closed):
             if ind >= len(s):
                 if opened == closed:
@@ -82,6 +82,30 @@ class Solution:
         
         cache = {}
         return dfs(0, 0, 0)
+        """
+        def balance(ind, opened, closed):
+            if ind >= len(s):
+                return opened == closed
+            
+            if closed > opened:
+                return False
+                
+            if (ind, opened, closed) in cache:
+                return cache[(ind, opened, closed)]
+            
+            if s[ind] == "(":
+                cache[(ind, opened, closed)] = balance(ind + 1, opened + 1, closed)
+            elif s[ind] == ")":
+                cache[(ind, opened, closed)] =balance(ind + 1, opened, closed + 1)
+            else:
+                cache[(ind, opened, closed)] = (balance(ind + 1, opened + 1, closed) or
+                        balance(ind + 1, opened, closed + 1) or
+                        balance(ind + 1, opened, closed))
+            
+            return cache[(ind, opened, closed)]
+
+        cache = {}
+        return balance(0, 0, 0) 
 
         
 
