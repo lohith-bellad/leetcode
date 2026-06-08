@@ -16,7 +16,7 @@ class Solution:
         cache = [-1 for i in range(len(nums))]
         cache[-1] = 0
         return traverse(0)
-        """
+        
         def dfs(ind):
             if ind >= len(nums) - 1:
                 return 0
@@ -34,3 +34,16 @@ class Solution:
         
         cache = {}
         return dfs(0)
+        """
+        cur_max = 0
+        farthest = 0
+        jumps = 0
+
+        for i in range(len(nums) - 1):
+            farthest = max(farthest, i + nums[i])
+
+            if i == cur_max:
+                jumps += 1
+                cur_max = farthest
+        
+        return jumps
