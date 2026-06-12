@@ -255,6 +255,7 @@
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +309,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,4 +674,8 @@
 | ------- | ------- |
 | [0715-range-module](https://github.com/lohith-bellad/leetcode/tree/main/0715-range-module/) | Hard |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 <!---LeetCode Topics End-->
