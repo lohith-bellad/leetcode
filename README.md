@@ -384,6 +384,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
@@ -568,6 +569,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -612,6 +614,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/lohith-bellad/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -693,4 +696,12 @@
 | ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 <!---LeetCode Topics End-->
