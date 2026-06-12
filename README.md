@@ -240,6 +240,7 @@
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -386,6 +387,7 @@
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -533,6 +535,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Linked List
