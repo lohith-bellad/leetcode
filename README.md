@@ -440,6 +440,7 @@
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0696-count-binary-substrings](https://github.com/lohith-bellad/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0796-rotate-string](https://github.com/lohith-bellad/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -656,6 +657,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/lohith-bellad/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/lohith-bellad/leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
