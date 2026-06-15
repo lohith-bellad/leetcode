@@ -52,14 +52,13 @@ class Solution:
             num = (num * 10) + int(s[ind])
             ind += 1
         
-        print(num)
-        if is_neg and num >= 2**31:
-            return 2**31 * -1
+        if is_neg:
+            num = -num
+        
+        if num < -2**31:
+            return -2**31
         
         if num > 2**31 - 1:
             return 2**31 - 1
-        
-        if is_neg:
-            return -num
 
         return num
