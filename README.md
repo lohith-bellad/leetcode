@@ -435,6 +435,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/lohith-bellad/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -493,6 +494,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/lohith-bellad/leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -532,6 +534,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
