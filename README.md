@@ -279,6 +279,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -311,6 +312,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
+| [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -449,6 +451,7 @@
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0696-count-binary-substrings](https://github.com/lohith-bellad/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/lohith-bellad/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
