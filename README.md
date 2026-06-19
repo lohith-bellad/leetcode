@@ -268,6 +268,7 @@
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -433,6 +434,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/lohith-bellad/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
