@@ -444,6 +444,7 @@
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0408-valid-word-abbreviation](https://github.com/lohith-bellad/leetcode/tree/main/0408-valid-word-abbreviation/) | Easy |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -528,6 +529,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/lohith-bellad/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -589,6 +591,7 @@
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0545-boundary-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0545-boundary-of-binary-tree/) | Medium |
