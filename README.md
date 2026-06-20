@@ -214,6 +214,7 @@
 | [0055-jump-game](https://github.com/lohith-bellad/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/lohith-bellad/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/lohith-bellad/leetcode/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -439,6 +440,7 @@
 | [0008-string-to-integer-atoi](https://github.com/lohith-bellad/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0065-valid-number](https://github.com/lohith-bellad/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -541,6 +543,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
