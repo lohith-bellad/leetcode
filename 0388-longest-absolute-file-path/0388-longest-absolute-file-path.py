@@ -11,17 +11,14 @@ class Solution:
             level = inp.count("\t")
             name_len = len(inp) - level
             
-            if not myStack:
-                myStack.append((level, name_len))
-            else:
-                while myStack and myStack[-1][0] >= level:
-                    myStack.pop()
+            while myStack and myStack[-1][0] >= level:
+                myStack.pop()
                 
-                if myStack:
-                    last = myStack[-1][1]
-                else:
-                    last = 0
-                myStack.append((level, name_len + last))
+            if myStack:
+                last = myStack[-1][1]
+            else:
+                last = 0
+            myStack.append((level, name_len + last))
             
             if "." in inp:
                 max_len = max(max_len, sum(myStack[-1]))
