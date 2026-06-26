@@ -465,6 +465,7 @@
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -531,6 +532,7 @@
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
 ## Ordered Set
@@ -561,6 +563,7 @@
 | [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/lohith-bellad/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
