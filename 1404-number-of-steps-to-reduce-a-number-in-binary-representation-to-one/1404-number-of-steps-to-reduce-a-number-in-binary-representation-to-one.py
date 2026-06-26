@@ -25,7 +25,6 @@ class Solution:
                 if ind == -1:
                     s = ['1'] + s
 
-            print(s)
             count += 1
 
         return count 
