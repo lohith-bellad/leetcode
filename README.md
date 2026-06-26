@@ -518,6 +518,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1922-count-good-numbers](https://github.com/lohith-bellad/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -568,6 +569,7 @@
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [1922-count-good-numbers](https://github.com/lohith-bellad/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
