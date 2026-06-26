@@ -12,5 +12,5 @@ class Solution:
         for i in range(n):
             if primes[i]:
                 output += 1
-        
+
         return output
