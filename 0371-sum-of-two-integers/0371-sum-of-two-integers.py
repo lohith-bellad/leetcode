@@ -2,7 +2,7 @@ class Solution:
     def getSum(self, a: int, b: int) -> int:
         res = 0 
         carry = 0
-        mask = 0xFFFFFFFF
+        mask = 0xFFFF
 
         while (b & mask) > 0:
             res = a ^ b
