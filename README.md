@@ -218,6 +218,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/lohith-bellad/leetcode/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/lohith-bellad/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -272,6 +273,7 @@
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/lohith-bellad/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -514,6 +516,7 @@
 | [0007-reverse-integer](https://github.com/lohith-bellad/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/lohith-bellad/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/lohith-bellad/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -777,4 +780,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/lohith-bellad/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
