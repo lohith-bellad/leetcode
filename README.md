@@ -238,6 +238,7 @@
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -536,6 +537,7 @@
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -593,6 +595,7 @@
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0799-champagne-tower](https://github.com/lohith-bellad/leetcode/tree/main/0799-champagne-tower/) | Medium |
+| [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
