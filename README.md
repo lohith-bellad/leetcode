@@ -215,6 +215,7 @@
 | [0056-merge-intervals](https://github.com/lohith-bellad/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
+| [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/lohith-bellad/leetcode/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
@@ -539,6 +540,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -786,4 +788,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
