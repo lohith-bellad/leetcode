@@ -20,7 +20,7 @@ class Solution:
         
         target_area = total_area / 2.0
 
-        for i in range(100):
+        for i in range(50):
             mid = min_y + (max_y - min_y) / 2.0
 
             a = area_below(mid)
