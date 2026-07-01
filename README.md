@@ -211,6 +211,7 @@
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/lohith-bellad/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/lohith-bellad/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/lohith-bellad/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
@@ -791,5 +792,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
