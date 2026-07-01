@@ -209,6 +209,7 @@
 | [0018-4sum](https://github.com/lohith-bellad/leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/lohith-bellad/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/lohith-bellad/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
@@ -274,6 +275,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lohith-bellad/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -365,6 +367,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -792,6 +795,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
