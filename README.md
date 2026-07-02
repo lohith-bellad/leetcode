@@ -522,6 +522,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/lohith-bellad/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0060-permutation-sequence](https://github.com/lohith-bellad/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -592,6 +593,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/lohith-bellad/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/lohith-bellad/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
