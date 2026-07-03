@@ -263,6 +263,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lohith-bellad/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
@@ -376,6 +377,7 @@
 | [0054-spiral-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +424,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
