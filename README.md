@@ -212,6 +212,7 @@
 | [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/lohith-bellad/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/lohith-bellad/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/lohith-bellad/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/lohith-bellad/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -370,6 +371,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/lohith-bellad/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/lohith-bellad/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Design
@@ -525,6 +527,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/lohith-bellad/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/lohith-bellad/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/lohith-bellad/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0060-permutation-sequence](https://github.com/lohith-bellad/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/lohith-bellad/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
