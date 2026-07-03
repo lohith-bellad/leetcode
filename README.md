@@ -259,6 +259,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lohith-bellad/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -381,6 +382,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
