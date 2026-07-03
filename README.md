@@ -244,6 +244,7 @@
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
+| [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -377,6 +378,7 @@
 | [0054-spiral-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -594,6 +596,7 @@
 | [0068-text-justification](https://github.com/lohith-bellad/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/lohith-bellad/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
