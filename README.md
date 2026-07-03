@@ -255,6 +255,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -307,6 +308,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -428,6 +430,7 @@
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -569,6 +572,7 @@
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
