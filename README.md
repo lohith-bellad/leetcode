@@ -273,6 +273,7 @@
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/lohith-bellad/leetcode/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohith-bellad/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -559,6 +560,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1922-count-good-numbers](https://github.com/lohith-bellad/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/lohith-bellad/leetcode/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -814,6 +816,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/lohith-bellad/leetcode/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
