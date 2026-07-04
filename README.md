@@ -244,6 +244,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
+| [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -374,6 +375,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0696-count-binary-substrings](https://github.com/lohith-bellad/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -387,6 +389,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
@@ -575,6 +578,7 @@
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -611,6 +615,7 @@
 | [0412-fizz-buzz](https://github.com/lohith-bellad/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
