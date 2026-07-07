@@ -239,6 +239,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -397,6 +398,7 @@
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
+| [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/lohith-bellad/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lohith-bellad/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
@@ -653,6 +655,7 @@
 | [0055-jump-game](https://github.com/lohith-bellad/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0799-champagne-tower](https://github.com/lohith-bellad/leetcode/tree/main/0799-champagne-tower/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
@@ -742,6 +745,7 @@
 | [0130-surrounded-regions](https://github.com/lohith-bellad/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/lohith-bellad/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lohith-bellad/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
