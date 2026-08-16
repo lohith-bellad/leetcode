@@ -241,6 +241,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/lohith-bellad/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
@@ -469,6 +470,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
