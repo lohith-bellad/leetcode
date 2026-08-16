@@ -257,6 +257,7 @@
 | [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/lohith-bellad/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/lohith-bellad/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -478,6 +479,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/lohith-bellad/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3453-separate-squares-i](https://github.com/lohith-bellad/leetcode/tree/main/3453-separate-squares-i/) | Medium |
