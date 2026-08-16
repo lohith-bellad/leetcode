@@ -31,4 +31,4 @@ class Solution:
             else:
                 end = mid
 
-        return nums[start]
+        return nums[end]
