@@ -288,6 +288,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -466,6 +467,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -490,6 +492,7 @@
 | [1539-kth-missing-positive-number](https://github.com/lohith-bellad/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [3453-separate-squares-i](https://github.com/lohith-bellad/leetcode/tree/main/3453-separate-squares-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -682,6 +685,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/0898-bitwise-ors-of-subarrays/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
