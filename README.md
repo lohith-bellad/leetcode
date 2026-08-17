@@ -252,6 +252,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0733-flood-fill](https://github.com/lohith-bellad/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/lohith-bellad/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
@@ -479,6 +480,7 @@
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/lohith-bellad/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/lohith-bellad/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
