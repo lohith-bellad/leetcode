@@ -271,6 +271,7 @@
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lohith-bellad/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -496,6 +497,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/lohith-bellad/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/lohith-bellad/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/lohith-bellad/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lohith-bellad/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/lohith-bellad/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
