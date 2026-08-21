@@ -914,6 +914,7 @@
 | [0037-sudoku-solver](https://github.com/lohith-bellad/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/lohith-bellad/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
+| [0489-robot-room-cleaner](https://github.com/lohith-bellad/leetcode/tree/main/0489-robot-room-cleaner/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -930,4 +931,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0489-robot-room-cleaner](https://github.com/lohith-bellad/leetcode/tree/main/0489-robot-room-cleaner/) | Hard |
 <!---LeetCode Topics End-->
