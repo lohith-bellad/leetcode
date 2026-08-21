@@ -1,0 +1,62 @@
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val = 0, neighbors = None):
+        self.val = val
+        self.neighbors = neighbors if neighbors is not None else []
+"""
+
+from typing import Optional
+class Solution:
+    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        """
+        if node == None:
+            return None
+
+        mapping = {}
+        neighbor_list = {}
+        queue = deque()
+        queue.append(node)
+
+        while len(queue) > 0:
+            n = queue.popleft()
+
+            new_node = Node(n.val)
+            mapping[n.val] = new_node
+            neighbor_list[n.val] = []
+            
+            for neighbor in n.neighbors:
+                if neighbor.val not in mapping:
+                    queue.append(neighbor)
+                
+                neighbor_list[n.val].append(neighbor.val)
+
+        for key, val in mapping.items():
+            neighbors = neighbor_list[key]
+
+            for n in neighbors:
+                val.neighbors.append(mapping[n])
+        
+        return mapping[1]
+        """
+        if node is None:
+            return None
+        
+        node_map = {}
+        queue = deque([node])
+
+        while queue:
+            cur_node = queue.popleft()
+
+            node_map[cur_node] = Node(cur_node.val)
+
+            for neighbor in cur_node.neighbors:
+                if neighbor not in node_map:
+                    queue.append(neighbor)
+
+        for old_node, new_node in node_map.items():
+            for old_node_neighbor in old_node.neighbors:
+                new_node.neighbors.append(node_map[old_node_neighbor])
+
+        return node_map[node]
+    
