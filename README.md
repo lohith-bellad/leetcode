@@ -945,4 +945,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lohith-bellad/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/lohith-bellad/leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
