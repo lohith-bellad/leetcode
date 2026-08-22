@@ -1,5 +1,6 @@
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+        """
         intervals.sort()
         myStack = []
 
@@ -15,3 +16,20 @@ class Solution:
                 myStack.append(intervals[i])
         
         return myStack
+        """
+        intervals.sort()
+        my_stack = []
+
+        for interval in intervals:
+            if not my_stack:
+                my_stack.append(interval)
+            else:
+                last_start, last_end = my_stack[-1]
+                cur_start, cur_end = interval
+
+                if last_start <= cur_start <= last_end:
+                    my_stack[-1] = [last_start, max(cur_end, last_end)]
+                else:
+                    my_stack.append(interval)
+
+        return my_stack
