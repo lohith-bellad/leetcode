@@ -15,8 +15,7 @@ class Solution:
                 
                 if last_x == new_x and new_y > last_y:
                     my_stack[-1][1] = new_y
-                    continue
-                    
-                my_stack.append(interval)
+                else:
+                    my_stack.append(interval)
         
         return len(my_stack)
