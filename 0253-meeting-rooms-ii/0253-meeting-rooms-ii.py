@@ -1,26 +1,6 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         """
-        intervals.sort()
-        
-        rooms = [intervals[0]]
-
-        for i in range(1, len(intervals)):
-            s, e = intervals[i]
-            found = False
-            for i in range(len(rooms)):
-                room_start, room_end = rooms[i]
-                if room_start < s < room_end:
-                    continue
-                elif s >= room_end:
-                    found = True
-                    rooms[i][1] = e
-                    break
-            if found == False:
-                rooms.append([s, e])
-
-        return len(rooms)
-        """
         minHeap = []
         max_rooms = 1
         intervals.sort()
@@ -34,4 +14,21 @@ class Solution:
 
             max_rooms = max(max_rooms, len(minHeap))
 
-        return max_rooms 
+        return max_rooms
+        """
+        intervals.sort()
+        min_heap = []
+        output = 0
+
+        for interval in intervals:
+            if not min_heap:
+                heapq.heappush(min_heap, interval[1])
+
+            else:
+                if min_heap[0] <= interval[0]:
+                    heapq.heappop(min_heap)
+                heapq.heappush(min_heap, interval[1])
+
+            output = max(output, len(min_heap))
+        
+        return output
