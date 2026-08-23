@@ -296,6 +296,7 @@
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
+| [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -376,6 +377,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Counting
