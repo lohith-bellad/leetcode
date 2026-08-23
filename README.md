@@ -274,6 +274,7 @@
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lohith-bellad/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/lohith-bellad/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -369,6 +370,7 @@
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/lohith-bellad/leetcode/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1288-remove-covered-intervals](https://github.com/lohith-bellad/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
