@@ -1,17 +1,26 @@
 class MyCalendar:
     def __init__(self):
-        self.bookings = []
+        self.reserved_slots = []
 
-    def book(self, start: int, end: int) -> bool:
-        for cur_x, cur_y in self.bookings:
-            if start < cur_y and cur_x < end:
+    def book(self, startTime: int, endTime: int) -> bool:
+        start = 0
+        end = len(self.reserved_slots) - 1
+
+        while start <= end:
+            mid = start + (end - start) // 2
+            cur_start, cur_end = self.reserved_slots[mid]
+
+            if startTime < cur_end and endTime > cur_start:
                 return False
-        
-        self.bookings.append([start, end])
-        self.bookings.sort()
-        return True
-        
 
+            if endTime <= cur_start:
+                end = mid - 1
+            else:
+                start = mid + 1
+
+        self.reserved_slots.append([startTime, endTime])
+        self.reserved_slots.sort()
+        return True
 
 # Your MyCalendar object will be instantiated and called as such:
 # obj = MyCalendar()
