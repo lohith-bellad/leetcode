@@ -291,6 +291,7 @@
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -338,6 +339,7 @@
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Divide and Conquer
@@ -370,6 +372,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 ## Counting
@@ -586,6 +589,7 @@
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -673,6 +677,7 @@
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
