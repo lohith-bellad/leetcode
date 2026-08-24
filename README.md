@@ -304,6 +304,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/lohith-bellad/leetcode/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3169-count-days-without-meetings](https://github.com/lohith-bellad/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohith-bellad/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 | [3453-separate-squares-i](https://github.com/lohith-bellad/leetcode/tree/main/3453-separate-squares-i/) | Medium |
@@ -383,6 +384,7 @@
 | [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3169-count-days-without-meetings](https://github.com/lohith-bellad/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
