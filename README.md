@@ -245,6 +245,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -364,6 +365,7 @@
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -471,6 +473,7 @@
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
