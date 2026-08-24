@@ -307,6 +307,7 @@
 | [3169-count-days-without-meetings](https://github.com/lohith-bellad/leetcode/tree/main/3169-count-days-without-meetings/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohith-bellad/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/lohith-bellad/leetcode/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 | [3453-separate-squares-i](https://github.com/lohith-bellad/leetcode/tree/main/3453-separate-squares-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -495,6 +496,7 @@
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3075-maximize-happiness-of-selected-children](https://github.com/lohith-bellad/leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/lohith-bellad/leetcode/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +542,7 @@
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohith-bellad/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/lohith-bellad/leetcode/tree/main/3439-reschedule-meetings-for-maximum-free-time-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
