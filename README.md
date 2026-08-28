@@ -239,6 +239,7 @@
 | [0252-meeting-rooms](https://github.com/lohith-bellad/leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -370,6 +371,7 @@
 | [0252-meeting-rooms](https://github.com/lohith-bellad/leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -433,6 +435,7 @@
 | [0130-surrounded-regions](https://github.com/lohith-bellad/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -640,6 +643,7 @@
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0319-bulb-switcher](https://github.com/lohith-bellad/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/lohith-bellad/leetcode/tree/main/0412-fizz-buzz/) | Easy |
