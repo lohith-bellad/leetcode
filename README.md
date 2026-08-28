@@ -242,6 +242,7 @@
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -372,6 +373,7 @@
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -565,6 +567,7 @@
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
@@ -601,6 +604,7 @@
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -772,6 +776,7 @@
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
@@ -940,6 +945,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
@@ -1017,4 +1023,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
