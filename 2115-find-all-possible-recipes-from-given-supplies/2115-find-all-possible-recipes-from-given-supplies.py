@@ -18,6 +18,7 @@ class Solution:
             
             taken.remove(item)
             
+            cache[item] = True
             return True
 
         mapping = {}
