@@ -300,6 +300,7 @@
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
@@ -608,6 +609,7 @@
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Queue
@@ -929,6 +931,7 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -989,4 +992,8 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 <!---LeetCode Topics End-->
