@@ -1,19 +1,19 @@
 class Solution:
     def findAllRecipes(self, recipes: List[str], ingredients: List[List[str]], supplies: List[str]) -> List[str]:
-        def dfs(item, taken):
+        def dfs(item):
             if item in taken:
                 return False
 
             if item not in mapping:
                 return False
             
-            if item in output:
+            if item in cache:
                 return True
 
             taken.add(item)
 
             for needed in mapping[item]:
-                if not dfs(needed, taken):
+                if not dfs(needed):
                     return False
             
             taken.remove(item)
@@ -22,16 +22,18 @@ class Solution:
 
         mapping = {}
         n = len(recipes)
-        output = []
 
         for i in range(n):
             mapping[recipes[i]] = ingredients[i]
-            for ing in ingredients[i]:
-                if ing in supplies:
-                    mapping[ing] = []
-        
+
+        for s in supplies:
+            mapping[s] = []
+
+        cache = {}
+        output = []
+        taken = set()
         for recipe in recipes:
-            if dfs(recipe, set()):
+            if dfs(recipe):
                 output.append(recipe)
 
         return output
