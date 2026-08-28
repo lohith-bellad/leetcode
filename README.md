@@ -301,6 +301,7 @@
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2910-minimum-number-of-groups-to-create-a-valid-assignment](https://github.com/lohith-bellad/leetcode/tree/main/2910-minimum-number-of-groups-to-create-a-valid-assignment/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/lohith-bellad/leetcode/tree/main/3047-find-the-largest-area-of-square-inside-two-rectangles/) | Medium |
@@ -442,6 +443,7 @@
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +525,7 @@
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3453-separate-squares-i](https://github.com/lohith-bellad/leetcode/tree/main/3453-separate-squares-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -606,6 +609,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -827,6 +831,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -918,6 +923,7 @@
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/lohith-bellad/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
