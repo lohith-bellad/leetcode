@@ -618,6 +618,7 @@
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -788,6 +789,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -841,6 +843,7 @@
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -940,6 +943,7 @@
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1004,6 +1008,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
