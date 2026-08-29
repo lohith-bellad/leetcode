@@ -277,6 +277,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/lohith-bellad/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/lohith-bellad/leetcode/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -388,6 +389,7 @@
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/lohith-bellad/leetcode/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/lohith-bellad/leetcode/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/lohith-bellad/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -947,6 +949,7 @@
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/lohith-bellad/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/lohith-bellad/leetcode/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
