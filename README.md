@@ -1055,4 +1055,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
