@@ -306,6 +306,7 @@
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2655-find-maximal-uncovered-ranges](https://github.com/lohith-bellad/leetcode/tree/main/2655-find-maximal-uncovered-ranges/) | Medium |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/lohith-bellad/leetcode/tree/main/2662-minimum-cost-of-a-path-with-special-roads/) | Medium |
@@ -815,6 +816,7 @@
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -848,6 +850,7 @@
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -874,6 +877,7 @@
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Binary Tree
@@ -901,6 +905,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
