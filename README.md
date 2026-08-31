@@ -813,6 +813,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/lohith-bellad/leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 ## Doubly-Linked List
@@ -845,6 +846,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -897,6 +899,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
