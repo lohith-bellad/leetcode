@@ -664,6 +664,7 @@
 | [0231-power-of-two](https://github.com/lohith-bellad/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0319-bulb-switcher](https://github.com/lohith-bellad/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -753,6 +754,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0213-house-robber-ii](https://github.com/lohith-bellad/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -863,6 +865,7 @@
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/lohith-bellad/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -1041,11 +1044,13 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Shortest Path
