@@ -1,5 +1,6 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
+        """
         def dfs(ind, cur_sum):
             if cur_sum == amount:
                 return 1
@@ -20,3 +21,19 @@ class Solution:
 
         cache = {}
         return dfs(0, 0)
+        """
+        n = len(coins)
+
+        dp = [[0 for i in range(amount + 1)] for i in range(n+1)]
+
+        for i in range(n + 1):
+            dp[i][amount] = 1
+        
+        for ind in range(n - 1, -1, -1):
+            for s in range(amount -1, -1, -1):
+                take = dp[ind][s + coins[ind]] if s + coins[ind] <= amount else 0
+                skip = dp[ind + 1][s]
+                dp[ind][s] = take + skip
+        
+        return dp[0][0]
+                
