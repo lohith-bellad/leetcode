@@ -283,6 +283,7 @@
 | [1146-snapshot-array](https://github.com/lohith-bellad/leetcode/tree/main/1146-snapshot-array/) | Medium |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lohith-bellad/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/lohith-bellad/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -605,6 +606,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -820,6 +822,7 @@
 | [0938-range-sum-of-bst](https://github.com/lohith-bellad/leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
@@ -939,6 +942,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
