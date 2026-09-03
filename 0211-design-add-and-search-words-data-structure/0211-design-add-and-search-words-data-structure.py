@@ -40,11 +40,9 @@ class WordDictionary:
         cur_node = self
 
         for c in word:
-            if c in cur_node.children:
-                cur_node = cur_node.children[c]
-            else:
+            if c not in cur_node.children:
                 cur_node.children[c] = WordDictionary()
-                cur_node = cur_node.children[c]
+            cur_node = cur_node.children[c]
 
         cur_node.end = True
 
