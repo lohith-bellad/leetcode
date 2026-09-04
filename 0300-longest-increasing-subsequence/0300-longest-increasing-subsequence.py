@@ -24,7 +24,7 @@ class Solution:
                 else:
                     end = mid
 
-            return end
+            return start
         
         output = []
 
