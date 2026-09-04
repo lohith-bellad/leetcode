@@ -250,6 +250,7 @@
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0444-sequence-reconstruction](https://github.com/lohith-bellad/leetcode/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/lohith-bellad/leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -766,6 +767,7 @@
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -1028,6 +1030,7 @@
 | [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/lohith-bellad/leetcode/tree/main/0079-word-search/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/lohith-bellad/leetcode/tree/main/0489-robot-room-cleaner/) | Hard |
+| [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1062,6 +1065,7 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
@@ -1104,4 +1108,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1146-snapshot-array](https://github.com/lohith-bellad/leetcode/tree/main/1146-snapshot-array/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
