@@ -303,6 +303,7 @@
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lohith-bellad/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/lohith-bellad/leetcode/tree/main/2018-check-if-word-can-be-placed-in-crossword/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/lohith-bellad/leetcode/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -466,6 +467,7 @@
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/lohith-bellad/leetcode/tree/main/2018-check-if-word-can-be-placed-in-crossword/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -978,6 +980,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/lohith-bellad/leetcode/tree/main/0204-count-primes/) | Medium |
+| [2018-check-if-word-can-be-placed-in-crossword](https://github.com/lohith-bellad/leetcode/tree/main/2018-check-if-word-can-be-placed-in-crossword/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/lohith-bellad/leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Union-Find
