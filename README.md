@@ -233,6 +233,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/lohith-bellad/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/lohith-bellad/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/lohith-bellad/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -457,6 +458,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/lohith-bellad/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/lohith-bellad/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0174-dungeon-game](https://github.com/lohith-bellad/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
@@ -780,6 +782,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0174-dungeon-game](https://github.com/lohith-bellad/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0213-house-robber-ii](https://github.com/lohith-bellad/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
