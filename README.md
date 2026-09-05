@@ -227,6 +227,7 @@
 | [0130-surrounded-regions](https://github.com/lohith-bellad/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0135-candy](https://github.com/lohith-bellad/leetcode/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/lohith-bellad/leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -335,6 +336,7 @@
 | [0041-first-missing-positive](https://github.com/lohith-bellad/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/lohith-bellad/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/lohith-bellad/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -589,6 +591,7 @@
 | [0072-edit-distance](https://github.com/lohith-bellad/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/lohith-bellad/leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/lohith-bellad/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -769,6 +772,7 @@
 | [0072-edit-distance](https://github.com/lohith-bellad/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/lohith-bellad/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0213-house-robber-ii](https://github.com/lohith-bellad/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/lohith-bellad/leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -953,6 +957,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -1064,6 +1069,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lohith-bellad/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -1129,4 +1135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
