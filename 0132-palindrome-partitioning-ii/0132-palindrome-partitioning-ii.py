@@ -1,5 +1,12 @@
 class Solution:
     def minCut(self, s: str) -> int:
+        def set_palindrome(i, j):
+            while i >= 0 and j < n and s[i] == s[j]:
+                is_palindrome[i][j] = True
+                i -= 1
+                j += 1
+            return
+
         def dfs(start):
             if start == len(s):
                 return 0
@@ -20,20 +27,7 @@ class Solution:
         cache = {}
 
         for start in range(n):
-            i = start
-            j = start
-
-            while i >= 0 and j < n and s[i] == s[j]:
-                is_palindrome[i][j] = True
-                i -= 1
-                j += 1
-            
-            i = start
-            j = start + 1
-
-            while i >= 0 and j < n and s[i] == s[j]:
-                is_palindrome[i][j] = True
-                i -= 1
-                j += 1
+            set_palindrome(start, start)
+            set_palindrome(start, start + 1)
         
         return dfs(0) - 1
