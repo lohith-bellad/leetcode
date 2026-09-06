@@ -311,6 +311,7 @@
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lohith-bellad/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/lohith-bellad/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/lohith-bellad/leetcode/tree/main/2018-check-if-word-can-be-placed-in-crossword/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -373,6 +374,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/lohith-bellad/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -637,6 +639,7 @@
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/lohith-bellad/leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/lohith-bellad/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lohith-bellad/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Queue
@@ -1077,6 +1080,7 @@
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0489-robot-room-cleaner](https://github.com/lohith-bellad/leetcode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/lohith-bellad/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
