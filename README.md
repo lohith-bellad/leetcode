@@ -600,6 +600,7 @@
 | [0072-edit-distance](https://github.com/lohith-bellad/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/lohith-bellad/leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/lohith-bellad/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/lohith-bellad/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -787,6 +788,7 @@
 | [0072-edit-distance](https://github.com/lohith-bellad/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/lohith-bellad/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lohith-bellad/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/lohith-bellad/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0174-dungeon-game](https://github.com/lohith-bellad/leetcode/tree/main/0174-dungeon-game/) | Hard |
