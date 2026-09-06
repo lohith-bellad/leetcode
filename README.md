@@ -252,6 +252,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/lohith-bellad/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0444-sequence-reconstruction](https://github.com/lohith-bellad/leetcode/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
@@ -795,6 +796,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/lohith-bellad/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -1101,6 +1103,7 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/lohith-bellad/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/lohith-bellad/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
@@ -1147,6 +1150,7 @@
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/lohith-bellad/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
