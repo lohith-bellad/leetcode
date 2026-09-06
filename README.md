@@ -247,6 +247,7 @@
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
+| [0312-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -801,6 +802,7 @@
 | [0265-paint-house-ii](https://github.com/lohith-bellad/leetcode/tree/main/0265-paint-house-ii/) | Hard |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0312-burst-balloons](https://github.com/lohith-bellad/leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/lohith-bellad/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
