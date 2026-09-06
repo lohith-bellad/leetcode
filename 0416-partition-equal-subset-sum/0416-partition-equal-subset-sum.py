@@ -3,7 +3,7 @@ class Solution:
         """
         :type nums: List[int]
         :rtype: bool
-        """
+        
         def dfs(target: int, ind: int, cache: []) -> bool:
             if target == 0:
                 return True
@@ -39,7 +39,7 @@ class Solution:
             if (ind, cur_sum) in cache:
                 return cache[(ind, cur_sum)]
 
-            cache[(ind, cur_sum)] = dfs(ind + 1, cur_sum) or dfs(ind + 1, cur_sum + nums[ind])
+            cache[(ind, cur_sum)] = dfs(ind + 1, cur_sum + nums[ind]) or dfs(ind + 1, cur_sum)
             return cache[(ind, cur_sum)]
 
         target_sum = sum(nums) // 2 
@@ -48,4 +48,4 @@ class Solution:
 
         cache = {}
         return dfs(0, 0)
-        """
+        
