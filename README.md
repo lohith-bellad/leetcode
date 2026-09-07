@@ -510,6 +510,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/lohith-bellad/leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -666,6 +667,7 @@
 | [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/lohith-bellad/leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -688,6 +690,7 @@
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/lohith-bellad/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -757,6 +760,7 @@
 | [0715-range-module](https://github.com/lohith-bellad/leetcode/tree/main/0715-range-module/) | Hard |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2762-continuous-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 ## Stack
@@ -1029,6 +1033,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0359-logger-rate-limiter](https://github.com/lohith-bellad/leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -1216,6 +1221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
+| [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 ## Splay Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
