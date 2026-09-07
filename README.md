@@ -299,6 +299,7 @@
 | [1288-remove-covered-intervals](https://github.com/lohith-bellad/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lohith-bellad/leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/lohith-bellad/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lohith-bellad/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -503,6 +504,7 @@
 | [0715-range-module](https://github.com/lohith-bellad/leetcode/tree/main/0715-range-module/) | Hard |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [1146-snapshot-array](https://github.com/lohith-bellad/leetcode/tree/main/1146-snapshot-array/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lohith-bellad/leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -764,6 +766,7 @@
 | [0678-valid-parenthesis-string](https://github.com/lohith-bellad/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lohith-bellad/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/lohith-bellad/leetcode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/lohith-bellad/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Simulation
