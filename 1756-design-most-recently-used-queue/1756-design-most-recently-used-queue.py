@@ -11,9 +11,10 @@ class MRUQueue:
         
         self.nums[-1] = elem
         return elem
+# Your MRUQueue object will be instantiated and called as such:
+# obj = MRUQueue(n)
+# param_1 = obj.fetch(k)
         
-
-
 # Your MRUQueue object will be instantiated and called as such:
 # obj = MRUQueue(n)
 # param_1 = obj.fetch(k)
