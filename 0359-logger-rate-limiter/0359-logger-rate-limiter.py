@@ -19,17 +19,13 @@ class Logger:
         self.log_count_table = {}
 
     def shouldPrintMessage(self, timestamp: int, message: str) -> bool:
-        should_print = True
-
         if message in self.log_count_table:
             latest_print = self.log_count_table[message]
             if timestamp - latest_print < 10:
-                should_print = False
-            else:
-                self.log_count_table[message] = timestamp
-        else:
-            self.log_count_table[message] = timestamp
-        return should_print
+                return False
+        self.log_count_table[message] = timestamp
+
+        return True
 
 # Your Logger object will be instantiated and called as such:
 # obj = Logger()
