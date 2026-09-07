@@ -354,6 +354,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/0340-longest-substring-with-at-most-k-distinct-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0359-logger-rate-limiter](https://github.com/lohith-bellad/leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
@@ -491,6 +492,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0359-logger-rate-limiter](https://github.com/lohith-bellad/leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
@@ -1007,6 +1009,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0359-logger-rate-limiter](https://github.com/lohith-bellad/leetcode/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Merge Sort
