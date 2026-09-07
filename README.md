@@ -251,6 +251,7 @@
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lohith-bellad/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -490,6 +491,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0715-range-module](https://github.com/lohith-bellad/leetcode/tree/main/0715-range-module/) | Hard |
@@ -554,6 +556,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/lohith-bellad/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/lohith-bellad/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
@@ -646,6 +649,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/lohith-bellad/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/lohith-bellad/leetcode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
@@ -1003,6 +1007,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/lohith-bellad/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0362-design-hit-counter](https://github.com/lohith-bellad/leetcode/tree/main/0362-design-hit-counter/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
