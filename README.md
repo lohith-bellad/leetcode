@@ -308,6 +308,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lohith-bellad/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/lohith-bellad/leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -391,6 +392,7 @@
 | [0169-majority-element](https://github.com/lohith-bellad/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -502,6 +504,7 @@
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [1146-snapshot-array](https://github.com/lohith-bellad/leetcode/tree/main/1146-snapshot-array/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/lohith-bellad/leetcode/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -776,6 +779,7 @@
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/lohith-bellad/leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/lohith-bellad/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/lohith-bellad/leetcode/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -847,6 +851,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0707-design-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0707-design-linked-list/) | Medium |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -895,6 +900,7 @@
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/lohith-bellad/leetcode/tree/main/0460-lfu-cache/) | Hard |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1194,4 +1200,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lohith-bellad/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
+## Splay Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
 <!---LeetCode Topics End-->
