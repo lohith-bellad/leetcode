@@ -270,6 +270,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/lohith-bellad/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0733-flood-fill](https://github.com/lohith-bellad/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -365,6 +366,7 @@
 | [0588-design-in-memory-file-system](https://github.com/lohith-bellad/leetcode/tree/main/0588-design-in-memory-file-system/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0737-sentence-similarity-ii](https://github.com/lohith-bellad/leetcode/tree/main/0737-sentence-similarity-ii/) | Medium |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
@@ -413,6 +415,7 @@
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lohith-bellad/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
 | [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -576,6 +579,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/lohith-bellad/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/lohith-bellad/leetcode/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/lohith-bellad/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/lohith-bellad/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/lohith-bellad/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -733,6 +737,7 @@
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/lohith-bellad/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0939-minimum-area-rectangle](https://github.com/lohith-bellad/leetcode/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/lohith-bellad/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -1043,6 +1048,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/lohith-bellad/leetcode/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/lohith-bellad/leetcode/tree/main/0710-random-pick-with-blacklist/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
