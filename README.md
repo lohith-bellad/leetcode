@@ -850,6 +850,7 @@
 | [1143-longest-common-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/lohith-bellad/leetcode/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/lohith-bellad/leetcode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/lohith-bellad/leetcode/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lohith-bellad/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/lohith-bellad/leetcode/tree/main/3434-maximum-frequency-after-subarray-operation/) | Medium |
@@ -1145,6 +1146,7 @@
 | [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/lohith-bellad/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/lohith-bellad/leetcode/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
