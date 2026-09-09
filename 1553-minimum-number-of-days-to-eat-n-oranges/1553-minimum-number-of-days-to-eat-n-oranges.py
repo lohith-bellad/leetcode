@@ -1,5 +1,6 @@
 class Solution:
     def minDays(self, n: int) -> int:
+        """
         def dfs(rem_oranges):
             if rem_oranges <= 1:
                 return rem_oranges
@@ -15,3 +16,27 @@ class Solution:
 
         cache = {}
         return dfs(n)
+        """
+        queue = deque()
+        visited = set()
+        queue.append((n, 0))
+
+        while queue:
+            rem, level = queue.popleft()
+
+            if rem == 1:
+                return level + 1
+
+            if rem in visited:
+                continue
+            
+            visited.add(rem)
+
+            queue.append((rem - 1, level + 1))
+            
+            if rem % 2 == 0:
+                queue.append((rem // 2, level + 1))
+            
+            if rem % 3 == 0 :
+                queue.append((rem // 3, level + 1))
+        
