@@ -4,7 +4,7 @@ class Solution:
             if unit == stones[-1]:
                 return True
 
-            if unit not in stones:
+            if unit not in stones_set:
                 return False
 
             if (unit, jump) in cache:
@@ -22,4 +22,5 @@ class Solution:
             return cache[(unit, jump)]
         
         cache = {}
+        stones_set = set(stones)
         return dfs(stones[0] + 1, 1)
