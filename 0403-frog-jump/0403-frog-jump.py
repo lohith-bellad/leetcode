@@ -10,15 +10,11 @@ class Solution:
             if (unit, jump) in cache:
                 return cache[(unit, jump)]
 
-            long_jump = dfs(unit + jump + 1, jump + 1)
+            result = (dfs(unit + jump + 1, jump + 1) or
+                    dfs(unit + jump, jump) or
+                    (jump > 1 and dfs(unit + jump - 1, jump - 1)))
 
-            short_jump = False
-            if jump != 1:
-                short_jump = dfs(unit + jump - 1, jump - 1)
-            
-            med_jump = dfs(unit + jump, jump)
-
-            cache[(unit, jump)] = long_jump or short_jump or med_jump
+            cache[(unit, jump)] = result
             return cache[(unit, jump)]
         
         cache = {}
