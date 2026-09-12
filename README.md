@@ -279,6 +279,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/lohith-bellad/leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0759-employee-free-time](https://github.com/lohith-bellad/leetcode/tree/main/0759-employee-free-time/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/lohith-bellad/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0809-expressive-words](https://github.com/lohith-bellad/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
@@ -462,6 +463,7 @@
 | [0647-palindromic-substrings](https://github.com/lohith-bellad/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0696-count-binary-substrings](https://github.com/lohith-bellad/leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0809-expressive-words](https://github.com/lohith-bellad/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0832-flipping-an-image](https://github.com/lohith-bellad/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/lohith-bellad/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
@@ -653,6 +655,7 @@
 | [0763-partition-labels](https://github.com/lohith-bellad/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/lohith-bellad/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/lohith-bellad/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0809-expressive-words](https://github.com/lohith-bellad/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0848-shifting-letters](https://github.com/lohith-bellad/leetcode/tree/main/0848-shifting-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lohith-bellad/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/lohith-bellad/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
