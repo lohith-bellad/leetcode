@@ -15,7 +15,7 @@ class Solution:
             max_rooms = max(max_rooms, len(minHeap))
 
         return max_rooms
-        """
+        
         intervals.sort()
         min_heap = []
         output = 0
@@ -23,7 +23,6 @@ class Solution:
         for interval in intervals:
             if not min_heap:
                 heapq.heappush(min_heap, interval[1])
-
             else:
                 if min_heap[0] <= interval[0]:
                     heapq.heappop(min_heap)
@@ -31,4 +30,18 @@ class Solution:
 
             output = max(output, len(min_heap))
         
+        return output
+        """
+        intervals.sort()
+        output = 0
+        rooms = []
+
+        for start, end in intervals:
+            while rooms and rooms[0] <= start:
+                heapq.heappop(rooms)
+
+            heapq.heappush(rooms, end)
+
+            output = max(output, len(rooms))
+
         return output
