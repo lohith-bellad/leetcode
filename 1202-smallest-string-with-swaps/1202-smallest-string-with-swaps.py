@@ -34,6 +34,7 @@ class Solution:
 
         groups = defaultdict(list)
 
+        """
         for i in range(n):
             groups[uf.find_parent(i)].append(i)
 
@@ -44,3 +45,16 @@ class Solution:
                 output[i] = ch
 
         return "".join(output)
+        """
+        for i in range(len(s)):
+            groups[uf.find_parent(i)].append(s[i])
+
+        for group in groups.values():
+            group.sort(reverse=True)
+
+        output = ""
+
+        for i in range(len(s)):
+            output += groups[uf.find_parent(i)].pop()
+
+        return output
