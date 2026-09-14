@@ -739,6 +739,7 @@
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0319-bulb-switcher](https://github.com/lohith-bellad/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/lohith-bellad/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/lohith-bellad/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohith-bellad/leetcode/tree/main/0415-add-strings/) | Easy |
@@ -896,6 +897,7 @@
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/lohith-bellad/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0426-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/lohith-bellad/leetcode/tree/main/0426-convert-binary-search-tree-to-sorted-doubly-linked-list/) | Medium |
@@ -969,6 +971,7 @@
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0542-01-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/lohith-bellad/leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0695-max-area-of-island](https://github.com/lohith-bellad/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -1247,4 +1250,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
