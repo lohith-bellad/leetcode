@@ -237,6 +237,7 @@
 | [0189-rotate-array](https://github.com/lohith-bellad/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/lohith-bellad/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0213-house-robber-ii](https://github.com/lohith-bellad/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/lohith-bellad/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -482,6 +483,7 @@
 | [0130-surrounded-regions](https://github.com/lohith-bellad/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/lohith-bellad/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/lohith-bellad/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0311-sparse-matrix-multiplication](https://github.com/lohith-bellad/leetcode/tree/main/0311-sparse-matrix-multiplication/) | Medium |
@@ -634,6 +636,7 @@
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0205-isomorphic-strings](https://github.com/lohith-bellad/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -1032,6 +1035,7 @@
 | [0139-word-break](https://github.com/lohith-bellad/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0588-design-in-memory-file-system](https://github.com/lohith-bellad/leetcode/tree/main/0588-design-in-memory-file-system/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/lohith-bellad/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/lohith-bellad/leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -1123,6 +1127,7 @@
 | [0078-subsets](https://github.com/lohith-bellad/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/lohith-bellad/leetcode/tree/main/0079-word-search/) | Medium |
 | [0140-word-break-ii](https://github.com/lohith-bellad/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0489-robot-room-cleaner](https://github.com/lohith-bellad/leetcode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [0494-target-sum](https://github.com/lohith-bellad/leetcode/tree/main/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/lohith-bellad/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
