@@ -311,6 +311,7 @@
 | [1539-kth-missing-positive-number](https://github.com/lohith-bellad/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/lohith-bellad/leetcode/tree/main/1570-dot-product-of-two-sparse-vectors/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lohith-bellad/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1756-design-most-recently-used-queue](https://github.com/lohith-bellad/leetcode/tree/main/1756-design-most-recently-used-queue/) | Medium |
@@ -498,6 +499,7 @@
 | [0867-transpose-matrix](https://github.com/lohith-bellad/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/lohith-bellad/leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/lohith-bellad/leetcode/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/lohith-bellad/leetcode/tree/main/2018-check-if-word-can-be-placed-in-crossword/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -593,6 +595,7 @@
 | [1146-snapshot-array](https://github.com/lohith-bellad/leetcode/tree/main/1146-snapshot-array/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/lohith-bellad/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/lohith-bellad/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/lohith-bellad/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2560-house-robber-iv](https://github.com/lohith-bellad/leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -701,6 +704,7 @@
 | [1046-last-stone-weight](https://github.com/lohith-bellad/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/lohith-bellad/leetcode/tree/main/1167-minimum-cost-to-connect-sticks/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lohith-bellad/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/lohith-bellad/leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1825-finding-mk-average](https://github.com/lohith-bellad/leetcode/tree/main/1825-finding-mk-average/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/lohith-bellad/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -919,6 +923,7 @@
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/lohith-bellad/leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1666-change-the-root-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/1666-change-the-root-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
@@ -984,6 +989,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/lohith-bellad/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lohith-bellad/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2445-number-of-nodes-with-value-one](https://github.com/lohith-bellad/leetcode/tree/main/2445-number-of-nodes-with-value-one/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -1097,6 +1103,7 @@
 | [0827-making-a-large-island](https://github.com/lohith-bellad/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/lohith-bellad/leetcode/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/lohith-bellad/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/lohith-bellad/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1146,6 +1153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/lohith-bellad/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/lohith-bellad/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Linear Algebra
 | Problem Name | Difficulty |
 | ------- | ------- |
