@@ -244,6 +244,7 @@
 | [0252-meeting-rooms](https://github.com/lohith-bellad/leetcode/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/lohith-bellad/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0265-paint-house-ii](https://github.com/lohith-bellad/leetcode/tree/main/0265-paint-house-ii/) | Hard |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0283-move-zeroes](https://github.com/lohith-bellad/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0296-best-meeting-point](https://github.com/lohith-bellad/leetcode/tree/main/0296-best-meeting-point/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/lohith-bellad/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -641,6 +642,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/lohith-bellad/leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0224-basic-calculator](https://github.com/lohith-bellad/leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0273-integer-to-english-words](https://github.com/lohith-bellad/leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/lohith-bellad/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -901,6 +903,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/lohith-bellad/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lohith-bellad/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0366-find-leaves-of-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0366-find-leaves-of-binary-tree/) | Medium |
@@ -975,6 +978,7 @@
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/lohith-bellad/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lohith-bellad/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0279-perfect-squares](https://github.com/lohith-bellad/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/lohith-bellad/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/lohith-bellad/leetcode/tree/main/0365-water-and-jug-problem/) | Medium |
@@ -1110,6 +1114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lohith-bellad/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/lohith-bellad/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0444-sequence-reconstruction](https://github.com/lohith-bellad/leetcode/tree/main/0444-sequence-reconstruction/) | Medium |
 | [0765-couples-holding-hands](https://github.com/lohith-bellad/leetcode/tree/main/0765-couples-holding-hands/) | Hard |
@@ -1200,11 +1205,13 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0444-sequence-reconstruction](https://github.com/lohith-bellad/leetcode/tree/main/0444-sequence-reconstruction/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0269-alien-dictionary](https://github.com/lohith-bellad/leetcode/tree/main/0269-alien-dictionary/) | Hard |
 | [0444-sequence-reconstruction](https://github.com/lohith-bellad/leetcode/tree/main/0444-sequence-reconstruction/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/lohith-bellad/leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Eulerian Circuit
